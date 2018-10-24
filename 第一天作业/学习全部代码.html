@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	姓名：<input type="text" id="xing"><span></span><br>
+	密码：<input type="password" id="mi"><br>
+	生日：<input type="text" id="sheng"><br>
+	性别：
+	<input type="radio" name="sex"  value="男" checked="checked">男
+    <input type="radio" name="sex" value="女">女<br>
+    	爱好：
+		<input type="checkbox" value="吃饭" name="1">吃饭
+		<input type="checkbox" value="睡觉" name="1">睡觉
+		<input type="checkbox" value="打豆豆" name="1">打豆豆<br>
+    	住址：<select name="" id="zhu">
+			<option value="陕西">陕西</option>
+			<option value="山西">山西</option>
+    		</select>省
+    		<select name="" id="zhu1">
+			<option value="西安">西安</option>
+			<option value="渭南">渭南</option>
+    		</select>市<br>
+    	留言：<textarea name="" id="liu"></textarea><br>
+    	<input type="button" value="添加信息" id="tian">
+    	 <input type="button" value="删除所有" id="shan">
+    	 <input type="button" value="删除选中" id="zhong">
+    	<input type="button" value="全选" id="quan">
+    	<input type="button" value="全不选" id="bu">
+    	<input type="button" value="反选" id="fan">
+    	<input type="text" id="so"><input type="button" value="搜索" id="sou">
+   <div style="text-align: center;">
+    	<table border="1px" width="1000px" height="50px" cellspacing="0px">
+		<tr>
+			<td>全选</td>
+			<td>ID</td>
+			<td>姓名</td>
+			<td>密码</td>
+			<td>生日</td>
+			<td>年龄</td>
+			<td>性别</td>
+			<td>爱好</td>
+			<td>住址</td>
+			<td>留言</td>
+			<td>添加日期</td>
+			<td>操作</td>
+		</tr>
+    	</table>
+    </div>
+</body>
+<script src="jq.js"></script>
+<script>
+	//ID
+	function ch(){
+		 $(".ch").each(function(i,e){//i:index(下标)     e:Element(当前的元素)=this
+			$(this).text(i+1)
+		})
+	}
+//隔行换色
+	function color(){
+		$("tr:even:gt(0)").css("background-color","gray")
+		$("tr:odd").css("background-color","pink")
+	}
+
+	$("#tian").click(function(){
+//获取元素
+		var zhao=$("#xing").val()//姓名
+		var zhao1=$("#mi").val()//密码
+		var zhao2=$("#sheng").val()//生日
+		var zhao3=$('input:radio:checked').val()//性别
+		var zhao4=$('input[name="1"]:checked').map(function(){//把每个元素通过函数传递到当前匹配集合中，生成包含返回值的新的jQuery对象
+		return this.value;}).get().join(",");//爱好
+		var zhao5=$("#zhu").val()//住址
+		var zhao6=$("#zhu1").val()//住址1
+		var zhao7=$("#liu").val()//留言板
+//创建元素
+		var $tr=$("<tr></tr>")
+		var $td1=$("<td><input type='checkbox' class='che'/></td>")
+		var $td2=$("<td class='ch'></td>")
+		var $td3=$("<td class='xm'></td>")
+		var $td4=$("<td></td>")
+		var $td5=$("<td></td>")
+		var $td6=$("<td></td>")
+		var $td7=$("<td></td>")
+		var $td8=$("<td></td>")
+		var $td9=$("<td></td>")
+		var $td10=$("<td></td>")
+		var $td11=$("<td></td>")
+		var $td12=$("<td><input type='button' value='删除' class='ss'/></td>")
+		var $s=new Date()
+//添加元素
+		$("table").append($tr)
+		$tr.append($td1)
+		$tr.append($td2)
+		$tr.append($td3)
+		$tr.append($td4)
+		$tr.append($td5)
+		$tr.append($td6)
+		$tr.append($td7)
+		$tr.append($td8)
+		$tr.append($td9)
+		$tr.append($td10)
+		$tr.append($td11)
+		$tr.append($td12)
+//文本转化
+		$td3.text(zhao)
+		$td4.text(zhao1)
+		$td5.text(zhao2)
+		$td7.text(zhao3)
+		$td8.text(zhao4)
+		$td9.text(zhao5+"省"+zhao6+"市")
+		$td10.text(zhao7)
+		$td11.text($s.toLocaleString())
+		//ID索引
+		ch()
+		//隔行换色
+		color()
+//全选
+		$("#quan").click(function(){
+			$("table input").prop("checked",true)
+		})
+//全不选
+		$("#bu").click(function(){
+			$("table input").prop("checked",false)
+		})
+//删除所有
+		$("#shan").click(function(){
+			$("tr:gt(0)").remove()
+		})
+//删除选中
+		$("#zhong").click(function(){
+			$("table input:checked").parents("tr").remove()
+		})
+//删除
+		$(".ss").click(function(){
+			$(this).parent().parent().remove()
+			ch()
+			color()
+		})
+//反选
+		$("#fan").click(function(){
+			$("table input").each(function(i,e){
+				e.checked = !e.checked
+			})
+		})
+//搜索
+		$("#sou").click(function(){
+			var str=$("#so").val()
+			$(".xm").not(":contains("+str+")").parent().hide()
+		})
+//表单验证姓名
+		$("#xing").focus(function(){
+			$("span:eq(0)").text("请输入姓名")
+			$("span:eq(0)").css("color","red")
+		})
+		$("#tian").blur(function(){
+			var s=$("#xing").val()
+			if (isNaN(s)==false) {
+				$("span:eq(0)").text("正确");
+				$("span:eq(0)").css("color","#f00")
+			}else{
+					if (s.length<=4) {
+						$("span:eq(0)").text("输入正确");
+						$("span:eq(0)").css("color","green")
+					}else{
+						$("span:eq(0)").text("输入错误");
+						$("span:eq(0)").css("color","pink")
+					}
+			}
+		})
+		
+})
+
+
+</script>
+</html>

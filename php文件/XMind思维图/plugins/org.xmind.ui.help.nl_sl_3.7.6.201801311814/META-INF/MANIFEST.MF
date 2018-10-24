@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.xmind.ui.help.nl_sl;singleton:=true
+Bundle-Name: XMind Help Slovenian Language Support
+Bundle-Version: 3.7.6.201801311814
+Archiver-Version: Plexus Archiver
+Built-By: frankshaka
+Bundle-ManifestVersion: 2
+Bundle-Vendor: XMind Ltd.
+Fragment-Host: org.xmind.ui.help
+Created-By: Apache Maven 3.3.3
+Build-Jdk: 1.8.0_152
+Eclipse-BundleShape: dir
+
+Name: about.html
+SHA-256-Digest: zIP/do0RthmafXjThr5FKRgwokiG8oPXBVIhy6B3atk=
+
+Name: plugin_sl.properties
+SHA-256-Digest: R6AEVaGPnEDkJzGjOVTF79uAl2fBaiOzCS5shOuAn/g=
+
+Name: META-INF/maven/org.xmind.help.plugins/org.xmind.ui.help.nl_sl/po
+ m.xml
+SHA-256-Digest: dY7BFR1RJG4NNgCGElr6tOzZgSuJWWI9Q/uxdXAh6jA=
+
+Name: META-INF/maven/org.xmind.help.plugins/org.xmind.ui.help.nl_sl/po
+ m.properties
+SHA-256-Digest: coAk76LBi+U7EuRx2hhntDsroaiVxcSbn27kViMgJ6c=
+

@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: frankshaka
+Created-By: Apache Maven 3.3.3
+Build-Jdk: 1.8.0_152
+
+Name: lgpl-3.0.html
+SHA-256-Digest: jM2MYnm7GRKhxBRGhhhBWsfQDkHKEQUyp2S/IiaSu8U=
+
+Name: epl-v10.html
+SHA-256-Digest: vfJExXi+UlFkz0zzrxwuFhzMP/g8dBt1l9iG+FDWt8Y=
+
+Name: feature.xml
+SHA-256-Digest: LzGZyDhEHLimxEO+VytoQUySZhlPmhvw/qRb4c0gHcs=
+
+Name: license.html
+SHA-256-Digest: zIP/do0RthmafXjThr5FKRgwokiG8oPXBVIhy6B3atk=
+

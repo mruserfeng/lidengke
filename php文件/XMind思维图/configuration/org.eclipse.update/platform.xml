@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1517451782992" transient="false">
+	<site updateable="true" url="platform:/base/" enabled="true" policy="USER-EXCLUDE">
+		<feature id="net.xmind.workbench.feature" version="3.7.6.201801311814" url="features/net.xmind.workbench.feature_3.7.6.201801311814/">
+		</feature>
+		<feature id="org.xmind.share.general.nls.feature" version="3.7.6.201801311814" url="features/org.xmind.share.general.nls.feature_3.7.6.201801311814/">
+		</feature>
+		<feature id="net.xmind.workbench.nls.feature" version="3.7.6.201801311814" url="features/net.xmind.workbench.nls.feature_3.7.6.201801311814/">
+		</feature>
+		<feature id="org.xmind.share.biggerplate.nls.feature" version="3.7.6.201801311814" url="features/org.xmind.share.biggerplate.nls.feature_3.7.6.201801311814/">
+		</feature>
+		<feature id="org.xmind.meggy.feature" version="3.7.6.201801311814" url="features/org.xmind.meggy.feature_3.7.6.201801311814/" plugin-identifier="org.xmind.meggy">
+		</feature>
+		<feature id="org.xmind.share.localnetwork.feature" version="3.7.6.201801311814" url="features/org.xmind.share.localnetwork.feature_3.7.6.201801311814/">
+		</feature>
+		<feature id="org.xmind.share.evernote.nls.feature" version="3.7.6.201801311814" url="features/org.xmind.share.evernote.nls.feature_3.7.6.201801311814/">
+		</feature>
+		<feature id="org.xmind.ui.iconfinder.nls.feature" version="3.7.6.201801311814" url="features/org.xmind.ui.iconfinder.nls.feature_3.7.6.201801311814/">
+		</feature>
+		<feature id="org.xmind.meggy.nls.feature" version="3.7.6.201801311814" url="features/org.xmind.meggy.nls.feature_3.7.6.201801311814/">
+		</feature>
+		<feature id="org.xmind.cathy.feature" version="3.7.6.201801311814" url="features/org.xmind.cathy.feature_3.7.6.201801311814/">
+		</feature>
+		<feature id="org.xmind.cathy.nls.feature" version="3.7.6.201801311814" url="features/org.xmind.cathy.nls.feature_3.7.6.201801311814/">
+		</feature>
+		<feature id="org.xmind.help.feature" version="3.7.6.201801311814" url="features/org.xmind.help.feature_3.7.6.201801311814/">
+		</feature>
+		<feature id="org.xmind.share.localnetwork.nls.feature" version="3.7.6.201801311814" url="features/org.xmind.share.localnetwork.nls.feature_3.7.6.201801311814/">
+		</feature>
+		<feature id="org.xmind.ui.iconfinder.feature" version="3.7.6.201801311814" url="features/org.xmind.ui.iconfinder.feature_3.7.6.201801311814/">
+		</feature>
+		<feature id="org.xmind.share.general.feature" version="3.7.6.201801311814" url="features/org.xmind.share.general.feature_3.7.6.201801311814/">
+		</feature>
+		<feature id="org.xmind.cathy.platform.nls.feature" version="3.7.6.201801311814" url="features/org.xmind.cathy.platform.nls.feature_3.7.6.201801311814/">
+		</feature>
+		<feature id="org.xmind.hebe.nls.feature" version="3.7.6.201801311814" url="features/org.xmind.hebe.nls.feature_3.7.6.201801311814/">
+		</feature>
+		<feature id="org.xmind.share.evernote.feature" version="3.7.6.201801311814" url="features/org.xmind.share.evernote.feature_3.7.6.201801311814/">
+		</feature>
+		<feature id="org.xmind.help.nls.feature" version="3.7.6.201801311814" url="features/org.xmind.help.nls.feature_3.7.6.201801311814/">
+		</feature>
+		<feature id="org.xmind.cathy.platform.feature" version="3.7.6.201801311814" url="features/org.xmind.cathy.platform.feature_3.7.6.201801311814/">
+		</feature>
+		<feature id="org.xmind.share.biggerplate.feature" version="3.7.6.201801311814" url="features/org.xmind.share.biggerplate.feature_3.7.6.201801311814/">
+		</feature>
+		<feature id="org.xmind.graphicsio.feature" version="3.7.6.201801311814" url="features/org.xmind.graphicsio.feature_3.7.6.201801311814/">
+		</feature>
+		<feature id="org.xmind.hebe.feature" version="3.7.6.201801311814" url="features/org.xmind.hebe.feature_3.7.6.201801311814/">
+		</feature>
+	</site>
+</config>

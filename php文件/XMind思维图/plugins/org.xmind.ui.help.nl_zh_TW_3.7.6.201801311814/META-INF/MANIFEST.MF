@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.xmind.ui.help.nl_zh_TW;singleton:=true
+Bundle-Name: XMind Help Chinese (Traditional) Language Support
+Bundle-Version: 3.7.6.201801311814
+Archiver-Version: Plexus Archiver
+Built-By: frankshaka
+Bundle-ManifestVersion: 2
+Bundle-Vendor: XMind Ltd.
+Fragment-Host: org.xmind.ui.help
+Created-By: Apache Maven 3.3.3
+Build-Jdk: 1.8.0_152
+Eclipse-BundleShape: dir
+
+Name: about.html
+SHA-256-Digest: zIP/do0RthmafXjThr5FKRgwokiG8oPXBVIhy6B3atk=
+
+Name: plugin_zh_TW.properties
+SHA-256-Digest: co4Lc/zM2YQK+xSqu1AxMbC6APEoq6+vQP9/QJVKk/I=
+
+Name: META-INF/maven/org.xmind.help.plugins/org.xmind.ui.help.nl_zh_TW
+ /pom.properties
+SHA-256-Digest: Jr4yx3lXPKdRnK295db3FSxjYm1aHHpVjvwXCt5Ay6Q=
+
+Name: META-INF/maven/org.xmind.help.plugins/org.xmind.ui.help.nl_zh_TW
+ /pom.xml
+SHA-256-Digest: upveY9I/nm8sNK0lE+mdiBzGhFGGrzRkjQ0sGl34Dj0=
+

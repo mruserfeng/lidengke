@@ -1,0 +1,92 @@
+一、get和post的区别
+1. get是从服务器上获取数据，post是向服务器传送数据。
+2. get是把参数数据队列加到提交表单的ACTION属性所指的URL中，值和表单内各个字段一一对应，在URL中可以看到。post是通过HTTP post机制，
+   将表单内各个字段与其内容放置在HTML HEADER内一起传送到ACTION属性所指的URL地址。用户看不到这个过程。
+3. 对于get方式，服务器端用Request.QueryString获取变量的值，对于post方式，服务器端用Request.Form获取提交的数据。
+4. get传送的数据量较小，不能大于2KB。post传送的数据量较大，一般被默认为不受限制。但理论上，IIS4中最大量为80KB，IIS5中为100KB。(IIS互联网信息服务)
+5. get安全性非常低，post安全性较高。但是执行效率却比Post方法好。
+
+
+
+二、session与cookie的区别
+1、cookie数据存放在客户的浏览器上，session数据放在服务器上。
+2、cookie不是很安全，别人可以分析存放在本地的COOKIE并进行COOKIE欺骗
+?? 考虑到安全应当使用session。
+3、session会在一定时间内保存在服务器上。当访问增多，会比较占用你服务器的性能
+?? 考虑到减轻服务器性能方面，应当使用COOKIE。
+4、单个cookie保存的数据不能超过4K，88
+5、所以个人建议： 
+?? 将登陆信息等重要信息存放为SESSION
+?? 其他信息如果需要保留，可以放在COOKIE中
+
+
+四、PHP打印 日期
+<?php
+echo date('Y-m-d H:i:s', strtotime('-1 day'));?//前一天
+echo '<br>';
+echo date('Y-m-d H:i:s', strtotime('-1 week'));//前一周
+echo '<br>';
+echo date('Y-m-d H:i:s');//现在时间
+echo '<br>';
+echo date('Y-m-d H:i:s', strtotime('next Monday'));//下一个星期一
+echo '<br>';
+echo date('Y-m-d H:i:s', strtotime('last Monday'));//上一个星期一
+echo “现在的时间是：” .date(h:i:sa);  //a - 小写的上午和午后（am 或 pm）
+?>
+/*  时间差  */
+<?php 0
+$startdate	=	strtotime("2012-01-01");
+$enddate		=	strtotime("2012-02-14");
+$days	=	round(($enddate-$startdate) / 86400)+1;
+echo?$days;
+?>
+1，Session与cookie的区别？Cookie被禁用了 sesssion 能否使用，为什么？
+1，session是存储在服务器端的，cookie是存储在客户端的，所以session的安全性要高于cookie。
+2，再者，我们获取的session里的信息是通过存放在会话cookie里的session获取的
+3，因为session是存放在服务器里的，所以session里的东西不断增加会增加服务器的负担，我们会把一些重要的东西放在session里，不太重要的放在客户端cookie里
+4，cookie分为两大类，一个是会话cookie和持久化cookie，他们的生命周期和浏览器是一致的，浏览器关了会话cooki也就消失了，而持久化会存储在客户端硬盘中。
+5，当浏览器关闭的时候回话cookie也就消失所以我们的session也就消失了，session在什么情况下丢失，就是在服务器关闭的时候，或者是session过期（30分钟默认）。
+可以，在存储session的文件中，生成sessionID，通过get传参的方式将sessionID传到要实现session共享的页面，读取sessionID，从而从session中获取数据；
+2，设么是xss攻击？如何防范？
+xss是一门又热门又不太受重视的Web攻击手法
+在将不可信数据插入到HTML标签之间时，对这些数据进行HTML Entity编码
+使用富文本时，使用XSS规则引擎进行编码过滤
+在将不可信数据插入到Style属性里时，对这些数据进行CSS编码                                                                                 
+在将不可信数据插入到HTML URL里时，对这些数据进行URL编码
+在将不可信数据插入到SCRIPT里时，对这些数据进行SCRIPT编码
+在将不可信数据插入到HTML属性里时，对这些数据进行HTML属性编码
+
+php一共分为五大运行模式：包括cgi 、fast-cgi、cli、isapi、apache 模块的 DLLCGI
+CGI即通用网关接口(Common Gateway Interface)，它是一段程序，通俗的讲CGI就象是一座桥，
+把网页和WEB服务器中的执行程序连接起来，它把HTML接收的指令传递给服务器的执 行程序，
+再把服务器执行程序的结果返还给HTML页。CGI 的跨平台性能极佳，几乎可以在任何操作系统上实现。
+CGI方式在遇到连接请求（用户 请求）先要创建cgi的子进程，激活一个CGI进程，然后处理请求
+，处理完后结束这个子进程。这就是fork-and-execute模式。所以用cgi 方式的服务器有多少
+连接请求就会有多少cgi子进程，子进程反复加载是cgi性能低下的主要原因。都会当用户请求数
+量非常多时，会大量挤占系统的资源如内 存，CPU时间等，造成效能低下。CGI-FCGI
+fast-cgi 是cgi的升级版本，FastCGI像是一个常驻(long-live)型的CGI，它可以一直执行着，
+只要激活后，不会每次都要花费时间去fork一 次。PHP使用PHP-FPM(FastCGI Process Manager)，全称PHP FastCGI进程管理器进行管理。FastCGI的工作原理
+1、Web Server启动时载入FastCGI进程管理器(IIS ISAPI或Apache Module)
+2、FastCGI进程管理器自身初始化，启动多个CGI解释器进程(可见多个php-cgi)并等待来自Web Server的连接。
+3、当客户端请求到达Web Server时，FastCGI进程管理器选择并连接到一个CGI解释器。
+Web server将CGI环境变量和标准输入发送到FastCGI子进程php-cgi。
+4、 FastCGI子进程完成处理后将标准输出和错误信息从同一连接返回Web Server。当FastCGI子进程关闭连接时，
+请求便告处理完成。FastCGI子进程接着等待并处理来自FastCGI进程管理器(运行在Web Server中)的下一个连接。 
+在CGI模式中，php-cgi在此便退出了。在上述情况中，你可以想象CGI通常有多慢。
+每一个Web 请求PHP都必须重新解析php.ini、重新载入全部扩展并重初始化全部数据结构。
+使用FastCGI，所有这些都只在进程启动时发生一次。一个额外的 好处是，
+持续数据库连接(Persistent database connection)可以工作。APACHE2HANDLER
+PHP作为Apache模块，Apache服务器在系统启动后，预先生成多个进程副本驻留在内存中，
+一旦有请求出 现，就立即使用这些空余的子进程进行处理，这样就不存在生成子进程造成的延迟了。
+这些服务器副本在处理完一次HTTP请求之后并不立即退出，而是停留在计 算机中等待下次请求。
+对于客户浏览器的请求反应更快，性能较高。
+apache模块的DLL：
+该运行模式是我们以前在windows环境下使用apache服务器经常使用的，而在模块化(DLL)中，
+PHP是与Web服务器一起启动并运行的。（是apache在CGI的基础上进行的一种扩展，加快PHP的运行效率）ISAPI:
+ISAPI即Internet Server Application Program Interface，是微软提供的一套面向Internet服务的API接口
+一个ISAPI的DLL，可以在被用户请求激活后长驻内存，等待用户的另一个请求，还可以在一个DLL里设置多个用户请求处理函数，此外，
+ISAPI的DLL应用程序和WWW服务器处于同一个进程中，效率要显著高于CGI。（由于微软的排他性，只能运行于windows环境)cli:
+cli是php的命令行运行模式，大家经常会使用它，但是可能并没有注意到
+（例如：我们在linux下经常使用 “php -m”查找PHP安装了那些扩展就是PHP命令行运行模式；有兴趣的同学可以输入php -h去深入研究该运行模式）
+总结：
+每种运行模式都有自己的优缺点，没有绝对的好与坏，主要是看大家处理何种环境。

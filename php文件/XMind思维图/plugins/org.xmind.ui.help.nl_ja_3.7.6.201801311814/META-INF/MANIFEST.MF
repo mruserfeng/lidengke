@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.xmind.ui.help.nl_ja;singleton:=true
+Bundle-Name: XMind Help Japanese Language Support
+Bundle-Version: 3.7.6.201801311814
+Archiver-Version: Plexus Archiver
+Built-By: frankshaka
+Bundle-ManifestVersion: 2
+Bundle-Vendor: XMind Ltd.
+Fragment-Host: org.xmind.ui.help
+Created-By: Apache Maven 3.3.3
+Build-Jdk: 1.8.0_152
+Eclipse-BundleShape: dir
+
+Name: about.html
+SHA-256-Digest: zIP/do0RthmafXjThr5FKRgwokiG8oPXBVIhy6B3atk=
+
+Name: META-INF/maven/org.xmind.help.plugins/org.xmind.ui.help.nl_ja/po
+ m.xml
+SHA-256-Digest: fA/qCOsulSOnduhlMiNwV66XP82yoNzmNBQuuqBO2Ig=
+
+Name: META-INF/maven/org.xmind.help.plugins/org.xmind.ui.help.nl_ja/po
+ m.properties
+SHA-256-Digest: K2HJ0cWrTHg/CgJ3//BzzBd5hHZLqvh89AkTEHb4e8M=
+
+Name: plugin_ja.properties
+SHA-256-Digest: RW3pHpysdmtqR4Nsyna42aBD/CyHLF1IoeUet7P9k0Y=
+

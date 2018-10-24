@@ -1,0 +1,293 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: jPwS/WL3SICS2Hjqui5Bs//iadCdw
+ eNNe/bpK3sfTfM=
+SHA-256-Digest-Manifest: rUg5GnB9rokDlfotU99sIReCgHy9svYrrLMHmRlQdtc=
+Created-By: 1.8.0_152 (Oracle Corporation)
+
+Name: images/Education/bag.png
+SHA-256-Digest: TS7fwj8YdYLa9awBpe3hT1k9mEEe3w6VgR0b2c4I9HA=
+
+Name: images/Education/glasses.png
+SHA-256-Digest: 7Pl0J3hnRGAFGaZndM8ZNyIjyJ7xMzAh/0jqu+LDArU=
+
+Name: images/Education/flag.png
+SHA-256-Digest: 0g9DWuLdl8yuuFqw8r3sws+VqbVkZxISI1V14PiX46o=
+
+Name: images/Education/Erlenmeyerflasks@2x.png
+SHA-256-Digest: wvfGY17ixlKmY7cCQmL0Z/7TAtrY3N1We8XQHenQhQo=
+
+Name: images/Business/Contact@2x.png
+SHA-256-Digest: 7T4TKiCcD+Rq4QBPu1PMoqD6pd6BYPcDiiwPuwFITbM=
+
+Name: images/Education/Triangle.png
+SHA-256-Digest: oTN+NgrXMa39et4UwuV6XX0Rdy11cTPq4qz/BG+/qYc=
+
+Name: META-INF/maven/org.xmind.meggy.plugins/org.xmind.ui.gallery.reso
+ urces/pom.properties
+SHA-256-Digest: A8hmGWSEaRzarXxSZ0cO77aU8GUCBu+gFVo4Dkswqyw=
+
+Name: images/Business/news@2x.png
+SHA-256-Digest: 8BWJOgvrElRFMn8mPENMaZEmbIPLfMkZ8XOZUiBIsfc=
+
+Name: images/Education/globe.png
+SHA-256-Digest: TwdQIEwXzKHlOOs0xbJWxGOatTEnrcefqma+hfRQrW8=
+
+Name: images/Education/Drcap.png
+SHA-256-Digest: +g6cNHx7P9LmV7Wr/BZQL7BFOIfDj/6XBJ8qCChLU4g=
+
+Name: images/Education/Palette.png
+SHA-256-Digest: Lf7yzkJKwioa8fou36BODNsN9GBeVyU8gfjpsbAAmT0=
+
+Name: images/Business/voice@2x.png
+SHA-256-Digest: SSUUV13dLCGjmie0GkHh2y0Hy8kVe++apb/W2NAioxs=
+
+Name: images/Business/Printer@2x.png
+SHA-256-Digest: mGBp/ORgnAlY//BgcuPOkMiQeEGj4A2V4iZGrYkVuAk=
+
+Name: images/Education/blackboard.png
+SHA-256-Digest: E6VBk6YCQcPkDHopBvuXFCrDS2P09Em16AHmpr6wvIE=
+
+Name: images/Education/DNA@2x.png
+SHA-256-Digest: lZiPqzm0L3Tm7q6YszVWWI7TC35Zie0s6cXcFr13miU=
+
+Name: images/Business/Inbox.png
+SHA-256-Digest: RDVBFaTG7KO7eGM6i5uE6M5mp8H0nQuN1oO1j64Sv10=
+
+Name: images/Business/Folder@2x.png
+SHA-256-Digest: LHkmQ/j0n4xmV+PiaUHRH2mxawo1pP1yF+GoZ0H/tz8=
+
+Name: META-INF/maven/org.xmind.meggy.plugins/org.xmind.ui.gallery.reso
+ urces/pom.xml
+SHA-256-Digest: bAFQjDllhAZeKINVMPMABfSxIpsPFGq8C9hzadd8pMI=
+
+Name: images/Education/Triangle@2x.png
+SHA-256-Digest: N9UfWQ2ePIvPgSXipcPivYYGur64i/xn2CNuaMksjA8=
+
+Name: images/Education/glasses@2x.png
+SHA-256-Digest: hzNrverfD47CnOocZjpSgoVGIYwMbCsRAvHPjyUIDg0=
+
+Name: images/Business/team@2x.png
+SHA-256-Digest: 4hIr1A51U97C5JGSlgTorlbxioBNFFZRcOxIBnD7OnU=
+
+Name: images/Education/Paperboat@2x.png
+SHA-256-Digest: YSOhxbhsSs1oZOImYBsCfRqhcatIk/0kd0rV04gl8LU=
+
+Name: images/Business/Contact.png
+SHA-256-Digest: b9LqLURasMiz2MQcr6At5lbJBSDIREbsG0QuPQcabB0=
+
+Name: images/Business/Workcard@2x.png
+SHA-256-Digest: 5T1h1r9M0xsV1IHhi0CwN0XuNIAYD0bPkVFYxUHlW9I=
+
+Name: images/Business/Printer.png
+SHA-256-Digest: aq4qIoBavp5a5/yiLQq40hUKEpRGLGNcy3tpfMlLbOw=
+
+Name: images/imageGroups.properties
+SHA-256-Digest: geRxj7VE9zCyaOmyhQlIGoyQ2rLVq7xGyKgA0dXWilc=
+
+Name: images/Business/Balance@2x.png
+SHA-256-Digest: 895JQMIFjA7Xslo4skB0RryG+LTDLLZDNzvYXnW+jFk=
+
+Name: images/Business/Workcard.png
+SHA-256-Digest: OLZmZm18Zxv/IIo7OCoSYcaj0IDbBDgLUNY4/MHZ9GI=
+
+Name: images/Education/museum@2x.png
+SHA-256-Digest: CVlVs4uh1Pmc1lNE0Dlt6mVShkryXkz4Kj5OthTIRmw=
+
+Name: images/Business/Target@2x.png
+SHA-256-Digest: SHZnkBDKpPJ7SCqNsvep5eHQwQWpen2PKVU6B2dnZ7I=
+
+Name: images/Business/briefcase.png
+SHA-256-Digest: 9UFB3e70g2dVfxNO8M2upDni4ODqqv64pqI8BhOVjGw=
+
+Name: images/Business/voice.png
+SHA-256-Digest: +bMJWBV1o4NQJv6NTZWw/QkN7SGW2c6s9kXAW4wbVvw=
+
+Name: images/Business/FileSearch.png
+SHA-256-Digest: H7SkqMmLC4d/rtRzW5PjFxy7Yf0/MjawJrLtpqleEjo=
+
+Name: images/Education/Billiards@2x.png
+SHA-256-Digest: dVD6Mz9ry1FMOdDHJevejwBXjJQ/qo3Gc8pAzy8C5fY=
+
+Name: images/Business/ToDoList@2x.png
+SHA-256-Digest: s61vSQP7tmVl2gM4RPxCmUJqXHa4g16F48A/M1gtrsk=
+
+Name: images/Business/Inbox@2x.png
+SHA-256-Digest: +qBmO5fBxwdI5XQ7giUzz0WKPzqsLxatnxuQ4Ug2A2g=
+
+Name: images/Business/pen.png
+SHA-256-Digest: j5TgYuAmB31TbXDzXLUnYFA1uyJ8rmyWEIm8j0pE4dw=
+
+Name: images/Education/Hourglass@2x.png
+SHA-256-Digest: JGHQAwBtDpSP/JZ2lN/4r95EvKbwWapqXpFTYBp0M1E=
+
+Name: images/Business/Global@2x.png
+SHA-256-Digest: XaX3LNF/SlfTrg2994LLWhHlgzyMV8qAvNCeE404r50=
+
+Name: images/Education/music.png
+SHA-256-Digest: CPCjKFF4aB3HcR/p39vw1X/W3u7zXqPqA+ic+4bpUFo=
+
+Name: images/Education/music@2x.png
+SHA-256-Digest: 3/AD9Vyy2XwsWx+YvL0GU8rkTysD9UFPTcwBpYL8/Ok=
+
+Name: images/Education/Bear@2x.png
+SHA-256-Digest: sNGsBXJuBvbdzuLeyR0y4FAjfD/pLxtjjSNx2hDlm00=
+
+Name: images/Education/DNA.png
+SHA-256-Digest: Q8NuvepvN0sZVhnV14eohyJv79bzBHNb+pYVM8Pp+8w=
+
+Name: images/Business/Folder.png
+SHA-256-Digest: BHYSn9KosYxM1fncY1Amsbv+fgB6P7LQbvHap1uC8XI=
+
+Name: images/Business/Email@2x.png
+SHA-256-Digest: 25ovkLuIImHSCqUiKWfmsSvolNJQ6aO/IR9mYPOoBZE=
+
+Name: images/Business/USDollar@2x.png
+SHA-256-Digest: Ebtf3qX/RrsTnFLpqGuOPZA9Di4+pgCvFAoGtJ6wm30=
+
+Name: images/Business/Target.png
+SHA-256-Digest: Syfwwg8Nx01tC1MoWjzp6Fg4HtFLJl55a5tNTHgd9XA=
+
+Name: images/Education/Puzzle.png
+SHA-256-Digest: VgzN0opqPeeGRU0m5pgJfl7kEMoD5EwRMmet3QSL9Vc=
+
+Name: images/Business/briefcase@2x.png
+SHA-256-Digest: yuTOjyC2XHMAeGmHfgxHbWKLhrsYVdzv5zNA3jfpoDo=
+
+Name: images/Education/Hourglass.png
+SHA-256-Digest: SEE1QZSvYAVQvH3rW7yMO1YwnENWk7qIei7SEj+ppJw=
+
+Name: images/Education/flag@2x.png
+SHA-256-Digest: n7beWP9NYPAwDf9LwT0BPJ52/pwNnAE6IojWYhKwUQ0=
+
+Name: fragment_resources.properties
+SHA-256-Digest: Z6mE3wWtJIq+aE3EUDDzlQpckGZRcC5ZPowP/Su/Oc4=
+
+Name: images/Education/medal@2x.png
+SHA-256-Digest: zV4taKefPvCsBCLTrqMHy+U7kXXRr/ST/Jbp6Y7X1TI=
+
+Name: images/Education/Bear.png
+SHA-256-Digest: kvVeqjCeD+YqIXssKivkZmgYiJ79psZnBhCpcB69WS4=
+
+Name: images/Education/Drcap@2x.png
+SHA-256-Digest: 2ans6KjH0nQsprOrWDNsv2BkCMGD4QgU2MZp+NHqSl8=
+
+Name: images/Business/Trend@2x.png
+SHA-256-Digest: YZ3NeH3w9QUFnPX0WANf6eum9doVbcohDKfxLAcjVv0=
+
+Name: images/Business/Trend.png
+SHA-256-Digest: /YmmrKUIqsXDggw3Kz2iC7O/LrZr6vaaTKd+2SlISX8=
+
+Name: images/Business/Customer@2x.png
+SHA-256-Digest: v64gvgldLhvTMU+ZYBz9GXJQdYpfUfV0O4CcHrj3U8s=
+
+Name: images/Business/Email.png
+SHA-256-Digest: C6hUxU4gZjqf6tkBKldrtmJaapFNIjd5ohfq43tsCyU=
+
+Name: images/Business/pen@2x.png
+SHA-256-Digest: NAYdvvagVRU2RkJYnHIj/vrX91en5PNjPuoJMpxxpSk=
+
+Name: images/Education/Paperboat.png
+SHA-256-Digest: gZVti4cwviKqSRfbpa2hOjgGiRx0xaeJ97BPD1Rstxc=
+
+Name: images/Education/book.png
+SHA-256-Digest: O0lt21J22gOdrvR6Ein2jO9L0z1h3HEXN+4JofLG7M4=
+
+Name: images/Education/Palette@2x.png
+SHA-256-Digest: RmPS+YtJUYfjhjk300n8ZL9oW4cdAjSbOn9TlUZssdA=
+
+Name: images/Education/medal.png
+SHA-256-Digest: 8H3qOiDPj3MESV1esf9vOBwICXXfmFqvz7/jgbaAWKs=
+
+Name: images/Education/blackboard@2x.png
+SHA-256-Digest: Di4iEZ7/9zjoJxfi3OF5sqsF30c8IH2dl8HmQ+um/0I=
+
+Name: images/Business/team.png
+SHA-256-Digest: b+EJEgzdFSU6pEWsYEoIVJ0CZ0DVhz1AmCI6sViC7zM=
+
+Name: images/Education/Billiards.png
+SHA-256-Digest: dafp5l5qjPpGuWDXksNoljMjnt88XlHDIyEpvB6CJvc=
+
+Name: images/Business/Global.png
+SHA-256-Digest: TJs7lKCFldtEiNsCUv6hLSY4BTM10/jC9uA3bTuNQ7s=
+
+Name: images/Business/Presentation@2x.png
+SHA-256-Digest: H5pXEkKyxi7JHOzc6+iP6YV0euET/FFp46OnYKwTe94=
+
+Name: images/Business/ToDoList.png
+SHA-256-Digest: WafUAP0LvNzch2G4/zSErNrL7bf7FcdD+tDyUB0AC1c=
+
+Name: images/Business/Customer.png
+SHA-256-Digest: Vr2I38GIDBHL6qJcd0h/rdpQqv5n7RNefGFNsWfFvKU=
+
+Name: images/Business/Chat@2x.png
+SHA-256-Digest: jlBEzvCLZt1FnYMuAs9BWEU1kxsAjC4CeQ2QHzu5ycM=
+
+Name: images/Education/atom.png
+SHA-256-Digest: mVoNmUFEfBAJXEOT3FWoEJ+Fpf2NJQfRA89VBfPwn0o=
+
+Name: images/Business/FileSearch@2x.png
+SHA-256-Digest: VTACHiOIkh8kmVINlwP38+f9q2iKS8jGWamZ+EBDlbY=
+
+Name: images/Business/coffee.png
+SHA-256-Digest: lRD/Qhjptpu2o2Vc6vbnqaevCcq9pr34kivGkkmgyg4=
+
+Name: about.html
+SHA-256-Digest: ZKEhw9njgzuMy89HJZGXlXEH0QubozSQW3CybtrsXUE=
+
+Name: images/Education/museum.png
+SHA-256-Digest: 9ycYPJJDBKfSWxoEDbhBqvAtZqLOumjpmn3qIFWxq5I=
+
+Name: images/Business/news.png
+SHA-256-Digest: +CRYmlCpG7CzfQYJ5O0lYjSQELSKNJA2GjhWyQLGVRg=
+
+Name: images/Education/book@2x.png
+SHA-256-Digest: 7LJsqXozJ4K4Vm/djG+YTn7tbbPz31VnfGvu7XUejxw=
+
+Name: images/Business/Calculator.png
+SHA-256-Digest: 6TH+iVw+AaVblTV3PKbuMp3BNIaoCxxeqaKZUskRQRw=
+
+Name: images/Business/time.png
+SHA-256-Digest: OgAwQhqhsk54obdicKTC6w2BACy05VfmurgBshHoJWU=
+
+Name: images/Education/bag@2x.png
+SHA-256-Digest: u1r0qTeqXbpjXhSwmTskGsvC9rSHOFzSnZSc5C12vnk=
+
+Name: images/Business/Balance.png
+SHA-256-Digest: oJod2JfUz/puUdoa77JILFDn0yffV9xkeU9//zCxa0Y=
+
+Name: images/Business/Chat.png
+SHA-256-Digest: CnOgFxypkAUjN0Zs54zpWdb7W8kYX5HDVyIjLOkOp0w=
+
+Name: images/Business/USDollar.png
+SHA-256-Digest: ej8FkGJ/0POYDRpkIdrU+BhI6zcqK+K6fa4zMyTKv2k=
+
+Name: images/Education/Puzzle@2x.png
+SHA-256-Digest: HmJZdy9I7vNvgv5OQiijWxhz5gmNuDemacczTD6bJP8=
+
+Name: images/Business/Presentation.png
+SHA-256-Digest: WBiajo5K8QEf65EpCvYNnulfdonyNwUO3HEf18BlWXY=
+
+Name: images/Business/search.png
+SHA-256-Digest: RsCm1Z7mlhobArXpw/2EIjZNTihlvd2PrpG5IshTg+8=
+
+Name: images/Business/Calculator@2x.png
+SHA-256-Digest: NZd+wp5DhIufI3E+nB5L+H3r7G7LAUHZx6dquw22RCI=
+
+Name: images/Business/search@2x.png
+SHA-256-Digest: wF7ZKIs1Dc48w8MclX2TbFMkwEeBYe3C+AR7CGkXWaE=
+
+Name: images/Education/atom@2x.png
+SHA-256-Digest: P7tG7RkVAHSfxRfDPcLUY5Zg1Eiz5fY23kyVDjRXvAA=
+
+Name: images/Education/globe@2x.png
+SHA-256-Digest: ufI/pitJ+GFo0rrmXfQybIMVv8fsp243G/6tr0LIbPU=
+
+Name: images/Education/Erlenmeyerflasks.png
+SHA-256-Digest: xXHknNSsHguI6DVWc/H+9iWYBk/jV6AI5mr4qATVyug=
+
+Name: images/Business/coffee@2x.png
+SHA-256-Digest: jLDkL9XlM+2ZeCv3AKteI8NqolODgYFTB7ksk6qnITA=
+
+Name: images/Business/time@2x.png
+SHA-256-Digest: I+KeYfmzBkIqZ6AleEZViCuDD++HoclJ6VqBdHHkOw4=
+

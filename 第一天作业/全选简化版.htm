@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	
+	<h1>你喜欢的水果有哪些？</h1>
+	<input type="checkbox" name="fruit" value="西瓜">西瓜
+	<input type="checkbox" name="fruit" value="草莓">草莓
+	<input type="checkbox" name="fruit" value="榴莲">榴莲
+	<input type="checkbox" name="fruit" value="桃子">桃子<br><br>
+
+	<button onclick="check(true)">全选</button>
+	<button onclick="check(false)">全不选</button>
+	<button onclick="reverCheck()">反选</button>
+	
+
+	
+
+	<script>
+
+	//根据name获取元素
+	var oFr = document.getElementsByName("fruit");
+
+	//全选/全不选
+	function check(bool){
+		for(var i=0; i<oFr.length; i++){
+			oFr[i].checked = bool;
+		}
+	}
+
+	
+	//反选
+	function reverCheck(){
+		for(var i=0; i<oFr.length; i++){
+			oFr[i].checked = !oFr[i].checked
+		}
+	}
+
+
+
+
+
+
+	</script>
+
+
+	<!-- <!doctype html>
+	<html lang="en">
+	<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	</head>
+	<body>
+	
+	<h1>你喜欢的水果有哪些？</h1>
+	<input type="checkbox" name="fruit" value="西瓜">西瓜
+	<input type="checkbox" name="fruit" value="草莓">草莓
+	<input type="checkbox" name="fruit" value="榴莲">榴莲
+	<input type="checkbox" name="fruit" value="桃子">桃子<br><br>
+	
+	
+	<button id="All">全选</button>
+	<button id="notAll">全不选</button>
+	<button id="rever">反选</button>
+	
+	
+	
+	
+	
+	
+	
+	<script>
+	
+	
+	//根据name获取元素
+	var oFr = document.getElementsByName("fruit");
+	
+	
+	//全选
+	document.getElementById("All").onclick = function(){
+		for(var i=0; i<oFr.length; i++){
+			oFr[i].checked = true;
+		}
+	}
+	
+	
+	//全不选
+	document.getElementById("notAll").onclick = function(){
+		for(var i=0; i<oFr.length; i++){
+			oFr[i].checked = false;
+		}
+	}
+	
+	
+	//反选
+	document.getElementById("rever").onclick = function(){
+		for(var i=0; i<oFr.length; i++){
+			if(oFr[i].checked==true){
+				oFr[i].checked = false;
+			}else{
+				oFr[i].checked = true;
+			}
+		}
+	}
+	</script>
+	
+	 -->
+
+</body>
+</html>

@@ -1,0 +1,3248 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.xmind.ui.resources;singleton:=true
+Archiver-Version: Plexus Archiver
+Built-By: frankshaka
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-Vendor: %providerName
+Fragment-Host: org.xmind.ui
+Bundle-Name: %pluginName
+Bundle-Version: 3.7.6.201801311814
+Bundle-Localization: fragment_resources
+Created-By: Apache Maven 3.3.3
+Build-Jdk: 1.8.0_152
+Eclipse-BundleShape: dir
+
+Name: markers/progress_start.png
+SHA-256-Digest: 4b93c4RuYDQOJqz9BIN3aWyNsqTHoCSJm9svQ7DiU+U=
+
+Name: markers/symbol_like@16@2x.png
+SHA-256-Digest: 52CgZP4Rd8eKE2YPfXbOQM+gx1BUM0JPox538QgTq4Y=
+
+Name: markers/symbol_wrong@24@2x.png
+SHA-256-Digest: fU1Xvwqh0HM9vIrpre9TTsbCdprN7ajcyIKzCqvRXrQ=
+
+Name: wallpaper/1t6e6lub2d37a5rau9fbvgat7d.png
+SHA-256-Digest: J7wUgUkSfgfs/8BarSOohYJYn3xAzDpEigCg/qgpBp0=
+
+Name: markers/emotion_smile@24.png
+SHA-256-Digest: z9rTsKnQLak1o7cxrZSBQ3n/XyOyp/KbPhFFhkhpRDE=
+
+Name: wallpaper/pattern/p19.png
+SHA-256-Digest: 605ZOH7CF/1S44cNNpAvL1uPqOj+4Ym3cx4ncPZwy/k=
+
+Name: markers/arrow_left@16.png
+SHA-256-Digest: tYnXG/2CQT8c1JwrGzOBnLwo+uxG+ErRp11D7ktF3rU=
+
+Name: markers/symbol_drink@24@2x.png
+SHA-256-Digest: D57w0Nt6UxXRH37HuZ7ky510B47j8Y91X6ubOMb61mU=
+
+Name: templates/personal/Party Preparation.xmt/META-INF/manifest.xml
+SHA-256-Digest: zSQKE+5tiks5FIsIUIRPqYlsEhKM5QhrD5nIvm0/pVU=
+
+Name: templates/education/Book Report.xmt/META-INF/manifest.xml
+SHA-256-Digest: nCgIXPuIGSMnjEojcZKUnTx+9BJT8M8Sa1wITlfSIBw=
+
+Name: markers/week_thu@16.svg
+SHA-256-Digest: 9UvEmsH5D/ixLyau3r12XWadLCXeDv4vBkoYSKxiQKY=
+
+Name: markers/people_yellow@16.svg
+SHA-256-Digest: 1/7/djAk10bxgLXuD4VHNTrRaYjGKydTDXKzhe4js84=
+
+Name: markers/progress_1q@24@2x.png
+SHA-256-Digest: DYfqv1U1X07QKXkE6tZgAPPZ0Samgf4oCqPXfzo5TIk=
+
+Name: markers/star_yellow_half.png
+SHA-256-Digest: u0awAvr74Bosps/NAtojiEK/f4Wn9YcKtJ3vOhRodUc=
+
+Name: templates/business/Meeting Management.xmt/styles.xml
+SHA-256-Digest: KBJIblPt9xjihLipVQJA8YwmH4mpdOPl+sbUQf337cI=
+
+Name: markers/emotion_smile@16.png
+SHA-256-Digest: u0fxTkLq/IQTpLWVZF4HJe7r8Iyb7bHaw2GplqCCwQo=
+
+Name: wallpaper/wall027.png
+SHA-256-Digest: agKzYcIg/qPG3+kmsWphjYi7GOlPfcdMhOKiq/qLoJs=
+
+Name: wallpaper/wall019.png
+SHA-256-Digest: YdmKwoUMl+KREMrU/z5Dg1MxxrX9536cehJaMVoRBIU=
+
+Name: markers/month_sep@16.svg
+SHA-256-Digest: kLLGnnAC4u/+meApm3QOww/i7f1TP3r2pHkn5wl1hZg=
+
+Name: markers/symbol_shopping_cart.svg
+SHA-256-Digest: AQ3UF1IQqU6R8rcVlNcybuJcqT/8AiMhXN9gNRGFFeA=
+
+Name: markers/symbol_right@16.png
+SHA-256-Digest: E8+xoSO7RTRlmPiUH1/dZ7jb1eyo0dMrBmG2opW4FlU=
+
+Name: markers/c_simbol_minus@16.svg
+SHA-256-Digest: 5TuFMrX3WUj2FrDkbL+QhTIbL8PIQfU1dR1sT4JctiY=
+
+Name: wallpaper/new_wall001.png
+SHA-256-Digest: ZLz+84k9/UzsYPHT/wFqVNAm64HpCs4tNrHKp5Qyaoc=
+
+Name: markers/symbol_dislike@16@2x.png
+SHA-256-Digest: YJOhLs7WgH40ZKg3tR1hqHUqSYNMxsVzoXl0/t0sWgs=
+
+Name: markers/symbol_right@32.png
+SHA-256-Digest: uUJA/z4pZyTlSsafbxA8tcDUm+z2qxh4ADE3PvvkKpg=
+
+Name: templates/personal/Party Preparation.xmt/content.xml
+SHA-256-Digest: dJRnJzhF3Sm0sNTUFVywIxZ3Q1t8329At4sN0Bx4dZ0=
+
+Name: wallpaper/pattern/p2.png
+SHA-256-Digest: 1q3NPB4Lq6uSSNJAkaUeG2u863qCvMaHpA3dVZo5wsg=
+
+Name: templates/business/XMind 10 Years.xmt/META-INF/manifest.xml
+SHA-256-Digest: Dk14DEPreJTtiAgu8dei7CE+y/vH9PKwOnYKlme+Au8=
+
+Name: styles/themeGroups.properties
+SHA-256-Digest: FlSXutBh7WU2dF5CTWz1eZG8o5MBsZup970qwcZ+NaM=
+
+Name: markers/arrow_up@24.png
+SHA-256-Digest: xsesDYqlR8V9CcGr4vheuLInmyY2uuYbPYezD//a3so=
+
+Name: templates/personal/Shopping List.xmt/styles.xml
+SHA-256-Digest: NQSPMBbgF3pkZpKAEXVbkgVczF/hlU7EVZD3cY5enuY=
+
+Name: markers/arrow_left@32.png
+SHA-256-Digest: IHCusjELUvH57gTdw8VXy4k3D2MMcU4MsEW8kEf0z+A=
+
+Name: markers/priority_3@16@2x.png
+SHA-256-Digest: E2f5t3Izm/XTHPbXt9ySgp9fWFd6O+8Utwd9NNiMs58=
+
+Name: markers/month_jul@16.png
+SHA-256-Digest: L6h+uqL4OxulYKdMH4pjgI4z/WwXuGremzfgWgqqdCA=
+
+Name: templates/business/Business Plan.xmt/Thumbnails/thumbnail.png
+SHA-256-Digest: BDr9b1Ehc2vgi62G8OkBY/SbA9YPjRBvQ8ZxZNeusXc=
+
+Name: markers/flag_purple@16@2x.png
+SHA-256-Digest: EHE5WVkPz9oHPnpjwbPzANy+RDtgmjjpu6EERT4pNDo=
+
+Name: wallpaper/wallpaper/w2.png
+SHA-256-Digest: xEqR4/0BfQ9lSTm2fUhn+chE2Ip2HtJncIHo5ud1Ct0=
+
+Name: markers/symbol_pen@24@2x.png
+SHA-256-Digest: RiPvfupMzPF5D73+HWsm5WH/D2jRdApHa6tBd1vehmQ=
+
+Name: markers/arrow_right@24@2x.png
+SHA-256-Digest: 0nING69AwrGTX9qL9b/sFvHlzA6avOt5aA0ud2pTUrc=
+
+Name: templates/business/Company Hierarchy.xmt/attachments/5od2es36lvr
+ dunr0in0qjeoaio.png
+SHA-256-Digest: Rq9rhCRzCNzYffLeIRi0TIE1ub2+BAsoMkAT8pFZsww=
+
+Name: markers/progress_start@16.svg
+SHA-256-Digest: Ly9qnmysubjNWX/q5iAiNCRGAt45XMFuHwZvtcpdT20=
+
+Name: templates/education/Class Schedule.xmt/meta.xml
+SHA-256-Digest: CFU6GspuITLtoufZPfFy4DiZJ944LF04I+wTMr37d6Y=
+
+Name: markers/people_dark_gray@16.svg
+SHA-256-Digest: XoSyy0wm79cr651vlfU3+kUPzQ8zSjuOB2fHuuX1WMg=
+
+Name: markers/month_dec@16@2x.png
+SHA-256-Digest: 6dZsnvr9mZGNVs7IbYJBgTJveMmc5OTtR+yM85RRguM=
+
+Name: markers/star_purple@32@2x.png
+SHA-256-Digest: 5uszsBWWsg6p8aiFOkuyJCaQ+EZ2jFM8n33XsB1X/tE=
+
+Name: markers/flag_green@24@2x.png
+SHA-256-Digest: IZEn0mQkcFTV94Jpd+JXFBiCx2j1I4DAKQNiVVcoN2s=
+
+Name: markers/arrow_down_right@24@2x.png
+SHA-256-Digest: ROg/sCSSTbfYkH6kx9ebRF4/9+mU5FIxRQl7l5n+NJc=
+
+Name: markers/people_orange@24@2x.png
+SHA-256-Digest: TO00m8yejKpCxi6d+kOCdhJ4BDj+anXHuxQcMng/45A=
+
+Name: markers/month_nov@16@2x.png
+SHA-256-Digest: vOcH10OafyBMc0XY611ahQGoX8fjJvHR/Hj7fk+qEM4=
+
+Name: markers/star_dark_green@32@2x.png
+SHA-256-Digest: Oxw+mZZ2kgimrcL9p5z4N12x5rOAuzoowWyP+XixVU4=
+
+Name: templates/personal/Travel Plan.xmt/attachments/5i4u72j50jeu46gfk
+ tkdub8rtp.png
+SHA-256-Digest: HSrHHA7s5Rij6ocE07YUrGZ0D4lzn7iQ2RsUDS7mtw0=
+
+Name: markers/priority_7@24@2x.png
+SHA-256-Digest: ZBA45guaLwgtwkN6350/D5BAfdPIbik860+OGjakozU=
+
+Name: styles/themes.properties
+SHA-256-Digest: 5GfnJOU1mHpn52zVCzkvfn5J3ylOAeNjrLP6S1aE0tc=
+
+Name: markers/priority_2@24.png
+SHA-256-Digest: ADEtfSyq9yDopaBikXUvJ449LG0XylNBi15DSaiIHQs=
+
+Name: wallpaper/3a4piundnj5sv8ck9veaajc0d2.png
+SHA-256-Digest: /5pJhYz/B+T+BV9HcSLcPn8wL5WRGRXeGecmYVRBXpA=
+
+Name: markers/flag_yellow.png
+SHA-256-Digest: t4aoU9Bg1074Dha1qHMT006+n3SXB16lLIOybJZotnw=
+
+Name: markers/progress_half.png
+SHA-256-Digest: 5I8z2YIzuDFT6ZpsLRUgh9xgWckVbFWuiOHtbsg+kJw=
+
+Name: markers/c_simbol_right@24.png
+SHA-256-Digest: cWRJTJuuykFSw9+Wkz+hlTxN79ZIF40gKa8PSFz0SNg=
+
+Name: markers/month_jul@16@2x.png
+SHA-256-Digest: L6h+uqL4OxulYKdMH4pjgI4z/WwXuGremzfgWgqqdCA=
+
+Name: markers/other_person1.png
+SHA-256-Digest: wVeps7K6KAwiucN+TYATmufjNASg3pxZo1wfN+gFoFA=
+
+Name: markers/progress_3o@24@2x.png
+SHA-256-Digest: sgdoEZfAKQpCgrIpsKubOqoCt1/Js17K1frLM5+MebE=
+
+Name: templates/education/Syllabus.xmt/Thumbnails/thumbnail.png
+SHA-256-Digest: t0gnYWcZxfu5e/NedkngilfZSFmoyfI+O7BLUUNz2Ro=
+
+Name: markers/month_apr@32@2x.png
+SHA-256-Digest: ymfkLPKMn/3DiKjh6uQqu37zW35CQwEkeIOy9/e1pfM=
+
+Name: markers/symbol_like@16.png
+SHA-256-Digest: Ad+ASHNluTHhMKsnTwVWEpnMKpKW3Q39CUQQWpkPhvo=
+
+Name: markers/arrow_up@16.png
+SHA-256-Digest: ExszbcPlfbTPUnpxpX81rSaIHFoLYJY5RxS6RgkKYVU=
+
+Name: markers/month_aug@16.svg
+SHA-256-Digest: u7mUcJAlRaHLz8t6TRNct+NasW5BLPu9kW6e1KS7/aM=
+
+Name: markers/star_red_half.png
+SHA-256-Digest: ffHAx2FMAw22QKhNtWjSM+rXMJVZdr7dtS8ii/CAt0M=
+
+Name: markers/star_red@24.png
+SHA-256-Digest: aTYoHftEPGnpDZt37Q6y4m8zO8I8+UF78P9TK4jvZtY=
+
+Name: markers/week_sun@24.png
+SHA-256-Digest: GNoptLaV0/3glXMTRWc4Id3x7fGDE7JP3/bhkL6Shuk=
+
+Name: markers/symbol_right@24.png
+SHA-256-Digest: 6pwlFEV5MGwRe8Uxkm30QbONEA5WG7Rrui35QxLJH7o=
+
+Name: markers/flag_green@32@2x.png
+SHA-256-Digest: FCB60YB3JUzMxCOCI/LLPN/QaZcJ1XQImbcjh+N2a3E=
+
+Name: templates/personal/Diet Plan.xmt/attachments/32479v10cob410hsc1i
+ mgnfhpp.png
+SHA-256-Digest: +ANciVpTdrppDYMGKzpdDUYYZNbQsEuNAmVeLd1GmKc=
+
+Name: markers/arrow_down_right@24.png
+SHA-256-Digest: RFlMiaiac9CJg1OhxQHYh/p1GFCWh3LQihku9IFy7iw=
+
+Name: markers/symbol_wrong@24.png
+SHA-256-Digest: 6lu5nThR/WrN3JoRZVKHxBza0xgiqO3JxtZ+ZN7W1Ks=
+
+Name: markers/priority_7@16@2x.png
+SHA-256-Digest: B0ywAofu3ARo4PQBhQPXE74pYXDRH12ls0JaAWbGwqM=
+
+Name: markers/symbol_flight@16.png
+SHA-256-Digest: Lr0neJIIXRm8GbDW33843O/Vp2FpNdqhT9qdyneZ8UY=
+
+Name: markers/priority_9@16.svg
+SHA-256-Digest: cfi+MWKgMAHxUcZS7ZzRoaVEu9eMfmDUGiGof+uay6I=
+
+Name: markers/arrow_down_right@32@2x.png
+SHA-256-Digest: jy0wPjQbcRvpge7yXTjYwtxcigOfBv7PwPZX4uoKI6U=
+
+Name: markers/flag_green@16.svg
+SHA-256-Digest: pA7Lj4lhEO+LvssN2IaELEUwAs0ObKhXftpB6m2Svzw=
+
+Name: markers/symbol_pen@32@2x.png
+SHA-256-Digest: VcgntAR9q5maTyPVMsj2KMot4wQBOXG/649ldJUQpCw=
+
+Name: markers/star_purple@24@2x.png
+SHA-256-Digest: BKuHRhzGDluKKzoOAUCFlcamXPGMBVQ14GHzbvrnwlI=
+
+Name: templates/education/Exam Review Plan.xmt/Thumbnails/thumbnail.pn
+ g
+SHA-256-Digest: 88su0NkDx2Db8QOj+Jx5Pj3pyGjDyN+V0UN7fxOGwPs=
+
+Name: wallpaper/wall028.png
+SHA-256-Digest: wjKQdQeX9DoKx/ruLkWBikudEngy1nPp0caRhODs2go=
+
+Name: markers/week_fri@32.png
+SHA-256-Digest: IXYjkeY4/LRdUSxtxXEhT1CozWttidRKmqL0exNsMlU=
+
+Name: markers/week_tue@16@2x.png
+SHA-256-Digest: 3kKiS3vv+wpzWIBq/AkokisLjfEO9FmdvVzadISaY3I=
+
+Name: markers/week_tue@32.png
+SHA-256-Digest: Ys1RXao6HtV4ixrLnXz4IB4sOIK26UnVk8ZziHr+LxY=
+
+Name: templates/business/Projects Dashboard.xmt/content.xml
+SHA-256-Digest: FR/brEyD7DHvQiad0NogNTcUk/8PKNUu2mB0K5mZeOg=
+
+Name: wallpaper/new_wall002.png
+SHA-256-Digest: OtL7qbmoZdPofL71hjcA50fmbkl888ouh99NiCHDT8Q=
+
+Name: markers/symbol_heart@16@2x.png
+SHA-256-Digest: nmVU+JVngipfovoMcTDx6rEUzFn5QvzyvyEDdQsUsdw=
+
+Name: templates/education/Compare and Contrast.xmt/meta.xml
+SHA-256-Digest: 3bvr/2a+d1yvpTaBmDs3vfdqkyPBkeQ7rz45GZGsjzw=
+
+Name: wallpaper/pattern/p1.png
+SHA-256-Digest: KH8vNLs7b/0fuybMHzKKUb4YUTQe3BK/VkKJoxMnJLQ=
+
+Name: markers/symbol_plus@24.png
+SHA-256-Digest: syxdnJEks8DjbCGfM4yLM6mCzGOJbU8HRZBikWgRbk4=
+
+Name: templates/business/Business Timeline.xmt/content.xml
+SHA-256-Digest: szqJ0AS6W7lpZEZGCD9vCCplNGaWogag3zVHAcjxsuw=
+
+Name: markers/c_simbol_right@32.png
+SHA-256-Digest: vVwnwPnsZ3+SE7jetRfmXaZ0ERbucsK6dnwOCwyKWa0=
+
+Name: markers/priority_2@16.png
+SHA-256-Digest: gG4Ae378kF4gCKSo1oZOLnruWiyX0La+Mo43CKPgUdU=
+
+Name: templates/business/Business Plan.xmt/attachments/2lsqjob5t5f7nic
+ ql89sp0ivm7.png
+SHA-256-Digest: fajxSdH050QZEsKkujyXzoLXyC5v1Q5GUNZ5KV+kbZQ=
+
+Name: markers/symbol_minus@16.svg
+SHA-256-Digest: 0YO3jOD8Hbbvi5jdOGSDVkauBgLotxhH0jDPtDdE0zE=
+
+Name: wallpaper/wallpaper/w6.jpg
+SHA-256-Digest: lt0PnSesRKlTQxp85Cb3lkJo4SwnHq+x2/5z+jw1OH8=
+
+Name: markers/flag_blue@24@2x.png
+SHA-256-Digest: Udu1pu/4ujHpnQ2Ous62WD3L+IqGXijbNbhKr8lVeOE=
+
+Name: markers/symbol_exercise@32@2x.png
+SHA-256-Digest: y+yjF1tBr9y6mibKJCz/K+NKFbEpKJOcJTODMHUl7eg=
+
+Name: markers/week_sun@32.png
+SHA-256-Digest: 8XW/Cfa4+tJA594xMEFU5CAqMMCQJ856F9lPcZqVWd4=
+
+Name: markers/flag_dark_green@24@2x.png
+SHA-256-Digest: SRN15EiH0EjRpP2aaQFKehex/EMuIt+LdfoqKRZJUVs=
+
+Name: markers/progress_3o@32@2x.png
+SHA-256-Digest: 3ZbtC76i+IkubrKjyRN7Tab24YmpBGBOfI6sceSW1xc=
+
+Name: markers/other_note.png
+SHA-256-Digest: tRfNgbZJ8IWJBfIEMjazhV8VidYj0LyXGXIRH1BbntU=
+
+Name: markers/symbol_information@16@2x.png
+SHA-256-Digest: ynNOl8Nl5CyNGsbYk6fsdOU2TvNaP/grh7QYGglE6gg=
+
+Name: markers/star_red@32.png
+SHA-256-Digest: jXHSyd7P9aYWm2wpwMS6fOUu5zUMxQqEsxXmJP8cBBA=
+
+Name: markers/priority_1@16.svg
+SHA-256-Digest: o4tjkI6Lbs9tQOH6nYPJfk1m6IxrouYxMR9+koH8mY4=
+
+Name: markers/priority_5@24.png
+SHA-256-Digest: pMYExgjI/ORqLD6+7BIahna539Z7hQtDmkkvnZTcz3E=
+
+Name: markers/people_purple@16.svg
+SHA-256-Digest: kbswJgCnyfisa4jWlyBnkXgDqDtXtfesOgWqpetMUOw=
+
+Name: markers/week_wed@24@2x.png
+SHA-256-Digest: gZopeC+i5U8voKJXczo2/4Vmu7rEuIg6lDzpxfidDyc=
+
+Name: markers/week_wed@32@2x.png
+SHA-256-Digest: zGTpL+txfTlydLa33Z6vPYVxnm9j5BiMEbNb6G7dCNM=
+
+Name: markers/symbol_drink@32@2x.png
+SHA-256-Digest: +d56chU1s4a+xKXUGNzHTCECPwcpicIKrehaKT6FpdI=
+
+Name: templates/business/Balance Sheet.xmt/Thumbnails/thumbnail.png
+SHA-256-Digest: X/4xt1FteNlG+pspJ6yrNpOpAhd4QmYWRoyaf9i6lWk=
+
+Name: templates/business/Meeting Management.xmt/attachments/14p69ufe48
+ 3apondkufcjh3t57.pdf
+SHA-256-Digest: 7efgTTUIInnuPBinfsiaBIMcDk304DLiVpa20y8rOpg=
+
+Name: templates/education/Book Report.xmt/styles.xml
+SHA-256-Digest: t3ASjzJbT7FnIVIqaWhJXFqaZPcyp4QCzO+X0kKlkLY=
+
+Name: templates/business/Meeting Management.xmt/content.xml
+SHA-256-Digest: YghyLzVBEhfM2owIG24UdrfjnyTFktxMYedMGFeQZHA=
+
+Name: markers/other_phone.png
+SHA-256-Digest: KD/O6x6GuNCbdoQvO6CkgP7zMJ6kliRYlqtFk7L9cXM=
+
+Name: META-INF/maven/org.xmind.cathy.plugins/org.xmind.ui.resources/po
+ m.properties
+SHA-256-Digest: x7TSiDlpe663XMk5ZhjP8GJEH4DsZEPgZapgsZRYrhM=
+
+Name: markers/progress_1q@16@2x.png
+SHA-256-Digest: daQCvmVW5uImzMiTcYr16MM4txERB4iCRBx7Q/8y2AQ=
+
+Name: templates/business/Annual Report.xmt/META-INF/manifest.xml
+SHA-256-Digest: Dk14DEPreJTtiAgu8dei7CE+y/vH9PKwOnYKlme+Au8=
+
+Name: wallpaper/wallpaper/w1.png
+SHA-256-Digest: LNF0pk4HTXo1xkY1uCaT8aKyAdtEYvIOjTekHkr38zA=
+
+Name: markers/symbol_wrong@16@2x.png
+SHA-256-Digest: vZl7objRlA1PDebydOwk1cV4JzmmtVgtaYHPbN/gMdA=
+
+Name: markers/symbol_heart@24@2x.png
+SHA-256-Digest: QFV379jygFy2JNeAUMuBl15EegT19CKqXtkhslEulr8=
+
+Name: markers/symbol_pie_chart@16.png
+SHA-256-Digest: 1pGZ+u3jVo7c4P7/7cJBLAGC9m7GTDGqIp7+Wmh3g+c=
+
+Name: markers/star_blue@16@2x.png
+SHA-256-Digest: kv2VuXu4WktkORVWA7kVQ86QBHUpwmZVtXWRDwss/DU=
+
+Name: markers/week_tue@24@2x.png
+SHA-256-Digest: Ys1RXao6HtV4ixrLnXz4IB4sOIK26UnVk8ZziHr+LxY=
+
+Name: markers/people_dark_green@16.png
+SHA-256-Digest: sHxgNymsG5FTnI05nzOR3LNUlTzH/CIfuDpgTQAem2s=
+
+Name: markers/month_jul@32.png
+SHA-256-Digest: 8st0i1MwHdR4xGGaCMYY0N/6WCavA6h+RwltaclleV8=
+
+Name: markers/symbol_thermometer.svg
+SHA-256-Digest: hocdPmdVGfX36P7vQuCwj8121mLG4j/Iya1xd1a0pKI=
+
+Name: markers/other_person2.png
+SHA-256-Digest: eY67P4Cv53SOrABa3Q9Fo/8bWfOv18zJsFtj7tz7L5s=
+
+Name: markers/symbol_exercise@16.png
+SHA-256-Digest: 7fQ2rruAMjJ12DhLPv/u0u4fhkcG+H2ZR4HTmBGNn+8=
+
+Name: templates/business/Company Hierarchy.xmt/attachments/6ts81nqh8up
+ sl7m82gtuf54m6h.png
+SHA-256-Digest: hLfO1MFA5DFOzjIz9dLaOpmwlVrlC9OWiWdn5mjcrgE=
+
+Name: markers/emotion_angry.png
+SHA-256-Digest: A6dKWBRieHtYbBuXszFVYC8s3skTsDeiXskJCp954D8=
+
+Name: markers/week_sat@32@2x.png
+SHA-256-Digest: 058HUbXoT8UHMPm6iy1iWLpp6oz0+VRE4+oCmUWDqLk=
+
+Name: markers/flag_blue@16@2x.png
+SHA-256-Digest: +6S04YAcv2Mr3mHmqJj9lrXfERYDkZi7BGli2DYZR8I=
+
+Name: styles/themePopover.xml
+SHA-256-Digest: wk1wh9wtqkgyiQW7YuAEz5EOtp4+cR1DOw0gknDYZ3w=
+
+Name: markers/flag_gray@16.png
+SHA-256-Digest: xIDezGcVIAOUCB0BFZDkFC8Tz0/syuB2y9r6qJKw2Vk=
+
+Name: markers/week_tue@16.png
+SHA-256-Digest: 3kKiS3vv+wpzWIBq/AkokisLjfEO9FmdvVzadISaY3I=
+
+Name: markers/month_jan@16.svg
+SHA-256-Digest: iWo5PZtiq4fk2jx9uY8r/KOrxyrGuzMu7tKldRnPuiE=
+
+Name: templates/business/Business Plan.xmt/META-INF/manifest.xml
+SHA-256-Digest: 7YhAJ2CnjXa4apsRJThSGmlftDaqd3ITM049jkudE9s=
+
+Name: templates/education/Paper Outline.xmt/meta.xml
+SHA-256-Digest: WzTN5lqK8a+fmd83x2NkjU2z81z3T8lSfKHZv4E7/HM=
+
+Name: markers/arrow_left@24.png
+SHA-256-Digest: tZ2dJG8jEF5J/VNN7S71jIkBvhm0INIPYDWTIYAAbxg=
+
+Name: markers/flag_dark_green@16@2x.png
+SHA-256-Digest: YzGVhzYvNPCyZ1wfeiG4c+VbFWW++/KDoLcJYQCAx90=
+
+Name: markers/emotion_smile@32.png
+SHA-256-Digest: ju/VUkhKIXIeIwPpKfIxUte9Z/XWnqzh+szIOjvAuPc=
+
+Name: wallpaper/pattern/p18.png
+SHA-256-Digest: kT5rIwPFUWFkJC2y3YJUhStcNu1V5tQwjcKHXeda5Fw=
+
+Name: wallpaper/new_wall003.png
+SHA-256-Digest: JcCGoJIk8N29ZNb8dab4bVjSFjXsnEETxuTjLbQ8LNo=
+
+Name: markers/symbol_contact.svg
+SHA-256-Digest: aqA9kx5IPTS08pwD66LuXSeVROMw62eMISlGDYaF/Mg=
+
+Name: markers/priority_7@32@2x.png
+SHA-256-Digest: fGc37IedPSvQd2J2Rq62pVWu2xqkXCVerFBIs4SwFMs=
+
+Name: markers/people_red@24.png
+SHA-256-Digest: dZZ1tbdDl68Y2XsP86gn2gl0xmwZIc6IRmZ9VxzpPAI=
+
+Name: markers/flag_green@16@2x.png
+SHA-256-Digest: ABK5pc1tuG9RuYvLMlov+KpMBUlPnIgrK39THp2D0I4=
+
+Name: markers/week_tue@32@2x.png
+SHA-256-Digest: 7PpHJfUO2oaSMaRAQAbCaDyCUn6QoRMGDNCcoa0XLcQ=
+
+Name: wallpaper/wall029.png
+SHA-256-Digest: HJnokk9FGgViefYH8AYzk6I2sACjdDVCm9p+AuTZJ5o=
+
+Name: markers/people_orange@16@2x.png
+SHA-256-Digest: 7rVfJOchUNp5+iPyJdgSGgnDeasSPWnAbFuFfZhAN+M=
+
+Name: markers/emotion_smile@32@2x.png
+SHA-256-Digest: Zxb4bC0eLDxKByPn0U4YwT2bZlifNtSWRjea2Ky3qvg=
+
+Name: markers/people_orange@16.png
+SHA-256-Digest: fdoa+916r3qd8mtbLyLMNZTBHxmPeEBYVYJRuqKGneg=
+
+Name: templates/personal/Party Preparation.xmt/Thumbnails/thumbnail.pn
+ g
+SHA-256-Digest: XBAcamtFu94LiH5N619PidKwkm2wm7aVYrz7FkVJFNw=
+
+Name: markers/month_oct@24.png
+SHA-256-Digest: QP5LsK8WI2vLmDUk7xKHU0145xZ46FJ52YQ3+dEttFs=
+
+Name: markers/month_nov@24@2x.png
+SHA-256-Digest: QxErIImzLt6htki53DgSNnLHcVyPNk9AMqig/ip0e4Q=
+
+Name: markers/progress_3q@24.png
+SHA-256-Digest: SSQYEswEcq7DJz3xNvLVBiq204T944a/RgagGRNhbt8=
+
+Name: templates/business/Business Plan.xmt/content.xml
+SHA-256-Digest: KdPZe3COcEdFnucB1ck+Qw6q6aDnNd70wvlDUmAtdmI=
+
+Name: wallpaper/wallpaper/w4.png
+SHA-256-Digest: utjJev63yABX/R6raRxbIV8W0FnUdTh0G6y3caeD2Pc=
+
+Name: markers/star_red.png
+SHA-256-Digest: BejqiAfsRS6pJumr6mc8suMgWKGcHPV39iG/mO/kJPs=
+
+Name: markers/progress_3q@16.png
+SHA-256-Digest: aao81xnRmtz8hvwbXPXxkyzcQ6nIBPo8PJWnUyhFzGE=
+
+Name: markers/symbol_trophy@16.png
+SHA-256-Digest: d4SmxscmjVDXYhfO00rPFdEPOP8uthOIvb4kpUM5wEQ=
+
+Name: markers/month_oct@16.png
+SHA-256-Digest: X5d8zxshtHZJDFdnEuClD2Zvb+n+CAi2qrWicifcIs4=
+
+Name: templates/personal/Travel Plan.xmt/attachments/1udvg9gbghq5c1lsk
+ ffsaechs7.png
+SHA-256-Digest: J5A88PxEqPTbv+Cf/UiSjtnW5luYs/aQldyUxAmguCI=
+
+Name: markers/month_may@16.png
+SHA-256-Digest: vO3z1rQ7zt9Tf/GWwBWmS4p/nlgWdCJcPi4UsNWs/CE=
+
+Name: wallpaper/wallpaper/w7.jpg
+SHA-256-Digest: 3cIjSXICJ+wcG3IJXxCXTagnaGRZ8nbh6Tg5n6vOR2E=
+
+Name: markers/people_blue@16.svg
+SHA-256-Digest: 1fkaV/tKQqIOgfyi3tHkUejDMhl9mvZPLSRShFWx1nc=
+
+Name: templates/personal/Party Preparation.xmt/meta.xml
+SHA-256-Digest: /naFVz1EbUVmJDprbW0n7m8Xu8PiaLT4rg8CsxA28Do=
+
+Name: templates/business/Sales Management.xmt/content.xml
+SHA-256-Digest: PV0781KmcAVPsNL1G/J2zH7n4RjNigJ7tJCsxYrGW1Q=
+
+Name: markers/month_oct@32.png
+SHA-256-Digest: fp0NhukK8lqu8xGJKH9doSJh4DzA5z55B9r//+UdmQg=
+
+Name: markers/star_orange@16@2x.png
+SHA-256-Digest: nlH7ysD3bIgjKMWhUKhvgplNgKFCl7IFVHm0DfODUN8=
+
+Name: templates/business/Business Timeline.xmt/attachments/54ll5u6b564
+ 1dmhigmfju522qd.png
+SHA-256-Digest: bu2Sa4RMh5WKNYnj81+aVEJM77uk6eeKY3YOgnsN2Es=
+
+Name: markers/arrow_up@16@2x.png
+SHA-256-Digest: 0+a1SOWveXjOt9xonh25gepTHxjmqhGkBUqrVpRDNtI=
+
+Name: markers/emotion_surprise@24@2x.png
+SHA-256-Digest: e5rLj69AHHEF+4zMZefeey3DsrKpdas5HXte80yMuO8=
+
+Name: markers/emotion_surprise@24.png
+SHA-256-Digest: ERSJQb5ziTGN2jimrYedPIkq3g0fijEinV3OgVawCR4=
+
+Name: markers/week_wed@16@2x.png
+SHA-256-Digest: aW4P8p8t2tj8jXK/UqTSmP3zy2B8I0O0mANWNzP8N2Y=
+
+Name: templates/education/Class Schedule.xmt/attachments/2ummt617pu1lt
+ 2evu57078kfcq.png
+SHA-256-Digest: Rq70CNpZBVwr7pPTttzFA7HNMgldZ61gzeOvWEg4Mv0=
+
+Name: markers/symbol_drink@16@2x.png
+SHA-256-Digest: 96XoKA0gMg0eGywqfxL+MLzyzmJKALWO+T3C9ajMc2E=
+
+Name: markers/emotion_surprise.png
+SHA-256-Digest: XPCoxGBVgBgD3hpZKRf0qPJxMkMZwVzstrN2STRL+98=
+
+Name: markers/week_sat@24.png
+SHA-256-Digest: Zq6+Bc3nt60sBem9eFhOSxhvsmrMaBeMWea8bEBKu6I=
+
+Name: wallpaper/pattern/p4.png
+SHA-256-Digest: ijDyYRqls3MrqzhNTzwN9nUfNMRNe1W9p4nVUkPnK8w=
+
+Name: markers/month_nov@16.svg
+SHA-256-Digest: Yju98VgbWFOJg/DtEIlOjVcXKMkjG/txoZFJz7k2v1o=
+
+Name: markers/c_simbol_information@24.png
+SHA-256-Digest: TqFcQJHLa2lzSgrAZr4T4u6FEHY3vHBijmqu15E3Zhs=
+
+Name: markers/symbol_wrong@32@2x.png
+SHA-256-Digest: OGQdNBKwxGGYg3WLceP4t2pPBtpulG1KiEn3lLO01B4=
+
+Name: markers/progress_pause.png
+SHA-256-Digest: Dk+mbL5SjOD+8LijpaQp28qWEnlmkMNHqkfSpzBWGaA=
+
+Name: markers/flag_dark_gray@16.png
+SHA-256-Digest: 0br2P1Vdar5D5JrwVW1PbxNhuxqcQ5uZhbvuRH2gbiU=
+
+Name: markers/priority_4@24@2x.png
+SHA-256-Digest: 5leU3eLI8/s7yH/t5+BOQlt1jPU/V8jwbegtv3FnEM8=
+
+Name: markers/month_feb@32.png
+SHA-256-Digest: xquxmOrfkK2zSuZWjtL6B6KQawDU2QfdZIlI+FAdep4=
+
+Name: markers/other_clock.png
+SHA-256-Digest: n917kDWaYxeWdHdodkbzFwPsl4x2Bk7nvJSt7BGPLjI=
+
+Name: markers/people_green@16@2x.png
+SHA-256-Digest: OICUbxdYvsCnJFkfROmL7lf7yYJBLtPsHk1lahO9mzY=
+
+Name: templates/business/Annual Report.xmt/content.xml
+SHA-256-Digest: ecM/CbjxORXBPnxyx1ke+dO/0/KvPOvqQ/imNcfeAtM=
+
+Name: markers/star_purple@16.png
+SHA-256-Digest: bV7bS+YAPVIeGamFtVz9gqUOI2QIZwSaiJ85tJ7CXOc=
+
+Name: markers/month_dec@16.svg
+SHA-256-Digest: xMrSvrvXfhfy7yrtIQhiDZRQsFqyAtf9Lw+1bKKnrKM=
+
+Name: templates/business/Manufactory Flow.xmt/meta.xml
+SHA-256-Digest: J61uh0kbtupALEL/V3YGDDz+kNacynSJsdxIpSb31/w=
+
+Name: markers/arrow_left@32@2x.png
+SHA-256-Digest: RN8r4XScy65HMYWWZHtOAaY+L1Z7rOgu5FpDMRjvrvo=
+
+Name: templates/education/Book Report.xmt/content.xml
+SHA-256-Digest: SR20svZR4oMglJc3/736ZfEpNpxYXtQeKyQL/Vw1NGs=
+
+Name: templates/personal/Shopping List.xmt/Thumbnails/thumbnail.png
+SHA-256-Digest: 0IysJjvmBQHyg1zEn6Y1VTi1lMQPQZuUUXdlE9sqd0Q=
+
+Name: markers/priority_7@32.png
+SHA-256-Digest: j8QUvCnPb3QZTVxpE177yqExoppCph0e8tRhaCCKGWk=
+
+Name: templates/personal/Travel Plan.xmt/attachments/1usdl8vt041arbff2
+ e6i3d785h.png
+SHA-256-Digest: HSrHHA7s5Rij6ocE07YUrGZ0D4lzn7iQ2RsUDS7mtw0=
+
+Name: wallpaper/pattern/p17.png
+SHA-256-Digest: AHpN6IaCa6BHKDZ94rErAtS6JEiF7gHj+K1bmK/OoZo=
+
+Name: markers/priority_5@16.png
+SHA-256-Digest: sAUw88BYWnxtVeQH1ZwG7AQ/R5fx1nHYNq6iI4XW1cQ=
+
+Name: templates/business/Cause and Effect.xmt/meta.xml
+SHA-256-Digest: I+HmFjCuLaWoDanwPqT8R0EvYVqO8rBM8d30Yzpu9LI=
+
+Name: templates/education/Class Schedule.xmt/extensions/org.xmind.ui.p
+ resentation.stories.xml
+SHA-256-Digest: yIlELTCTpnpxJy0zhPEoFvEWIDWJ/66NwRdQGJqmbUw=
+
+Name: markers/symbol_plus@16.png
+SHA-256-Digest: MfZ7NUmyQpgd+s4YHhZUxRlYDuAMQx9MSyY234r+N3M=
+
+Name: markers/month_feb@24.png
+SHA-256-Digest: b4UZ1YpNuQz9oHpcYsL7zXnYhJHhsDsSvKNIF8dMe6A=
+
+Name: wallpaper/wall009.png
+SHA-256-Digest: rvvj1EY/89Gcognad6dAk2zpPbvzBGESQ5rz9LFx4ik=
+
+Name: markers/symbol_information@16.svg
+SHA-256-Digest: mxOh2hedpfKMKDHnQTvTFAWs819PNPuCBnxnmerM+0M=
+
+Name: markers/flag_dark_green@32@2x.png
+SHA-256-Digest: efTA80EMaNqqi8+bQQGTdqg+k3XNEgV2BpOVhb8cIBQ=
+
+Name: markers/priority_6@16.svg
+SHA-256-Digest: 0+KhdAomgKlpzuPNUSu5zd8d6MX87kCwnnjR+pr1SCs=
+
+Name: markers/c_simbol_wrong@16.png
+SHA-256-Digest: 3MloMXpgbXRFf0bGI4GipnDpGvVo228GFIlpASGPdoM=
+
+Name: markers/symbol_information@24@2x.png
+SHA-256-Digest: bOCe76KTk5cBi4PafE7kVjQbBD9bnZzcBs0uEfeT2as=
+
+Name: markers/people_red@32.png
+SHA-256-Digest: TRh4aqk2i6vsWmaUxVwAwq3u4BIpOBnKTl8r7E+PVL4=
+
+Name: templates/business/Annual Report.xmt/Thumbnails/thumbnail.png
+SHA-256-Digest: LE3/2nWI7VXFBzWZ2O9WL/YKtSIIsttInk4k0LoMfz0=
+
+Name: templates/business/Company Hierarchy.xmt/attachments/6m2qfin74b4
+ r03f972lbb3078b.png
+SHA-256-Digest: Rq9rhCRzCNzYffLeIRi0TIE1ub2+BAsoMkAT8pFZsww=
+
+Name: markers/flag_purple@32.png
+SHA-256-Digest: bKLrRO5iQzyMVzyfsHhejWunRKZMm46m+4b5x/0jecQ=
+
+Name: markers/star_red@16.png
+SHA-256-Digest: oGDZBAm9BHKTIiUPp8+fjcYfYeokHvYhjgFcxPpQ8+k=
+
+Name: markers/emotion_laugh@16.svg
+SHA-256-Digest: pAnfXuqMCbdZAUJ4V18psW2RQAkviDOinlhLYzCemDo=
+
+Name: markers/emotion_cry@24.png
+SHA-256-Digest: w6EahHhXhOSyNJFQvYxckdR+WCUuPp7+g3QjjlPQsp8=
+
+Name: markers/symbol_wrong@16.png
+SHA-256-Digest: Dg02lPLRIN+Zeg2vXYjGmtv1q3tv7dARA7wZ7Da29+8=
+
+Name: markers/month_oct@16@2x.png
+SHA-256-Digest: X5d8zxshtHZJDFdnEuClD2Zvb+n+CAi2qrWicifcIs4=
+
+Name: markers/arrow_down_right@16.png
+SHA-256-Digest: xNbU8T6J929KsCazpAB4IZoFxqXPu7TnMCvjU1TvNGc=
+
+Name: markers/symbol_music@24@2x.png
+SHA-256-Digest: W8aLtbf1SlkCISe+EbqKSuiEaOP8DzBG8iGjcoSBnIs=
+
+Name: markers/flag_green.png
+SHA-256-Digest: KQb7VRVwVqQ9ic2ogze+oed49CjGSzZlbMlNkgtC+0Y=
+
+Name: markers/arrow_up@32@2x.png
+SHA-256-Digest: qQ0W4hB/aLFKgqO1St9/sBOEmO92yBOr3U0ybhh7Ki0=
+
+Name: markers/people_gray@16.svg
+SHA-256-Digest: gX9pqpiqiIzAYiR56Nq/EZ3qHZ35UaoR1usAkb+1DUA=
+
+Name: markers/symbol_like@32@2x.png
+SHA-256-Digest: 6CzBpJqYyhaY4cgV25zeNHeuhMGSw4aYMceW7sFXCt8=
+
+Name: markers/star_dark_gray@16@2x.png
+SHA-256-Digest: CbaJkvlkWQFSSjVeuULfXQtBQ5SLrER3cTtX9IrJFck=
+
+Name: markers/symbol_line_graph@24@2x.png
+SHA-256-Digest: w8yBM8KqBzWfBDjNm16em2sIUU9qTf3OsJMn1DC9Aw0=
+
+Name: markers/progress_1o@16.png
+SHA-256-Digest: zD7Fax3Z8jfQ0UDv3HuiZcLj+CquTAY8sXJz/0QYzTs=
+
+Name: templates/business/Company Hierarchy.xmt/content.xml
+SHA-256-Digest: ykKvpdsJ7BZZXi53immylrL5Gmk9zuQhoeVWta5LsO4=
+
+Name: markers/week_tue@24.png
+SHA-256-Digest: 7aJLHwJTxhpQrzU7JFdtaste+0edmLnNe4PnXZejTzo=
+
+Name: markers/month_mar@16@2x.png
+SHA-256-Digest: zl0zyegZJp1zROxU5Q7HYhZlQr+C1DtD+ziyywsEvL8=
+
+Name: markers/people_orange@32@2x.png
+SHA-256-Digest: 1sDfSw5qi3Nzoq5gn9tVgrfHgtKzJjV3KAO10hLlO+k=
+
+Name: templates/education/Paper Outline.xmt/styles.xml
+SHA-256-Digest: NFbCcmUJ9vCpnbTzTvegkgYA1qnkhac+1iWifoQXLwI=
+
+Name: markers/priority_2@32.png
+SHA-256-Digest: beaAlhiRlkcQfid1DdYJwN3PAbU3Ql9ELvFfVcmiP9Q=
+
+Name: templates/education/Compare and Contrast.xmt/Thumbnails/thumbnai
+ l.png
+SHA-256-Digest: roZuvkbXonIgrdxRI3q1WpA+b90FVklvBAOioHwViws=
+
+Name: wallpaper/wallpaper/w3.png
+SHA-256-Digest: V6cOLwqxFYqRucippVC6oUYW9nwC1or8byRaQMcm9Xk=
+
+Name: templates/personal/Resume (CV).xmt/META-INF/manifest.xml
+SHA-256-Digest: gwLIAsxLuzlFsyHQ50+88dewnbM4i3716/ygL5zVq2g=
+
+Name: templates/business/XMind 10 Years.xmt/styles.xml
+SHA-256-Digest: n5gV61x+bONy4psx6rNKJx2n//B/4AMv0I1G+Ih4dEU=
+
+Name: markers/star_blue@16.svg
+SHA-256-Digest: m3pTtCrpOcN7hGEt7lNkxLvrDWmf8tA+t1StxkSoLFs=
+
+Name: markers/week_wed@16.svg
+SHA-256-Digest: qFw1VTMMHi8RLBOqx8GRwXow7Am0n+eGDVZIXnxXib4=
+
+Name: templates/education/Exam Review Plan.xmt/META-INF/manifest.xml
+SHA-256-Digest: Dk14DEPreJTtiAgu8dei7CE+y/vH9PKwOnYKlme+Au8=
+
+Name: wallpaper/wallpaper/w8.jpg
+SHA-256-Digest: fpNBDUyD+XtTsQJvBdbMVD2CgVB8TtgC8GvIdm6vzvo=
+
+Name: markers/star_purple.png
+SHA-256-Digest: PLbr+AbP1QoQ9OVUG8GqjwKqY3yi4hSXFt1g0LLnpG0=
+
+Name: markers/priority_8@32.png
+SHA-256-Digest: 2mCc7OIvSMn8eqLmMeBMeMr81s+dWZC7YN2CGD1kRdA=
+
+Name: wallpaper/pattern/p3.png
+SHA-256-Digest: u+9IF1JHGc38wgxLWVaH055l0I6b56WJAUeT52b/6+Y=
+
+Name: templates/personal/Resume (CV).xmt/meta.xml
+SHA-256-Digest: uZzzC8ljhPyXPv7jc/RMuA8qGozaQTFsxkhWJ4N5lLY=
+
+Name: markers/priority_7@24.png
+SHA-256-Digest: 9jgC+Fd90axDrTrzTjlIgT+7u19T3sw9MnR7E4NNiwQ=
+
+Name: markers/c_simbol_right@16.png
+SHA-256-Digest: V8Z6MRyGhvbefm95QebarqiEIcY/oumy1nYJu+5s1a0=
+
+Name: markers/progress_7o@24@2x.png
+SHA-256-Digest: S7/wz1eYv/aGGmbdXwcm+lDMIXjUGKRQ3Unib0iLagQ=
+
+Name: markers/symbol_trophy@32@2x.png
+SHA-256-Digest: T1LdXK/jdAkhpAFmrxaxC7Carn6g5uZLAYNKNAyrnp0=
+
+Name: markers/c_simbol_information@32.png
+SHA-256-Digest: EuduzCZUoMtKI6iz3yjWx/zH81OialKQpXRDqNK94t8=
+
+Name: markers/progress_done@32.png
+SHA-256-Digest: AyAwGlni0+EvHuu6TpLUXTptAqXYdjgUwNsQH02Dnco=
+
+Name: fragment_resources.properties
+SHA-256-Digest: iOJCajqD0/KmVHhcn+CapTdJl4niKb/45xrL1+5YHw4=
+
+Name: markers/week_sat@32.png
+SHA-256-Digest: gtCRXiULvS+1CN+IqbwyTR+v3C09fqC9stLPLXGfbUc=
+
+Name: markers/star_dark_green@16@2x.png
+SHA-256-Digest: WJrPeiF61glSg5aULdjQLSeWVglYQH1IjDa3cY4UdMo=
+
+Name: markers/month_dec@32@2x.png
+SHA-256-Digest: 5KJ5aV3le5QN1x3RUTfm93USjDEASV+oI511enwe8gg=
+
+Name: markers/arrow_down@16.svg
+SHA-256-Digest: iDVIfs1RnDZB9jAnuXNDKZ7bFqZOOPK0xcfZKbn1fQA=
+
+Name: markers/week_fri@24@2x.png
+SHA-256-Digest: IXYjkeY4/LRdUSxtxXEhT1CozWttidRKmqL0exNsMlU=
+
+Name: markers/arrow_right@16.svg
+SHA-256-Digest: dQ03VIF/bvFPdumsabGZYJ8blpDUeKT/KqA/o4mPbf0=
+
+Name: markers/progress_cancel.png
+SHA-256-Digest: jHSWijccbl0WRAJY7DVe7HGk67uvWfOKo0IemE24sfo=
+
+Name: markers/priority_8@32@2x.png
+SHA-256-Digest: OLtZgMVxUuJkVvSsQm3TyW95X/8GfXTWeHUrDOPA43U=
+
+Name: templates/education/Syllabus.xmt/attachments/35ufq58mbh3sjntbad2
+ gbpsih5.png
+SHA-256-Digest: aiZ9jJtGmV6zGK2G/Ox7XuziQyNyReNA+rTUBmuiTts=
+
+Name: markers/symbol_medals@16@2x.png
+SHA-256-Digest: zAMGJ4zWZjnGrHGIs3Rx3zntsaZKy8uXyyMAM0TbaVw=
+
+Name: wallpaper/pattern/p16.png
+SHA-256-Digest: HSL8+OS+Gk0Vmmx510uANqflhmXnYV/wsS3/og0Yu+g=
+
+Name: markers/markerSheet.properties
+SHA-256-Digest: B730LBFy1F7z+WRaWIS1KwFX2Bmb5HZTDPkzbEEPXW4=
+
+Name: markers/star_green@32.png
+SHA-256-Digest: opRPt7/4/7unib4flMwklSljTEuVfrzGDMoWaQ4yW1s=
+
+Name: markers/progress_7o@16.svg
+SHA-256-Digest: UmzmaxcCffY68jtw3XI3A6FGUEkWBGPuyyCjbQ0s0wg=
+
+Name: markers/symbol_pen@16.png
+SHA-256-Digest: SFNhkmiy+oPbriukUUIOITeDLC/hmVL3MTRnXq8rYY4=
+
+Name: markers/month_apr@16@2x.png
+SHA-256-Digest: YjnWytMU/qDP+me8ragBlBrujNr8wOCvAcYX6gBL3rc=
+
+Name: templates/personal/Travel Plan.xmt/Thumbnails/thumbnail.png
+SHA-256-Digest: ID0E1HVv7RXliF7aKLmF9Qhh0dR+zYOal03MKaf9idE=
+
+Name: wallpaper/new_wall004.png
+SHA-256-Digest: UR7jY6M/VgprH0bcAA5Ns8Css8Z6vNFZUO0MTm036bM=
+
+Name: markers/emotion_surprise@16.png
+SHA-256-Digest: uJaiaI9YD95Cl/M0kvhGlifNPGEP45ObYmk7xP+GqEI=
+
+Name: markers/star_gray@16.svg
+SHA-256-Digest: YueICtB/+xUR3a2RUPN0pnJdpvqK7tG/kgustUABtTk=
+
+Name: markers/symbol_flight.svg
+SHA-256-Digest: ZVtcTNk5a2MgityvW4vk6a8+qp3yXO6XYyOsk3OqmvE=
+
+Name: markers/month_jul@32@2x.png
+SHA-256-Digest: t/dGqW/6DjGtJEaSlAqrl/OjnTI87cQelzH9zHbJlM0=
+
+Name: markers/priority_3@24@2x.png
+SHA-256-Digest: PQVypM4qHrCUym2cml4+D5pzzL1RR/6hVSxEvYlgABY=
+
+Name: wallpaper/wall008.png
+SHA-256-Digest: qCyEXjy3TzZL7QKEYSv05Tp/3gbFDilXNQZs/ZDEHeM=
+
+Name: wallpaper/3eoo54itkbbt6osro6m0qtohoh.png
+SHA-256-Digest: 9vQqpmHLU+zUuKJ9h3WxATctYvI+ATZApmf1tsuA01g=
+
+Name: markers/flag_purple@24@2x.png
+SHA-256-Digest: 2aoI/YiYMNGlpPNZJAykMyDHuQa0b1WGKntdGB1Q4B0=
+
+Name: markers/c_simbol_exclamation@16.png
+SHA-256-Digest: nRxnt0QDm/daGw67kcTgmHWe0AvwP6/j0YR58lbKuKc=
+
+Name: markers/other_social.png
+SHA-256-Digest: FsdJRkG6C2+Fvrx+yaHD4F1bYktYsWvlVKWYIJsLzTI=
+
+Name: markers/progress_half@24.png
+SHA-256-Digest: prSVipTTBpUijBMUtPGQrHQxErMX/52NK+X2VAOD9l0=
+
+Name: templates/business/Business Timeline.xmt/Thumbnails/thumbnail.pn
+ g
+SHA-256-Digest: zyliXWGXW1LQpepc+alKv1YxDrMroEjtmIlc0Pi6ZRk=
+
+Name: templates/education/Exam Review Plan.xmt/meta.xml
+SHA-256-Digest: 7tWG1gEYE1L8WpsxeTsEvgtIAokOiQ5Tw1G1mp96acI=
+
+Name: markers/priority_6.png
+SHA-256-Digest: 9hxz4BzO5vapb6v+Wu08iQbj1D0z1kgVQalhBnwAtEc=
+
+Name: markers/arrow_down@16.png
+SHA-256-Digest: r9AAc1e0oZTUoMKMhy2kxWzVxCWEyHRHmI9S5fbtQoI=
+
+Name: templates/business/Business Timeline.xmt/attachments/7herg1h8t3i
+ h0khop1ou8llc3p.png
+SHA-256-Digest: XncKPEXOoVYIOa7JbvmPGDVpdu6iMS4HHM0lsMGfzTw=
+
+Name: markers/progress_7o@32.png
+SHA-256-Digest: PRZQfsNITo035FceN0ZC/c/u7fTuDpVKcqF9t37Gv6g=
+
+Name: markers/arrow_down@32@2x.png
+SHA-256-Digest: v4qq/qOYmOW64/SEnehpxpruEj69utz6vLRs333lEhw=
+
+Name: markers/arrow_left@24@2x.png
+SHA-256-Digest: TV1LEoH+m2+Tzufn0VDTWVfmiUSjh5F8F7ebXoeLt5s=
+
+Name: markers/people_green@24@2x.png
+SHA-256-Digest: /XWaFtS61m/y/Um7igs0i4Iobap25zltCJnE+l6Dr80=
+
+Name: markers/c_simbol_exclamation@32.png
+SHA-256-Digest: TRQk0ZY479AljxDcxEQUSkiTlcgB+rJ34XtgiK7AbjY=
+
+Name: markers/sym_attention@24@2x.png
+SHA-256-Digest: 5IxAOeMfbNlNbI7PiTfk7Zh9J5OR6aYb7ScXcCYZXAI=
+
+Name: markers/symbol_medals@24@2x.png
+SHA-256-Digest: olIuAR1/70bAZJ9/O6Rd2eNPwvgC8vVs5JVOxOzeB4Q=
+
+Name: markers/progress_7o@16.png
+SHA-256-Digest: 6reU5cmZtP+aWV02TURIrYjDDcdMHgnb7eUmnwVVrwc=
+
+Name: markers/people_red@32@2x.png
+SHA-256-Digest: RF4aHe5rh+q9h4S04TIkdsz3GL108SRck0EDjuM9kwE=
+
+Name: styles/styles.xml
+SHA-256-Digest: qHWglkgDLYTbUm14V3o8y1UBIxlPx/GtAOYUtmE/mUg=
+
+Name: markers/flag_red@32.png
+SHA-256-Digest: ZQeKQeKZKZZ3NL3d3eI83tP0VeR9qSilEIhXr0eQDtE=
+
+Name: markers/flag_yellow@32.png
+SHA-256-Digest: uD8csChxwx8/Atom7do2Qa/Oi8IhbRDr6LzFuT+SBMM=
+
+Name: templates/business/Projects Dashboard.xmt/attachments/6qgqinhhft
+ phehs1rtcpk5hh6g.pdf
+SHA-256-Digest: uSBhIBuVDdxPWyEjxKgDDBTAUoYSOZD+0TvLMGlc0lk=
+
+Name: markers/symbol_exclamation@16.png
+SHA-256-Digest: q4HoHUyeN6Ozs2IehEwBNIUmK5ouTHiWMuyEnKytJYQ=
+
+Name: markers/month_mar@24.png
+SHA-256-Digest: Z34pWkuKShQ00Q3hhGiH9iDRc26fbzGql3TAuSq/iHw=
+
+Name: markers/month_mar@16.svg
+SHA-256-Digest: 89YV3TEzCCg8a7CxPkhSIFZkLZ/E75PidSU+zPCAiLY=
+
+Name: templates/personal/Travel Plan.xmt/content.xml
+SHA-256-Digest: NL+krygTLxJ05uwlBzNUwyFtM83+dlSeGBCrMal44Tw=
+
+Name: markers/symbol_pause@24@2x.png
+SHA-256-Digest: cqoLmgLTUxUSRv5wYbeDu13/B6LDhQYCmWIkjXLmH08=
+
+Name: templates/business/Company Hierarchy.xmt/attachments/5iaap7ivfm9
+ ufqqamu0fqmka93.png
+SHA-256-Digest: URR39K68zvW1blQaHtYEsjwEf4l6msjuj59xixXsh+Q=
+
+Name: markers/flag_red@16.png
+SHA-256-Digest: hLrdCNf3tpQTgiE4si7vBoIcfy6+gO5M2RlBhfNtiuU=
+
+Name: markers/arrow_down@32.png
+SHA-256-Digest: EgnvrJ2AQiE36Vuq6ApEtMs09pv8A0oFQSTR36SXCn4=
+
+Name: markers/flag_yellow@16.png
+SHA-256-Digest: PR9LJBOQeGdH4Y8mxeUDsqLsZ1jWAyJhhZyDGW8bzVs=
+
+Name: markers/star_gray_half.png
+SHA-256-Digest: kMHtomHkCIo1QM0QD7BcA8AMFCmin89kQSCKjjLUwrE=
+
+Name: markers/star_yellow.png
+SHA-256-Digest: ZB7kYD0hYfLdqIOlfgBP/mIXpP+PiWTgmhQ5NqCm9dw=
+
+Name: wallpaper/wall024.png
+SHA-256-Digest: oxU6KqR3h2l/W8gSiepm7j7zDDEYisIN8y+tDqqcHuc=
+
+Name: templates/business/Business Plan.xmt/styles.xml
+SHA-256-Digest: laJ0uHXer1zxHmwO6OcDHfnPBL126pfbjUjwLtoEvUY=
+
+Name: markers/star_red@16@2x.png
+SHA-256-Digest: QomRPx/it3at+uavHZz/vdIFG7Ki9QHxJET4nFVF43E=
+
+Name: markers/week_sun@32@2x.png
+SHA-256-Digest: OjZYpfMQ+vo37NEpX08Bc5TdQF3M3vTPvbA+pqWyl54=
+
+Name: templates/education/Class Schedule.xmt/styles.xml
+SHA-256-Digest: H1noW95dUDH/o6XF7SA50PrjqfMPeO3ryni0vTPXlus=
+
+Name: templates/education/Class Schedule.xmt/Thumbnails/thumbnail.png
+SHA-256-Digest: 6/sKl8zgYJ193cB8HKXwL8O7jODpT9rhQOjZE+x9XNE=
+
+Name: markers/symbol_attention@16.svg
+SHA-256-Digest: wHJdOmVj9cXUOsLyIpmPCTRBPhxvNEirsQo4s3paXgA=
+
+Name: templates/personal/Resume (CV).xmt/Thumbnails/thumbnail.png
+SHA-256-Digest: qqzOpLcJm/7/1rNP/jcT1DfH3iW7GzGouC2kHV0u8/A=
+
+Name: markers/week_mon@16@2x.png
+SHA-256-Digest: rKBJDzYNGipmJ/28RBhfnckc6z9ZVLKQNisDlM4cvNY=
+
+Name: wallpaper/pattern/p6.png
+SHA-256-Digest: NW9AhbVO06NtdBghgqQfKwk96ugUevjx8jRT+/HhlRA=
+
+Name: templates/education/Syllabus.xmt/content.xml
+SHA-256-Digest: oO8wQccG0LwtG4nUj4AhatJdGzEvpEEDlNSTTtjwWTs=
+
+Name: markers/symbol_line_graph@16@2x.png
+SHA-256-Digest: D+xpDkKqFWRj46nwNIm13DMLJwZ5cK5o8TYbZNLvy2s=
+
+Name: markers/emotion_angry@32.png
+SHA-256-Digest: zW2+kKX4KA+Gvzq2cS494gwvxns6/ri/oE7+H4mVXKs=
+
+Name: wallpaper/pattern/p15.png
+SHA-256-Digest: mV7p7zOf1xN0HHu44/IfC4Li70EPr1ohW7yybs97LSY=
+
+Name: markers/other_buble.png
+SHA-256-Digest: LUh66yJhj3RlrzI456OCFLpZEwToOLX2fD/Pn1TalUM=
+
+Name: markers/symbol_question@16.png
+SHA-256-Digest: 3bU/mMFjeDafPpRoLMuIhnUaB7UfQiz+rvaWntdcKDw=
+
+Name: markers/month_jun@32.png
+SHA-256-Digest: 0zFURqPnqZDqI6QY5ScSt7bGSnmpbNSC8IH7W05qHWE=
+
+Name: markers/week_mon@24.png
+SHA-256-Digest: 9toL0FWnLe5rC8udiM9x9c4KkZr9RZ3IXu2LZRZ3bPI=
+
+Name: templates/business/Problem Solving.xmt/styles.xml
+SHA-256-Digest: x4U8CwDQS4WpH9BVa/Un3fQMB0lRodsJ1IPUR1Jq+ZA=
+
+Name: markers/symbol_exclamation@32.png
+SHA-256-Digest: syJrjSL3PFKpZZy00bdhkU4wW7R3aeeDGC/5AjyP+CI=
+
+Name: markers/week_mon@16.svg
+SHA-256-Digest: sSn+AQSelynSnkUyZIbl+snVK8rJsqUjVhZJQopQAVA=
+
+Name: markers/other_unlock.png
+SHA-256-Digest: hCBMMvp7t5mCgtOWmCTLjIdZdh2wph9vHAl+WMdhfdQ=
+
+Name: markers/month_jun@16.svg
+SHA-256-Digest: yeJknp2U8KcGoBTbQlMuEYHL0NHGzALJMfO3u3IfPOs=
+
+Name: markers/star_dark_gray@16.png
+SHA-256-Digest: eWi1+DdX30wR4K+Km4sWhAXhxxPTPUxSYo8pUYKb/AE=
+
+Name: markers/markerSheet.xml
+SHA-256-Digest: GFjf5+Z5KEUit+ZFjvxWeB73mSrZ4MLVh54Ucscp97c=
+
+Name: markers/star_orange@24@2x.png
+SHA-256-Digest: UzyMPg9coqI7Ibl73CYV177olu4S3P8wO1zT7cJGR3g=
+
+Name: markers/priority_1@32@2x.png
+SHA-256-Digest: 6+//qm7nGcUaC3hj00WzCvtjC+36aVmxYHKcOmGYOvo=
+
+Name: markers/other_lock.png
+SHA-256-Digest: KUvHlukl7HdRnWSZsWLWsJel0ls+UQr3o8k0IEOB3Rk=
+
+Name: markers/month_jan@16@2x.png
+SHA-256-Digest: NN8AlI5XCBsgvOViAQyi+8zaQzTQ316EIa+qBr4/4U4=
+
+Name: markers/symbol_money@16.png
+SHA-256-Digest: sdE75HbcJk95/tIxlaB3AXtBYY6JrgBS6Gk2TN+w7Ls=
+
+Name: markers/emotion_angry@16.svg
+SHA-256-Digest: YZgLh3xPDAq0NWK8uslakg3u3QhTXz1eMF6UVIDox+w=
+
+Name: markers/month_dec@16.png
+SHA-256-Digest: 6dZsnvr9mZGNVs7IbYJBgTJveMmc5OTtR+yM85RRguM=
+
+Name: markers/people_blue@16@2x.png
+SHA-256-Digest: 7LA8vz0oH7ICXRC9oMu8q51nynirOSJ/Yz0XAYh1K/0=
+
+Name: styles/styles_zh_TW.xml
+SHA-256-Digest: ZN9O1he1I14ctu9vYe1Lo1PdJj+Pu3rsC4k0mou156c=
+
+Name: markers/emotion_cry@32.png
+SHA-256-Digest: 7qOstFER7GtSJYDXXm0oWqJ918cU6zAcaPih1xVJkB0=
+
+Name: markers/progress_start@32@2x.png
+SHA-256-Digest: Au7kfTeSe9Nha1tl0UqFI6bH2jAqi/vZqRCav1zZDN4=
+
+Name: markers/emotion_cry@16@2x.png
+SHA-256-Digest: S6N9EOZQcA15v4wm1wsQKzn6wa+nG8iFCfBfYuePj2w=
+
+Name: markers/progress_1o@24.png
+SHA-256-Digest: 29lpy2M/Jrihj/Vozgv9jN92zwABjq9Toqet2j7+1og=
+
+Name: markers/c_simbol_plus@32.png
+SHA-256-Digest: laNPDFqv4dSUMr1EAYcFy+CYZOAr/a9UUhBFJSVVWL8=
+
+Name: templates/business/Business Plan.xmt/attachments/60ci5487efmnp6u
+ 2rvuin2ljhg.png
+SHA-256-Digest: 0DZaspr8R/x2leIOwKwNqfvc9OABoA2bSSO7mCLPROI=
+
+Name: markers/symbol_bar_chart@16.png
+SHA-256-Digest: xi3sdiXg10OQkh5tW3s8sVS7kgBBEybGEZJTwo7cZGk=
+
+Name: wallpaper/0blprld1cennpngtiieoo5cj48.png
+SHA-256-Digest: uPhUu0xfmJRXkEfwUcTj4f/iNSrCiZrOEUPXtENGLLU=
+
+Name: markers/priority_4@32.png
+SHA-256-Digest: T2Mu+QIPCU/L0DoEDpZnzU42Mx02NJSY/FZ/TBL4rXQ=
+
+Name: markers/star_yellow@16.png
+SHA-256-Digest: tyk+CuwYZZ+JyxIrRCdGCCodmscyQk1u78dj5lvNcsM=
+
+Name: styles/themes_zh_CN.xml
+SHA-256-Digest: 3Ue7OoVUVw86HVJqaKP28rMU3o/sOLgZ7Ishrm5Qqj0=
+
+Name: markers/priority_4@16.png
+SHA-256-Digest: zv7fJFGNm7PaWdJqmuQKb3srghA0PhuAvUUwA8k0mUA=
+
+Name: templates/business/Balance Sheet.xmt/content.xml
+SHA-256-Digest: g6pambew1IMCyZzjpCzi6eDPqLx5LlZvykN1JegK/vU=
+
+Name: templates/business/Company Hierarchy.xmt/attachments/10bg5224jgb
+ 8utll0nrifk664k.png
+SHA-256-Digest: 5I1uYFN7rgWtDHwLCgLWfHwBwPxcPJzcJsuEcN8jzdw=
+
+Name: templates/business/Business Timeline.xmt/attachments/7k8l426lh9i
+ 3frngeee8l1rj72.png
+SHA-256-Digest: HYEKamOgH27eAun3zZF9YS+vbmnoz2PoX3JYXx48UaQ=
+
+Name: templates/education/Paper Outline.xmt/Thumbnails/thumbnail.png
+SHA-256-Digest: mWhDiJdwuMct4BwVKhdPAp4EUvgf3lAjMcnYct2xr1w=
+
+Name: templates/business/Company Hierarchy.xmt/styles.xml
+SHA-256-Digest: 6ACl4krqHuW4Ynzl2p3gCWMvTHBOXkfEoaGjQQWFfmQ=
+
+Name: markers/progress_done@24.png
+SHA-256-Digest: hyrQWibhJlLv0/FhmFmYDDxkHLpSCL8omVG150vjatM=
+
+Name: markers/priority_5.png
+SHA-256-Digest: z3SsnowFnwLCNz5mOxztscePPrfKkZusjgtgplqmoeA=
+
+Name: markers/priority_3@24.png
+SHA-256-Digest: s1BBsRc0NVbAbcekxyw9EoviuFSb+rW+RtAG9Comcv4=
+
+Name: wallpaper/pattern/p14.png
+SHA-256-Digest: bK3kCVprAzIqp/i4QMFBjekLI0lvdiUPPCP0VShfWis=
+
+Name: markers/symbol_pie_chart@32@2x.png
+SHA-256-Digest: 9wmAET/byXngV5/GxyL6LcPdG1RydbOR0hNISrPzJ6I=
+
+Name: wallpaper/pattern/p5.png
+SHA-256-Digest: DNzejIf1grJ1JUUDn/Z2yh35Ip7djz7g1ULfbUZUdL4=
+
+Name: markers/progress_half@16.svg
+SHA-256-Digest: eOCIvFiL94QQUZdhrADmeIB+pyBG0eLakQ/R84aTs3A=
+
+Name: markers/arrow_down@24@2x.png
+SHA-256-Digest: TCexy72hBNmp9HEvQikGlLewb9Et9ifRL7RPKjvvJJ0=
+
+Name: markers/emotion_cry@16.svg
+SHA-256-Digest: 88b+mLW+6ERtqEkbsfCau4RO40xJ8T73xQmcZZzbHSM=
+
+Name: markers/people_dark_green@16@2x.png
+SHA-256-Digest: 5nlYusf7ueCBWrosNwA+f9YBjJ0Thk/8Tl+t9+Xj13s=
+
+Name: markers/c_simbol_plus@16.svg
+SHA-256-Digest: /zv+iT0fKZyjxP2VXPKJcgpKlMbG5YxQ74Chz8o2Foo=
+
+Name: markers/arrow_left@16@2x.png
+SHA-256-Digest: jIkzlZdzjdyxM/JodAP2bG/pCh5UZPumolNSQOsyGtg=
+
+Name: markers/people_blue@24@2x.png
+SHA-256-Digest: zlTtfCqJAVsyPzLtw0kBceLxBXfoa8Be0n1aUWoF/jk=
+
+Name: templates/business/Meeting Management.xmt/meta.xml
+SHA-256-Digest: T92jixITUpprZKmBhfck6hJs3gyJqaqeOq1B2+E+wKk=
+
+Name: markers/people_green@16.png
+SHA-256-Digest: RrfVBVZVylMv4KqFJxIyHZUChTwdzUOlbTSFhUpZcpE=
+
+Name: markers/symbol_question@32.png
+SHA-256-Digest: /Fm+lI0GQo0sfAoEYNcwhF7cPEKFmPxcX+6ugBEYPAg=
+
+Name: markers/emotion_boring@32.png
+SHA-256-Digest: 7FFHPUSSZzTgTaq5MOJc0CPLw8p4M9n+uG4Bcv4B7SY=
+
+Name: templates/personal/Shopping List.xmt/attachments/54q8sonlhji0nf1
+ fs8365om1t2.png
+SHA-256-Digest: vA97GFhr6Q2zcSNy2ZtBnpVgu8NEP0e+/PUnS65qeT4=
+
+Name: wallpaper/wall023.png
+SHA-256-Digest: JFzyYKolcNYzVeabBKBAsHI7n3zFUMoM2LlaOMBjfPQ=
+
+Name: markers/priority_5@32@2x.png
+SHA-256-Digest: A2LJRjvBtU/Lzq8VLs8dcIVQX2glihswoG4BjIkbFUM=
+
+Name: markers/star_purple@16@2x.png
+SHA-256-Digest: YAgrgaHmI3gqtM2OyI+n3pUTs1d3ZXfYd+uZEoW34Sc=
+
+Name: markers/progress_half@16@2x.png
+SHA-256-Digest: LEgoH2PAXfTv0cQwWTX1Ybjkv4asrwi2pfvpuSTxmvo=
+
+Name: templates/business/Manufactory Flow.xmt/Thumbnails/thumbnail.png
+SHA-256-Digest: Nr/jqO7bHx9qRq+FqD2/Bg5UqtTA2KH7tRRVGOyj64Q=
+
+Name: templates/personal/Weekly Plan.xmt/meta.xml
+SHA-256-Digest: 006Zz6kgFd7DxoR/k3SGKvXvVAhIMAfPYAwRAHs65uY=
+
+Name: markers/star_green.png
+SHA-256-Digest: mjXFD6So5gPRnEEXFpeEhuH57he2A5QQHBpGTMqddoE=
+
+Name: markers/symbol_money.svg
+SHA-256-Digest: +kC1rzKJlJqw/bHDS1pxh/7GV5dQOXoT5hKYPZyjEHw=
+
+Name: markers/flag_blue@16.svg
+SHA-256-Digest: 9NMLoh+TYJglh6XSexOnk+5Jof5/qgl9wiFRFs+vpJ4=
+
+Name: markers/emotion_embarrass.svg
+SHA-256-Digest: lKZj/U7vMKOaSFvig9zEpQVxBHlCdWMm0EKP/RszpxQ=
+
+Name: markers/emotion_embarrass@32@2x.png
+SHA-256-Digest: BuhL3OOE4Vk78mnCV6NO5KiG1RbasaipEVcvscEEtBo=
+
+Name: templates/education/Class Schedule.xmt/META-INF/manifest.xml
+SHA-256-Digest: LMs4yFRmaeJtjp1Gi+9RtCcwRusvJZhIoUCaFpbH1Lk=
+
+Name: markers/emotion_boring.png
+SHA-256-Digest: vSQX48OFkvnXvfGEL7gWgJgvwCjaUZkjjqyzpBF/Lr4=
+
+Name: templates/business/Manufactory Flow.xmt/styles.xml
+SHA-256-Digest: ScnsA/+7bGGG0A1mmfaVMw5wNzgKCEYG3eH1anrL+A8=
+
+Name: markers/people_dark_gray@32@2x.png
+SHA-256-Digest: V8Tl2knAt90y/RifcDymnjytjXJSNVgTifgVINAJLWU=
+
+Name: markers/arrow_down_left@16.svg
+SHA-256-Digest: kBIl7RRLRq2shHZeasJb9p+CO8LBK7XeE3VwTANoLwc=
+
+Name: markers/symbol_plus@24@2x.png
+SHA-256-Digest: TAAxdK8zA7DN/DI+Xjxgn17Swq8eX8rxg8q8iJA6zoY=
+
+Name: templates/business/Business Timeline.xmt/meta.xml
+SHA-256-Digest: Za9CRJZp4UPxcwTyw3lCsAzP6crvxj7okaU0Cd9ZF2Q=
+
+Name: markers/priority_7@16.png
+SHA-256-Digest: XqwjeQc7DnIh/vc9iubJZmEWHE33EOSnGb9GcsthkLE=
+
+Name: styles/styles.properties
+SHA-256-Digest: pLoskllq0R1HQywhaKHtKDCiTMs//cLpP4VH1W9zgrI=
+
+Name: markers/flag_dark_green@16.svg
+SHA-256-Digest: lib2LrasITAgYauPJbSZ0TgEYvcUWVh7sOfwvK3yCVg=
+
+Name: markers/symbol_pause@16@2x.png
+SHA-256-Digest: V4Ghms/m//+lRwTkWN8kVaZEnUrjhL/YjbjMyf7PFBk=
+
+Name: markers/arrow_refresh@16.svg
+SHA-256-Digest: DWoNe+wRRlSs/wMO0geKhxuBzrqEt6w+u/304GBjCqo=
+
+Name: markers/priority_8@24.png
+SHA-256-Digest: v42VR2Z74KZf2aIwaDOe6/HLmv/K9EyH6IUwJ94voGY=
+
+Name: markers/emotion_boring@32@2x.png
+SHA-256-Digest: z9v7fCWSSDfvvcA0n7XU3VN5HQwyal88NdD/NSmCGsE=
+
+Name: templates/business/Company Hierarchy.xmt/attachments/6qhp2t572ah
+ 1iesjm73kdi48hn.png
+SHA-256-Digest: URR39K68zvW1blQaHtYEsjwEf4l6msjuj59xixXsh+Q=
+
+Name: markers/arrow_down_right@16@2x.png
+SHA-256-Digest: RzCYN42sl8w5K4ssnDSaCscjp4o2lrTcMM1uyDSf0Qo=
+
+Name: markers/c_simbol_question@16.svg
+SHA-256-Digest: CZp0hd+6jKhY2gUfPivQhJ6AewC2hOzfx6uouSj2LV0=
+
+Name: markers/progress_3o@24.png
+SHA-256-Digest: +efb9DK2+lWehsMXnnddy4wf9zwEp/E9M7b3s28k/Yk=
+
+Name: markers/month_nov@32.png
+SHA-256-Digest: QxErIImzLt6htki53DgSNnLHcVyPNk9AMqig/ip0e4Q=
+
+Name: markers/people_blue@24.png
+SHA-256-Digest: IGiDOmH3TBXmMf5L2X1/YA6am86kXEPGVR82wPWdjtg=
+
+Name: markers/week_thu@32@2x.png
+SHA-256-Digest: urs7BGAqTaFU8fNKsayNugXw6bXbM5O2LYY1CDGKZws=
+
+Name: markers/people_orange@24.png
+SHA-256-Digest: 1OaZ2bGMZ688E+F6ycLkePHnOu9StdnsvMiiNEfdMms=
+
+Name: templates/business/XMind 10 Years.xmt/content.xml
+SHA-256-Digest: 0UURA0vs7Xvcx6yLOEZbdgfTChGvDxcuiwRe1zJiEfM=
+
+Name: templates/business/Sales Management.xmt/META-INF/manifest.xml
+SHA-256-Digest: tBepU+jo+ChjGPuZpOI9WVQgXGMlQtEZDvKWJD3B8jg=
+
+Name: markers/other_exclamation.png
+SHA-256-Digest: fci/T6lcGJ5+/RdB0N5MJ3ZmV2Ef8mhQMnHwJQrklNg=
+
+Name: markers/symbol_heart@32@2x.png
+SHA-256-Digest: jl/JTT/1HR5+5+OVCzO0NkowNnVux+eSTOgkV77fLQc=
+
+Name: templates/business/Company Hierarchy.xmt/meta.xml
+SHA-256-Digest: Kpypzp0nmyF3vT/w0mT1/WUt7Oa4laF2IRCEPGZUUxQ=
+
+Name: markers/week_sat@16.svg
+SHA-256-Digest: juJvX7dXd0/A5TNvt8/d4I3UrxtcWfOqRF/6aVKROqc=
+
+Name: markers/arrow_right@32.png
+SHA-256-Digest: We4JyLZYRPZcN3wr319D11tMo3bdp18hfrW18ICABgA=
+
+Name: markers/month_apr@24.png
+SHA-256-Digest: 1TJzM3XRlgM4U0BRjPJIsdfly1d+zhvouApG3RP2gOQ=
+
+Name: wallpaper/wall010.png
+SHA-256-Digest: da4bOebGBiy4DcNiOcN2yAlGV4zP5t9rxfxFBHUd78U=
+
+Name: markers/progress_5o@24@2x.png
+SHA-256-Digest: QSk3NRGdoFVJ47qFIE0k8oZF2VmdlFKVzpWK4MXzf78=
+
+Name: markers/flag_red@16@2x.png
+SHA-256-Digest: Mc/LCjoMO2ZVkn4X8OMz0qki9jsaZtIG/O5w5A4i9mg=
+
+Name: markers/symbol_music.svg
+SHA-256-Digest: uiQ90uXj/mH0T/CGcBK97J8prXReB4kPe78riNYHywU=
+
+Name: markers/star_green_half.png
+SHA-256-Digest: 3hyRdM8oDG30OX9wtp7+Cl7jmc8tV0AbxUOhGvamcok=
+
+Name: templates/education/Example of Workflow.xmt/meta.xml
+SHA-256-Digest: /We57FX0oqeC6v/hIJHKhGaDC5JneHzaHqq2WPkA9YA=
+
+Name: templates/education/Compare and Contrast.xmt/styles.xml
+SHA-256-Digest: zW+z1DFAL6y+GTj6aTwEkoNrxRdrHeH7EhbwjBsO7BI=
+
+Name: markers/progress_done@16.svg
+SHA-256-Digest: WbdEH8O/lBkSFLJy/jW9RJn9PWXCVlZ5lZGJWmZQJLc=
+
+Name: markers/month_feb@16.png
+SHA-256-Digest: VNu7Q4wjeV21PYkP+sDDJZMnJLgFSFKMEuSxBsZyQS4=
+
+Name: markers/week_mon@24@2x.png
+SHA-256-Digest: YSACezEcUF6vx1Hkeo2vd6g+O7T5+Ds7rZgCDfZ0/80=
+
+Name: templates/business/Manufactory Flow.xmt/content.xml
+SHA-256-Digest: 5P4Z2tMFZRKJfGQHR9VOxX/P2MCCknO03ZeWLRvX2xA=
+
+Name: markers/arrow_refresh@16@2x.png
+SHA-256-Digest: QWfmSUlO4D00ZZmZ8XL2gR/c6xOxoTDigENrETbrYmU=
+
+Name: markers/emotion_surprise@32.png
+SHA-256-Digest: hHxAdwy7GIJk59fybayyaSWW39UzjG1PQLDaxJqV5e8=
+
+Name: markers/priority_9@16.png
+SHA-256-Digest: +8JM4MRUm3azixp+fRzurcSEq/U5jscMP3s/n4bxxKA=
+
+Name: markers/people_red@16.svg
+SHA-256-Digest: 6XY2C1cOJWBwRC4tq6xHaBEm+GP8BfVA1unumcIlKrA=
+
+Name: markers/emotion_boring@16.png
+SHA-256-Digest: sFgh2SwF7Da9ym7/sSiicPYJKUQrwbaEO6He7M1PHeY=
+
+Name: markers/symbol_pause@16.png
+SHA-256-Digest: PPlYKRzLd7AhFhFOCv2pHuNXnwCQ0ZQYFLVwoFq9YR0=
+
+Name: markers/month_apr@16.svg
+SHA-256-Digest: 7sYZkVCs7gGEHs1DsqiFkpcyZeE2ukEBwcZvriXzgyU=
+
+Name: wallpaper/0bq0f5gfipor6kpheuimvgdsct.png
+SHA-256-Digest: XRBPk2cieWzAaeTXvDS/baSo3cpSdHbakIZQ+Lw+k94=
+
+Name: markers/flag_gray@32.png
+SHA-256-Digest: 1cP4HWMPxh3bIu9rX98OLRCuorJAdtBIQEq7SNekA/s=
+
+Name: markers/progress_5o@16.svg
+SHA-256-Digest: YwOIOTCS5Ke/tfkcHNs+tfRLlBKyyYq9eOD2Sd2SPVU=
+
+Name: markers/star_green@16.png
+SHA-256-Digest: U/A02oXErjSuVUOd+mSPTBGqdFv573l6vFHED+fKyWU=
+
+Name: markers/month_may@24.png
+SHA-256-Digest: u/zdhobtC+taUKa3ybHoStUOHQJWDlJW7iJrxReSapk=
+
+Name: markers/progress_done@32@2x.png
+SHA-256-Digest: IB1zuDbk7jXjvLwr40KLYMSn+HavitSDqi0uUDj1slY=
+
+Name: wallpaper/wall026.png
+SHA-256-Digest: M4+GC9X/U6pe6+0l/a+tGxxER6rhd1b6psQ5XSTrud0=
+
+Name: markers/emotion_angry@16@2x.png
+SHA-256-Digest: 3kRcDOZ1QtTGvgJRGGoxbrQ4zcUQ12iauEW33ZisRio=
+
+Name: markers/priority_4@32@2x.png
+SHA-256-Digest: ERCcjMq5iFrIByLehZE0swarkyak2lGOuDOsTzHB/ww=
+
+Name: markers/symbol_exercise@24@2x.png
+SHA-256-Digest: fUAmiQb+wfoRtkHnoIw1j0+vqkGuQrXBkGc7YqgW894=
+
+Name: wallpaper/pattern/p10.png
+SHA-256-Digest: XRBPk2cieWzAaeTXvDS/baSo3cpSdHbakIZQ+Lw+k94=
+
+Name: wallpaper/pattern/p8.png
+SHA-256-Digest: ZtpPbcc3c0589+p/ikaHIrY4AeHzf4Y06/uAaRXEcUU=
+
+Name: markers/symbol_pen@16@2x.png
+SHA-256-Digest: dzbp52Z+0JVZOSFSOt6GT1GEiR9I+18fie0FaCNzYe8=
+
+Name: markers/symbol_shopping_cart@16@2x.png
+SHA-256-Digest: QeUL3OscuynfmdbsWnwVMcy/3GhQInZJl/t63bqB9F8=
+
+Name: markers/c_simbol_information@16.png
+SHA-256-Digest: QzJuMcA/8xfjkzMQGaSN5AVLaaq1+hsAyQvKy//S/Sg=
+
+Name: templates/business/Cause and Effect.xmt/styles.xml
+SHA-256-Digest: F491NvTg3LDn5CEy3oC3pVogUGlTzSn1QPFxMCxI94o=
+
+Name: markers/arrow_right@16@2x.png
+SHA-256-Digest: OEQ9cook7WLYY0CEGdsz+1vre/idWqeLSj/NcfDiT0c=
+
+Name: markers/week_wed@32.png
+SHA-256-Digest: gZopeC+i5U8voKJXczo2/4Vmu7rEuIg6lDzpxfidDyc=
+
+Name: markers/arrow_down_right@32.png
+SHA-256-Digest: TAdDBIZDlX98iiux/rdQfRHxlCWzqEU8DiHzT6GNKRI=
+
+Name: markers/week_fri@32@2x.png
+SHA-256-Digest: geASAmOSnU7H8iO/8Q2wDlzkpp2xJ9FDzyK622Cjm4k=
+
+Name: wallpaper/1f8ptb5pjn9ujj4vefr246j8qd.png
+SHA-256-Digest: P0UTrLDjrGaqDrPdnFEKvGisiVVmxwcrrz5J1p8MBIM=
+
+Name: markers/flag_purple@16.png
+SHA-256-Digest: b0lCX6RF/U81l9DSmD5V2bK+eAHaDoMtQ9FTrgMl43M=
+
+Name: markers/month_dec@32.png
+SHA-256-Digest: EZxoxJ1kx+SSOMEwlxvQ40mTtnxS14OXB8bub/U3p44=
+
+Name: markers/symbol_like.svg
+SHA-256-Digest: MguWMlbosfUaKPkjulbfj8spUDh9yAcJaHSR2d050rg=
+
+Name: markers/week_sun@16.png
+SHA-256-Digest: WCe40HSgY22fAd0V8oabLWiU3MNBQvjWS/Lwrv6EFgA=
+
+Name: markers/week_fri@16.png
+SHA-256-Digest: tBucPbXM6I4Hi3XqYEJgf8oApwbMLnQf4PsTIiEKb6A=
+
+Name: markers/star_green@32@2x.png
+SHA-256-Digest: WdIyd01FTI5iMjX1E/fdEfL1ZYxfPRCIGnXFsIiGGA0=
+
+Name: markers/symbol_drink@16.png
+SHA-256-Digest: Iy4SLbk4xmDKMPjoukAk2qJC1muluIU/1PrIWBswpIU=
+
+Name: markers/progress_1q@16.png
+SHA-256-Digest: yzUzdVi+N+HOlNiqhDqOvGAcLCIpvtIBXod+ZJPlN4M=
+
+Name: templates/business/Company Hierarchy.xmt/attachments/34ej00jou6t
+ n7vqdqi789au57b.png
+SHA-256-Digest: lisJR9Ou51m/4tVneEdV0He5r8g2TI/YiNArCKwdR6s=
+
+Name: markers/arrow_up_left@24@2x.png
+SHA-256-Digest: xIXzP0P+slOIKNk/6CEk8VV+qdF+OTtSCmsvUXXxGLc=
+
+Name: markers/c_simbol_pause@16.svg
+SHA-256-Digest: ++ioedM8jrb/PqbymACn4cxbJYdktPjC07bkirbLHsU=
+
+Name: templates/business/Cause and Effect.xmt/content.xml
+SHA-256-Digest: 9IbZSlkemXv1ZVFUeQl2bJn1E8LAuShKBpV8O3KWGb0=
+
+Name: markers/flag_blue@24.png
+SHA-256-Digest: k1RdnHNm1D7yDaKGiHUNbZLKG3oijzfcfxHg+8ctKb0=
+
+Name: markers/symbol_line_graph.svg
+SHA-256-Digest: TmDM7MU/BGouhCw6G3Jzpp9KVi4PEYCiLDmtVk50XlQ=
+
+Name: markers/c_simbol_minus@24.png
+SHA-256-Digest: oYFbQaVFgxs3SB8wiqAh2TwM9BhSCdzDNIBhqmScMOU=
+
+Name: markers/star_yellow@32.png
+SHA-256-Digest: Ta8MOTyRjxz2y4zdNl2reTZbkI+ocS3BeXsy/bTM3/M=
+
+Name: templates/business/Cause and Effect.xmt/META-INF/manifest.xml
+SHA-256-Digest: Dk14DEPreJTtiAgu8dei7CE+y/vH9PKwOnYKlme+Au8=
+
+Name: templates/personal/Diet Plan.xmt/attachments/24e6s3j2s2qs24rcisk
+ 8nkl3km.png
+SHA-256-Digest: GEATqg7F7HltNmboy5Eh2kbCfdlDngQZnYrlrlLVbGk=
+
+Name: markers/priority_3@32@2x.png
+SHA-256-Digest: TrnhiwZbdt+Z6HdHNzCl9LnsqJ7KlAIRL3S1hukPZF8=
+
+Name: markers/month_apr@24@2x.png
+SHA-256-Digest: xNpdC5V99ARUCUMkLMeIpaU7AQXRPtHtqY3v3NQ/zNo=
+
+Name: markers/month_jul@24@2x.png
+SHA-256-Digest: 8st0i1MwHdR4xGGaCMYY0N/6WCavA6h+RwltaclleV8=
+
+Name: markers/arrow_up_left@16.svg
+SHA-256-Digest: 0Dy6x8epnuPlqQ9StHjdqyypD07ULK/NDXzTRKSawEI=
+
+Name: markers/priority_3@16.svg
+SHA-256-Digest: ZQwLp/efNE01lgkEjrqchn644YmzPXWtlYg/Vdp8644=
+
+Name: templates/business/Problem Solving.xmt/meta.xml
+SHA-256-Digest: pnZu/ytMLcMF6/7rIkCr9pGSAEjsoUceXnc1pLSnFBU=
+
+Name: templates/personal/Weekly Plan.xmt/META-INF/manifest.xml
+SHA-256-Digest: IXrdN0bCHkrdI11tbc7m0Bc0iotn4SNIIqsQFFk4Ycg=
+
+Name: markers/progress_1q.png
+SHA-256-Digest: EFXjA29uzxKhctcTiAh6+a4pFxB30/8eZ77xTu6T/os=
+
+Name: markers/star_dark_green@16.svg
+SHA-256-Digest: Ovzs8WwaPUfScWTT3V9bqQuM6DaGpIhHL8EA3QWi9Bo=
+
+Name: markers/flag_purple@32@2x.png
+SHA-256-Digest: zWumallMOB5exfritef6DKLNNV+tDgzTPH6fWAnvC7k=
+
+Name: markers/symbol_bar_chart@32@2x.png
+SHA-256-Digest: JLgjxKsaV/KsALfhcMTnD1r5Qd1cLJviaewqYlDo8wQ=
+
+Name: templates/education/Compare and Contrast.xmt/META-INF/manifest.x
+ ml
+SHA-256-Digest: FBlWlFkhY2RbcPiOIeGG6O6mjST+M1PGswgA+d0B9ak=
+
+Name: markers/symbol_thermometer@24@2x.png
+SHA-256-Digest: KJCD0f0IuThTH8gqYViZfNI7YKhmsr6Z6+AqbCNeUhQ=
+
+Name: markers/star_purple@32.png
+SHA-256-Digest: mDBPq8k+fDVsqwzV2Fkr36ojQNelNQZENZtLtAZVYN0=
+
+Name: markers/symbol_telephone@24@2x.png
+SHA-256-Digest: bSgsBmxF1FfKRl6MNe5nJ1DVTyIidUHo9VzUvFgmDfE=
+
+Name: markers/emotion_surprise@32@2x.png
+SHA-256-Digest: LqFWS5sJ5R9S3r32Dq6x5VevF8UJxlEyo8Idm04uuQ0=
+
+Name: markers/arrow_up@24@2x.png
+SHA-256-Digest: i0SuTXfR23houTLavsIdQkLi8U05ptzvsiDweNMMtHM=
+
+Name: templates/education/Syllabus.xmt/meta.xml
+SHA-256-Digest: OSl8kNyhKegIUc0okCXSpfyOjX3hiUfhGR3LoL3YPEI=
+
+Name: templates/personal/Diet Plan.xmt/styles.xml
+SHA-256-Digest: Bor3Vbv/ZKlV9DuABE2uvaIDtCYbVSrpi8dlsN39up8=
+
+Name: markers/symbol_music@32@2x.png
+SHA-256-Digest: zxVD+mKY8xF3QBqRJNv+AMH7VE6L+T2YDTMLjDRwtDw=
+
+Name: markers/symbol_right@16@2x.png
+SHA-256-Digest: qo2mbtjw4OWJQ76qFwOQU0DL7UE9jh0xPAbacsVcs64=
+
+Name: markers/priority_2@32@2x.png
+SHA-256-Digest: FHzHimjjf33m2t2r+4jUiQUiY+phEIA9CIRDzEGQG3w=
+
+Name: markers/month_mar@24@2x.png
+SHA-256-Digest: pmwXTFewUfYiKKljPNvLwPSrCoJObE/phnOvwd6I6MU=
+
+Name: markers/progress_postponed.png
+SHA-256-Digest: Xp1UV0MOJlW4m2digIovisX0kfyXLwIUrH2myPvu5eA=
+
+Name: markers/people_gray@32.png
+SHA-256-Digest: ushkfe2QGDbB+pZ6Lj6mH6ZPMaqKf74Flr43sOpYLaE=
+
+Name: markers/arrow_refresh@24.png
+SHA-256-Digest: dPoFDxSXAaEOfJHE4X7LDYJlD0homoyPLkOJJbJdRMc=
+
+Name: markers/sym_attention@16@2x.png
+SHA-256-Digest: 2IQnIW+Leo75UsMN29hOkcW6MaGXDeVRQ2eVkb5UPjw=
+
+Name: markers/symbol_plus@32.png
+SHA-256-Digest: kLeQrUGzUVBDf9/kSbZussni/iIiuc9iCH9cWVkDB0E=
+
+Name: wallpaper/pattern/p7.png
+SHA-256-Digest: uPhUu0xfmJRXkEfwUcTj4f/iNSrCiZrOEUPXtENGLLU=
+
+Name: markers/month_sep@16.png
+SHA-256-Digest: 5mOi8qq/8C3GDAbwh2PJNfot7AWElmsza2/dtYa0ugo=
+
+Name: wallpaper/pattern/p11.png
+SHA-256-Digest: sp/i3eSN+4YGeYUxb2OGSFdObif31AHH9/LuHMcFmGU=
+
+Name: markers/arrow_up_right@16.svg
+SHA-256-Digest: AAG6GxHjcm5kp7X5pyFPGIzWLMZUjD6xN5BTdpFLFlY=
+
+Name: markers/people_red@24@2x.png
+SHA-256-Digest: vlwG0FPVihJJH7t9FdttabcfjrprjjMcGro25jQCsiE=
+
+Name: templates/personal/Diet Plan.xmt/attachments/4j0tpssp1b457tb0839
+ a344dqp.png
+SHA-256-Digest: Pl0Es+ue1XCzpk2sQKHqFj2TX96qZw/EUMPbVy3ZjT8=
+
+Name: markers/c_simbol_wrong@32.png
+SHA-256-Digest: +jy7tYMCo6EsHkcRsxGfKAx5RnqhEc6G27CKJnnu9Tc=
+
+Name: wallpaper/wall025.png
+SHA-256-Digest: VLSHRsUeeqHcn37/0ZfgKvd/XeH7RoWslQyblAci+zo=
+
+Name: markers/priority_8@16.svg
+SHA-256-Digest: WWPo2rWtm6KFHuJLnQ+D1Tkt4k0gcQ4DnfBUvgTOmT4=
+
+Name: markers/symbol_line_graph@16.png
+SHA-256-Digest: 6hZFflXKL+ZKNB5o4LeOlStPFkI+BK6na+rjDMhhlgU=
+
+Name: markers/star_orange@16.png
+SHA-256-Digest: 7LkP3/ZoeFqalb3xkJfs6inKyOzu56+X1LlQ7nh/+5g=
+
+Name: markers/progress_7o@16@2x.png
+SHA-256-Digest: bu4ZxX/K8VgdTTqVmEIA9zCy7fuhPx1tco5XaS6oad0=
+
+Name: markers/other_email.png
+SHA-256-Digest: q3conZPgD7oR9LGDDqbgBMx4SaKXSJDjE4mQ4VCUhvA=
+
+Name: templates/business/Company Hierarchy.xmt/attachments/1utv746dmfv
+ fkb86huoiq8t7vn.png
+SHA-256-Digest: Rq9rhCRzCNzYffLeIRi0TIE1ub2+BAsoMkAT8pFZsww=
+
+Name: markers/symbol_telephone@16@2x.png
+SHA-256-Digest: /CNTq0miEzFfh3KWe8ymRvKerZXXQYMxtLKo+AvTR4k=
+
+Name: templates/business/Meeting Management.xmt/META-INF/manifest.xml
+SHA-256-Digest: 4hkDKWghn/bEfClbKMKGG1+/dlU1CsFQk6tqNJ3zXXU=
+
+Name: markers/priority_9@24@2x.png
+SHA-256-Digest: N0H91NepeCcCfTZ3MSx4X0EVbZZAY5navF/wvfZKii8=
+
+Name: markers/people_dark_gray@16.png
+SHA-256-Digest: vbMm2dGiF978MaC+BX37oevN4tkYZh8ZntJE9p8eTsw=
+
+Name: markers/symbol_bar_chart@16@2x.png
+SHA-256-Digest: c5TJC+fXTgoYVg697+F99lDM0tT2USfoZ9jFqYplbSk=
+
+Name: markers/symbol_money@32@2x.png
+SHA-256-Digest: HG8o1ldjcO1sbf1eZTzTegORel1ozfqCPrQ31N2a16Y=
+
+Name: templates/business/SWOT Analysis.xmt/meta.xml
+SHA-256-Digest: GUXWME/7sXLumhmZEAsgib80SG9oJwcbaFo86q6BDSY=
+
+Name: markers/progress_start@32.png
+SHA-256-Digest: TD6uhrVwKRC/9cqm98Jy/a+Y2vRbRiCtoo9zZ9tdOyY=
+
+Name: templates/business/Company Hierarchy.xmt/Thumbnails/thumbnail.pn
+ g
+SHA-256-Digest: qGCkWtvtKiY+LioSTb+Pid+pVFrAKbsGcIKK9z7QNZM=
+
+Name: wallpaper/wall020.png
+SHA-256-Digest: uqPKICiQMhdsxGA/0debPlRSIxgblpS601bH+USTG78=
+
+Name: templates/education/Compare and Contrast.xmt/content.xml
+SHA-256-Digest: w+WL+oeskAL8ZrOuOeEGYs7HRfqnbjPqsowN8zP6Mbc=
+
+Name: wallpaper/wallpaper/w12.png
+SHA-256-Digest: vFSTX0oezvB1i9xvY1aOiHRnhoTn1LOKU28LR6heMew=
+
+Name: wallpaper/pattern/p9.png
+SHA-256-Digest: LxoeC6cO1u5Cq7sn2aUPfEyd/G8m6yoPP+rBPA6bD2U=
+
+Name: markers/emotion_embarrass@16@2x.png
+SHA-256-Digest: 5fEx51yCfEZcx5MbZ/xNTlpJmppPsGY9/yHHyfFYZoA=
+
+Name: templates/education/Book Report.xmt/attachments/3i8t9b4f4ma6fqdl
+ npob1d4hng.png
+SHA-256-Digest: IiB/R1l3H6Cg0Ouv+YfADlWxCO/SHSqsNOZz+0TZPng=
+
+Name: markers/progress_pause@32.png
+SHA-256-Digest: w4NGEHGNPJuLFo4Xr2LlHGvRz+t1njxcmZuwdTqMCsc=
+
+Name: markers/star_gray@32.png
+SHA-256-Digest: yfFf3QjOW7shsdv4sKIojwVxa3DnbLqRha/yoIIat08=
+
+Name: wallpaper/pattern/p12.png
+SHA-256-Digest: V07wDjMQQaqmvUBEeZXI8ZHtpSzZzcyJDutm6ZF7FDc=
+
+Name: markers/progress_pause@16.png
+SHA-256-Digest: JewNA0y9dWeJ0wzP2ihhJCYtiIIF7fSxDYGDObOFfpA=
+
+Name: markers/month_aug@32@2x.png
+SHA-256-Digest: J6GvwFCdafnpFriQXgVzZrTRedI76nA+v6xSw++LPb8=
+
+Name: markers/progress_start@24.png
+SHA-256-Digest: ggeA0BGw4mC7nTKG5lY2kP/xb+NMDP8w/vjwzqLt7WE=
+
+Name: markers/month_may@32@2x.png
+SHA-256-Digest: NdgZSOFC6zJ8Lx8Gk9kb5125kGG7yMe6Y+dKxMUUNfo=
+
+Name: markers/symbol_minus@24.png
+SHA-256-Digest: WH6PBZpDdTYZ0WYpw7hEGfhJ8UfyXRbAg4HpOcL4UGQ=
+
+Name: markers/symbol_pie_chart.svg
+SHA-256-Digest: ufmVj6JZISB0IQBlieVE9HSnpKRQi8NylJpO2EXLTQI=
+
+Name: styles/defaultStyles.xml
+SHA-256-Digest: NvTLeyyuwjpbHMI2kQ41XKsdYao338oyW4ed2R/gNVM=
+
+Name: markers/arrow_up_right@32@2x.png
+SHA-256-Digest: 5xK/nnkBq3+6UeMTNDzk1ZopPeHPRbRZclH3As3tt2E=
+
+Name: markers/other_coffee.png
+SHA-256-Digest: GgDMKTovZ9rzZU9PJAzVx7uJXCNANvk7EA1esGJd8Z0=
+
+Name: wallpaper/wall004.png
+SHA-256-Digest: 9S08dcin1yJu+3Epm1VAysNvaVUhMX6bE0uq34Tl8fU=
+
+Name: markers/star_gray@16.png
+SHA-256-Digest: KhcGfLXy2GrtE1DtFJBV/GPS5o26T5bxQl+1kctIQ9U=
+
+Name: templates/business/Projects Dashboard.xmt/meta.xml
+SHA-256-Digest: J3EqKUVqDx9U6hhH+BTJ2qfNkpGRDMeMNBwmLv7tUPM=
+
+Name: markers/progress_start@16@2x.png
+SHA-256-Digest: rRwbFZ53z485OVqHFZA/HjwghU4uKsdoWKPZzDD1C40=
+
+Name: markers/month_sep@24.png
+SHA-256-Digest: nVRM/vhpznxKYWmAqN3Vig69l6WUmXmOZugHp9mafks=
+
+Name: wallpaper/new_wall008.png
+SHA-256-Digest: WNrNNhTaWr95d9MzkIOursBf5rP1UaT4eAOpDBaRjdU=
+
+Name: markers/month_aug@24.png
+SHA-256-Digest: v0B9oCk1G/DBNmDTYWOEWEZO2ZU+m/pv+uxOFg0Q81U=
+
+Name: markers/week_thu@24.png
+SHA-256-Digest: dAQGBW8RIgRebxW3LfTP8UncGidYXDWk0ubflezVSk8=
+
+Name: markers/priority_2.png
+SHA-256-Digest: Af9ITI6bLBBA3AcEy7HE5ZCdUxQ71f9RqU7sM3k44n0=
+
+Name: markers/flag_orange@32@2x.png
+SHA-256-Digest: 5uK50RA1Dr70SMWIi2zfBMoy+i8Eblsjw0WmqJUNg24=
+
+Name: markers/c_simbol_pause@24.png
+SHA-256-Digest: h7PMHw6x5zxBV0q2UB31NsJFPkUe+oN3mQI3Nww6bJw=
+
+Name: markers/week_sun@16.svg
+SHA-256-Digest: 3Bb3y84CRC7g9EfzVXLCgrBvzawWtBAHZ3VidW5vmls=
+
+Name: markers/week_fri@16.svg
+SHA-256-Digest: QCOspVpU7b2AR1jli0I+ghJV/nUxSnpjxfiVTlbjqXM=
+
+Name: markers/month_aug@16.png
+SHA-256-Digest: 2BMfOYEjaGhVv+4OGA6tWV4KNP4nsJRgyC9bBrQVW/w=
+
+Name: markers/people_yellow@32.png
+SHA-256-Digest: GANJkFsiLZknEVg3mXOojo1SEK68HYfhQR55XeOV/1M=
+
+Name: markers/star_red@16.svg
+SHA-256-Digest: C2jea/TDhMcYFA6fLembVael1t54OJac7e7Kw/Qyaok=
+
+Name: markers/month_jun@24@2x.png
+SHA-256-Digest: 0zFURqPnqZDqI6QY5ScSt7bGSnmpbNSC8IH7W05qHWE=
+
+Name: markers/month_aug@32.png
+SHA-256-Digest: IhHyyCE90UggC6UsesNMcGNMGJgha5V3jnuUxAL5K+M=
+
+Name: markers/symbol_pie_chart@16@2x.png
+SHA-256-Digest: rwZ4QH0MQuN2UZQpGKfaDGSECxpo52zHhhgz5Mow0s0=
+
+Name: markers/week_thu@16.png
+SHA-256-Digest: WFHodt0Yy3UiImZWHfmCKV+QvCw7ZKvGgVRz/dFXOEY=
+
+Name: markers/people_dark_green@32@2x.png
+SHA-256-Digest: Aac6CKvUByaXJiTyA0D3E4q3NbHkIfmNlWH12gC0q+o=
+
+Name: markers/priority_5@16@2x.png
+SHA-256-Digest: 6+C7Fz/nhvb+TK6ec4pYAkIIps4sRSl3BPlkSZEdfIA=
+
+Name: markers/week_thu@24@2x.png
+SHA-256-Digest: PhFVd0G1AW//0hC9rncya2FnA8SF6wXeeWLZIfCQ1jg=
+
+Name: markers/progress_5o@32@2x.png
+SHA-256-Digest: j3XyXUErRtyezdKCMEN9wRHrTQ9Mjtn+cCPkRF93Wm4=
+
+Name: markers/symbol_minus@16.png
+SHA-256-Digest: 0WTRePmT5hUNNO91GQdmVgMidg0BzaFdboAz2cKOjKc=
+
+Name: templates/business/Company Hierarchy.xmt/attachments/4id6b48ajd6
+ lofmeui1fini45v.png
+SHA-256-Digest: 5I1uYFN7rgWtDHwLCgLWfHwBwPxcPJzcJsuEcN8jzdw=
+
+Name: templates/business/XMind 10 Years.xmt/meta.xml
+SHA-256-Digest: TAqYgZxyqCU+LDtAQTL1K1sHFivFlv49xcuc40eZMjk=
+
+Name: markers/progress_done@24@2x.png
+SHA-256-Digest: r2QCHRfmX1Fk9IdvOt1/Z2BDiL7DPliCWzznFHxpLH4=
+
+Name: markers/emotion_laugh@32@2x.png
+SHA-256-Digest: Rtb/XwC2pFE/G7ga9Bd/11/52wJB28Pko/d42tZdO+Y=
+
+Name: markers/symbol_minus@24@2x.png
+SHA-256-Digest: Xmumv+2QAq5tqUc7VtwAKd6QivdSNaTVvP0hPPSr45E=
+
+Name: templates/education/Book Report.xmt/Thumbnails/thumbnail.png
+SHA-256-Digest: GR04uAsahEe9ViGyxSvxXeLVSN/e2yQYCvOaRy4m5Ng=
+
+Name: markers/flag_green@32.png
+SHA-256-Digest: GWDks9Q7kZ9iQjb9DjhxM64n2SFIXijYqC6fL6I6st0=
+
+Name: markers/progress_1o@24@2x.png
+SHA-256-Digest: 3GuIKpLM4HfjUl/OK9x9JLD5k+M4ckWWrS7bMkLa5R4=
+
+Name: wallpaper/wallpaper/w9.png
+SHA-256-Digest: cxiBB/SLvuBtouGlXRABbaqkIMS6oQrP7iuFgxCRWkM=
+
+Name: markers/arrow_up_left@16@2x.png
+SHA-256-Digest: 00nY2qqA09bwe2LJk3xa98hPWcief9yix5OpspPdYZA=
+
+Name: templates/education/Class Schedule.xmt/content.xml
+SHA-256-Digest: v1mlwzc4MbJmRZUmOXBRN3qOcZh7b9VWBoZNavUsB8I=
+
+Name: markers/c_simbol_pause@16.png
+SHA-256-Digest: seywoigwiSivCq6dAz7F8vGYjNJwoshNFq6vZYq10YQ=
+
+Name: markers/symbol_telephone.svg
+SHA-256-Digest: wYSvqGke6JhQFO/PdE+XWS72c2YF7pSW4iDzIm8pRyQ=
+
+Name: markers/symbol_right@16.svg
+SHA-256-Digest: x7te4qxlQlE+hSq+T++QxpnxRRwoftvw/BbV3NF05xY=
+
+Name: templates/business/Problem Solving.xmt/content.xml
+SHA-256-Digest: 6NToP+IOGiB9hwxuUvrT1axVGUUMT+i/rnxJ+UW7fWI=
+
+Name: templates/business/Projects Dashboard.xmt/Thumbnails/thumbnail.p
+ ng
+SHA-256-Digest: vFxDdWCaHgf5QRXSu5hg0NcFtuFeWwjSLpgCY2Bhpqc=
+
+Name: markers/star_blue@16.png
+SHA-256-Digest: qKlUo7eH3tqtbgdRxNOFHPONouNbY53NbEHC0cgB+E4=
+
+Name: markers/progress_pause@24.png
+SHA-256-Digest: scStcOrQypxPKXwvViRA+rKG3+o+IrmdJGOWRMkVez8=
+
+Name: markers/progress_3q@32@2x.png
+SHA-256-Digest: yceppWGD8XmcoIv9/HJOY0Jp6kUJW7y5Pd/OakjfQ3c=
+
+Name: markers/c_simbol_minus@16.png
+SHA-256-Digest: Ial936vaDQZdC/nQdNOV8CyR9UBdU+qfnsxeEsjR6Ww=
+
+Name: markers/symbol_flight@16@2x.png
+SHA-256-Digest: gfFCmiLnqjSC44eP8KIuxnipl3uvbLo9QZaOlsa0Pes=
+
+Name: markers/symbol_heart.svg
+SHA-256-Digest: ubn5iph0V2WitBGcR9b87zBk98c5/rWUegmcMyU1shA=
+
+Name: markers/c_simbol_right@16.svg
+SHA-256-Digest: WchVH+iyoApm4PX5XAReeHr0IdbcI4T2w/C+HY6ZOzw=
+
+Name: markers/progress_start@16.png
+SHA-256-Digest: lQoCOAQyHEL6Rga7+5vLE8+dvfV/EKkpkD3KlHsX1u0=
+
+Name: markers/month_sep@32.png
+SHA-256-Digest: LiZ2YK0D+XSybKEaIMsEVqloaACoCNLWphsV1e9sTFo=
+
+Name: markers/month_feb@32@2x.png
+SHA-256-Digest: 75TzxWMRmTzwGJnC/+nTYlisOInHQNk8RG8KmXViET0=
+
+Name: markers/symbol_question@32@2x.png
+SHA-256-Digest: dvFmy9/cS6pCJhvLspTbutFad21uCo7/G7XRHW+B0pU=
+
+Name: markers/priority_6@24.png
+SHA-256-Digest: TPaLSHO5DLQyeHOpO+kfEnrAGX0qBRbdlYjL5rc7Jy8=
+
+Name: wallpaper/wall011.png
+SHA-256-Digest: QQUcfanM/iVV8x9J7THe0DD9qXHHQRwObBpV/K+hkK8=
+
+Name: markers/month_jan@32.png
+SHA-256-Digest: ps2ngGrMxZCoxOSEdT3yC+e2EuSB9ab4mxn2cs1oh6I=
+
+Name: markers/flag_red@32@2x.png
+SHA-256-Digest: buETtAcqO7unIM1fffpVyRzb04eZs4G7fDrzX6i9nPo=
+
+Name: markers/emotion_laugh@24@2x.png
+SHA-256-Digest: WFCSOBqP4wjlEoe5/4XSOQtIRRj4uNwFFYxJH689alA=
+
+Name: markers/priority_5@24@2x.png
+SHA-256-Digest: 66Vjz4OuEauyKBxG4QXu2ysfi6odjrfp2Xyipmk7gUo=
+
+Name: markers/arrow_down@16@2x.png
+SHA-256-Digest: sz2+L7kKCHFwEHjA16+VaCp/Ozl208Jyc1boL2cd/co=
+
+Name: templates/personal/Travel Plan.xmt/attachments/6qnukvd1u8jt7o3r7
+ 3gqksa63s.png
+SHA-256-Digest: dOYa06aHfXVaHxdUqNwG9FJcEYmpc+/hQPUb6LdgOnc=
+
+Name: markers/progress_1q@24.png
+SHA-256-Digest: /vZ9Ls6SOl8HBNeBFd1LOlHUVZu9D2GKJQFIN5V7/OY=
+
+Name: markers/star_blue@24.png
+SHA-256-Digest: scDzPijIELEl7d+OsyMuU/xGymScD2DIPcIiKLH7vX4=
+
+Name: templates/business/Sales Management.xmt/styles.xml
+SHA-256-Digest: jKV3E3S1Ljx2ZdJ1xwdWsPutVgb38YsgNp4rUcVHHXY=
+
+Name: markers/symbol_flight@24@2x.png
+SHA-256-Digest: dWPAYl8shkiaLn54AwJzAEOnO1zJvYdoG3nzSoUsKd8=
+
+Name: markers/people_dark_green@16.svg
+SHA-256-Digest: EYE3kXOXiBAVBfCsTFqGWA1ySQ2p1GMkp8OEn+zJCzw=
+
+Name: wallpaper/wallpaper/w11.png
+SHA-256-Digest: J7wUgUkSfgfs/8BarSOohYJYn3xAzDpEigCg/qgpBp0=
+
+Name: markers/symbol_minus@16@2x.png
+SHA-256-Digest: W82W2L4if0db776o01tDfghgtl+eg4dnKNUcK69OB44=
+
+Name: templates/personal/Travel Plan.xmt/attachments/2ljnq3pohq7t8jlud
+ vucjetaom.png
+SHA-256-Digest: NRpNQNPhbTc3vYR4uunLTlJAMM8Pz6etWKDL0avBxi8=
+
+Name: markers/symbol_information@32.png
+SHA-256-Digest: mlIAOeVuUmbe+cxddDM5VFdXiKlHZi8+NNnwRIR6kwc=
+
+Name: templates/business/Sales Management.xmt/meta.xml
+SHA-256-Digest: /DI50J84fQKW/EzFrLkjoaJZ1dukr++XapUIM9VHnI4=
+
+Name: wallpaper/wall005.png
+SHA-256-Digest: eNJOrESdi3iAlSi49toULvQgng7H3uNTyYWsVolrFiE=
+
+Name: markers/priority_6@32.png
+SHA-256-Digest: yjoTc70LftjAVhs7Shbb5unFr2Pt9aQNfc01XryaErs=
+
+Name: markers/other_phone2.png
+SHA-256-Digest: KM1G2wCJFzl9CzG1WQfwcvO19/wCyyYc87EQvdqF6gY=
+
+Name: templates/personal/Diet Plan.xmt/META-INF/manifest.xml
+SHA-256-Digest: 9x8QAiLXbSHJNGy2LDoIGq4lQ9wJntbG2F6/yLvMjdQ=
+
+Name: markers/progress_done1.png
+SHA-256-Digest: 2lgQt6Q5jlmshplyEDhBziRiTqhaz6H4paoFSxJiFFw=
+
+Name: markers/month_sep@16@2x.png
+SHA-256-Digest: 5mOi8qq/8C3GDAbwh2PJNfot7AWElmsza2/dtYa0ugo=
+
+Name: markers/emotion_laugh.png
+SHA-256-Digest: LX/SHw8W6IdNJNbMwJGT1zbUTiTb/lTt5iq/vyqjmI8=
+
+Name: markers/week_tue@16.svg
+SHA-256-Digest: HeiKsusutCDVXaKtwEqXHReJjrL/41OklQxlowAHrgE=
+
+Name: markers/progress_5o@16.png
+SHA-256-Digest: QxErG33MJgo+7QOagSeHT25kRWVH4lkzjHdl/Pf+beQ=
+
+Name: wallpaper/pattern/p13.png
+SHA-256-Digest: /5pJhYz/B+T+BV9HcSLcPn8wL5WRGRXeGecmYVRBXpA=
+
+Name: templates/personal/Shopping List.xmt/meta.xml
+SHA-256-Digest: 8PMhYdJIhINHBEp0xPI9gyKZ/PbIRDqCjJt+200MHzI=
+
+Name: markers/progress_3q@24@2x.png
+SHA-256-Digest: RC+zsOe6bx2v/lonfFqumLN5IBbuxvkOONLoaTFuzA0=
+
+Name: markers/symbol_contact@32@2x.png
+SHA-256-Digest: 4Se7cJumT17I/G6SswJ5ILjkdE1lJ34HJ6O+k272uaE=
+
+Name: markers/symbol_plus@32@2x.png
+SHA-256-Digest: eXw+pYUSP1bQYP+ZojNnX76oVMt1eUbsb+m2sFAAPnM=
+
+Name: markers/month_jan@16.png
+SHA-256-Digest: NN8AlI5XCBsgvOViAQyi+8zaQzTQ316EIa+qBr4/4U4=
+
+Name: markers/flag_red@24@2x.png
+SHA-256-Digest: MAXSMpmavgjrUTXwmA2UdbuiBt+5sJ4oRhOMdoC6Z4Y=
+
+Name: markers/star_orange@24.png
+SHA-256-Digest: WWdoQk1omAecbGHL4O5SFaMDguRHdt51aEiPCInNsKQ=
+
+Name: markers/flag_green@16.png
+SHA-256-Digest: EIYqQcCZH/E1Tg+qsEsijX1e/m+Gr1ws2HarGqapqls=
+
+Name: markers/progress_start@24@2x.png
+SHA-256-Digest: cFdUOFxcMMHlJPnE7ZanrTUBSVU/3ULbL0KN2nStIdU=
+
+Name: markers/week_thu@32.png
+SHA-256-Digest: PhFVd0G1AW//0hC9rncya2FnA8SF6wXeeWLZIfCQ1jg=
+
+Name: markers/emotion_smile@16.svg
+SHA-256-Digest: 0KHm+/dNAsm+tHIddJdHUYZN0Lr9WC6mmPR7xiepaEU=
+
+Name: markers/people_yellow@16.png
+SHA-256-Digest: jx2GojVb5iCv5BtIHSR2ZrXl4uIheSxQwzwwEkUYMR0=
+
+Name: markers/week_sun@16@2x.png
+SHA-256-Digest: WCe40HSgY22fAd0V8oabLWiU3MNBQvjWS/Lwrv6EFgA=
+
+Name: markers/progress_3q.png
+SHA-256-Digest: 21M3ZN+uAlt0vhiAAvnNZubO5ePYaTYXT+ibSbC9u1k=
+
+Name: templates/templates.xml
+SHA-256-Digest: ZQo8cAWH11PVCXL640uc0zRcBeji9foho5eWeh5xt2Y=
+
+Name: markers/other_print.png
+SHA-256-Digest: m1pXPcmkEgDbUHK1BUDm06ZdovHwYc1lb0RmqrTT4TI=
+
+Name: markers/month_aug@24@2x.png
+SHA-256-Digest: IhHyyCE90UggC6UsesNMcGNMGJgha5V3jnuUxAL5K+M=
+
+Name: markers/emotion_embarrass@24@2x.png
+SHA-256-Digest: tQOXeYbGlP1zvUVpZcRGtJ4fkfqC0si4fZphP8sM+ro=
+
+Name: templates/education/Book Report.xmt/meta.xml
+SHA-256-Digest: CDoJ2hyv2b51frlEwfie/JLbUq79vHfn5KSsBt4mxrU=
+
+Name: markers/month_oct@16.svg
+SHA-256-Digest: 0XD/V7QvLEmrOj3yz4o4ykrJTmoZ1rylvaNIGEcsuC4=
+
+Name: wallpaper/pattern/p20.png
+SHA-256-Digest: 9vQqpmHLU+zUuKJ9h3WxATctYvI+ATZApmf1tsuA01g=
+
+Name: templates/business/Annual Report.xmt/meta.xml
+SHA-256-Digest: fkSeD91/LqJeUsLAqm4wXSQMnDlm6DKRLiCKN3wh7Xg=
+
+Name: markers/progress_3o@16.svg
+SHA-256-Digest: M7B6jkUbq1H+S2hQEOgcuUH1cnAbOYj4XDXzPb0m3Tw=
+
+Name: wallpaper/1hdjldh6fren63lcb0ib8e4274.jpg
+SHA-256-Digest: 3cIjSXICJ+wcG3IJXxCXTagnaGRZ8nbh6Tg5n6vOR2E=
+
+Name: markers/c_simbol_minus@32.png
+SHA-256-Digest: fHIno5ueNM4QCmfCDmXpArSlZRQopOotdvPZhvwUD5Q=
+
+Name: markers/priority_1@16@2x.png
+SHA-256-Digest: hDoKimLBWkepWFWoCzLACYz/G0ba9XljUPtEhTQnT6Q=
+
+Name: markers/priority_1@32.png
+SHA-256-Digest: Bw7/GCQW810xXHM2AWOxx2QTogK2EixrutZsWXQ2dDs=
+
+Name: templates/business/Business Timeline.xmt/attachments/107353nik7a
+ 2pds8o2g1a1kq9v.png
+SHA-256-Digest: IpiqUqQtSwbrJ9pLOEtWVcmvLGRFXTVexFIINgFW4pY=
+
+Name: markers/symbol_contact@24@2x.png
+SHA-256-Digest: RwIUujfxDysZVQHydw52HO67cgVU6iCIJNuulDntIJM=
+
+Name: markers/star_gray@24.png
+SHA-256-Digest: otPZqNA1JldgGG/Q5iSgBu37nGJY3PYE0BPVe8Xnbjs=
+
+Name: markers/month_jul@16.svg
+SHA-256-Digest: HHIl3Yc2BT6zGmsQSintR0ecPCHf+DM3tNCkGYvHuew=
+
+Name: markers/arrow_up_right@24.png
+SHA-256-Digest: XiAAlTedEVPxLIdqbEz/ZtNqJVVQL78sybyPa54zP2s=
+
+Name: templates/business/Business Timeline.xmt/attachments/6vrrjptqml4
+ os90797medc73k3.png
+SHA-256-Digest: 2s9OGyPO7V4MehfByCdc9+qqO38UWpLl4bFgng44uTc=
+
+Name: wallpaper/wall012.png
+SHA-256-Digest: KEnDEHVQ56e0Qo6NMvaoPdsPeqeXnHXzEUyjshUq68M=
+
+Name: markers/people_purple@16.png
+SHA-256-Digest: puE3APUgC133ycPBHj6eaeSFGEBhMtN8kYXA7CaP25s=
+
+Name: markers/priority_9@32.png
+SHA-256-Digest: NKzsFZQoBgNYVYHxAve7UdtubM8KoDzhcf0tYkjxUAk=
+
+Name: markers/priority_1.png
+SHA-256-Digest: ZIUKuRzUxZEtFANnDgunceXaPJGQgMXFBVR4Uey0Afk=
+
+Name: markers/symbol_minus@32.png
+SHA-256-Digest: 5AUm8grtqRm1SUAsuIz+6KMTWu4N+R+5yt2UVYdZ5cM=
+
+Name: markers/people_purple@16@2x.png
+SHA-256-Digest: 8386L/Iz7JIg/o2T5p0SXqDKTGk/4dH5Mgi7/vuoAFg=
+
+Name: markers/symbol_thermometer@32@2x.png
+SHA-256-Digest: uEQuUbEXo4djrzBbw+fQBCf7HQAJI9n7qkDAKhHyS8Y=
+
+Name: markers/month_apr@32.png
+SHA-256-Digest: xNpdC5V99ARUCUMkLMeIpaU7AQXRPtHtqY3v3NQ/zNo=
+
+Name: markers/people_dark_green@24@2x.png
+SHA-256-Digest: Rm0mvidwRdhKHf3rcAnq5Ezt3mUuhLjcpFyzigtfLc4=
+
+Name: markers/symbol_pie_chart@24@2x.png
+SHA-256-Digest: rVZGZEFo2c/k9apqus5/nyxeZg8fqQ2MRNC1yAFzUUQ=
+
+Name: markers/people_blue@32@2x.png
+SHA-256-Digest: S9vdtS1otnxlepZSjrkVPFR9vg4oqGiIOTcEVhtm1Pc=
+
+Name: markers/star_red@24@2x.png
+SHA-256-Digest: JGs85dPtFKqW19b/YwK5bLTaUlHezFQgFOGC4N9BuDQ=
+
+Name: markers/arrow_right@16.png
+SHA-256-Digest: u2EaNmIEuIjTM3YpCxvEl+VePs/kN+w0U+GCY0U10wU=
+
+Name: markers/month_nov@24.png
+SHA-256-Digest: nuB7eK+P4k0SqlKacrwq26Rzb/Yv4KBEX4W7Y1UljQE=
+
+Name: markers/flag_gray@16.svg
+SHA-256-Digest: TALfCXZBnVf6hX0qU+MCPosdBNF2NrppwEERicTOvwc=
+
+Name: META-INF/maven/org.xmind.cathy.plugins/org.xmind.ui.resources/po
+ m.xml
+SHA-256-Digest: 3D4F2cQE0SP8h9uQJXxas6rsekIoo2lTj0pDgfmlQ2E=
+
+Name: markers/month_jun@32@2x.png
+SHA-256-Digest: ONevDY+BJRg2QrqjkNtmpve7XWhUiND8VMY+Aewwpw4=
+
+Name: templates/personal/Weekly Plan.xmt/attachments/1hgbv6vb24hepddna
+ kq48hl257.png
+SHA-256-Digest: ST8Ko2D4/cROE/rrYJGSba0XspLOXX1qcOm+BxJChMQ=
+
+Name: markers/progress_1o@32@2x.png
+SHA-256-Digest: fpkFiz4UsG6pSI8DnKU75dnngGwjV7sTFtwGlmRThes=
+
+Name: markers/priority_2@24@2x.png
+SHA-256-Digest: x7VPeuYf9uB6SI2V/hkg227I8Nwwq8VwojyxbfFYXX4=
+
+Name: markers/arrow_down_left@16@2x.png
+SHA-256-Digest: AFlk26ZES7h1t8wrd29gjeLDBy8/yqHkTIGNOT4c4rk=
+
+Name: markers/star_purple@16.svg
+SHA-256-Digest: XUtukgzdDFXe/QMiigg46SS7YpPO5xoWCKTIljUhKko=
+
+Name: markers/arrow_down_left@32.png
+SHA-256-Digest: ciuZyYy6Bi0FxCuKGFB5sZNPW1GproK08+BaqDyJdyU=
+
+Name: wallpaper/wallpaper/w10.png
+SHA-256-Digest: iojEmjgb2HGKtCs/0aagsD18Lwh2F50TPPwg/EYKi2U=
+
+Name: templates/business/Business Plan.xmt/attachments/68p9ne0tgt0gitr
+ 19hq8glifqd.png
+SHA-256-Digest: RGJKqQnExWpkXJiYehsth7qI1T9gTrgn8uWMuix4vfk=
+
+Name: markers/symbol_contact@16@2x.png
+SHA-256-Digest: vHdvYtzjyl9woDfZsHicA99HNhBscZeNoODFLmu9FZE=
+
+Name: markers/month_feb@24@2x.png
+SHA-256-Digest: xquxmOrfkK2zSuZWjtL6B6KQawDU2QfdZIlI+FAdep4=
+
+Name: markers/month_mar@32@2x.png
+SHA-256-Digest: 1xnDf1KtYHvqOzqxyEazqcQTn1/8N7DRSi9D6HoVyNM=
+
+Name: markers/symbol_pause@32.png
+SHA-256-Digest: ZfgfP0KjtMVuLNjIVwGw+mvrzxzT8mZOYPm4jwAFn0s=
+
+Name: markers/priority_4.png
+SHA-256-Digest: XlQSoBh47g7Y8gQzgGzAEiBh0PtiS/uw011lM/ghxZ8=
+
+Name: wallpaper/wall022.png
+SHA-256-Digest: 9VCSLZ+bvCVZh4FzpU5hh5NzammNqT5N62Z24TGOVjs=
+
+Name: markers/week_wed@24.png
+SHA-256-Digest: HMK/eqh+R7y5VM0wtD4Ju1hjuZ3s+vouIsnjywc5DmQ=
+
+Name: templates/business/Company Hierarchy.xmt/attachments/5u5o6i9v0mi
+ v4tpj7hiumg54mi.png
+SHA-256-Digest: hLfO1MFA5DFOzjIz9dLaOpmwlVrlC9OWiWdn5mjcrgE=
+
+Name: markers/flag_purple.png
+SHA-256-Digest: y0SXfmIrELLquFl9peuOY5wMXkMamxmHxNfyAjhcFew=
+
+Name: markers/arrow_up_right@32.png
+SHA-256-Digest: pyCTJaVnuaa7tiMy4rBTy2rHjgdl7Nui9MLh4ltjqCQ=
+
+Name: markers/people_purple@24.png
+SHA-256-Digest: ZsvJtqzzQpI2XuU/yMNMYILGrJeoLSS8FcYThPXCh18=
+
+Name: markers/month_nov@16.png
+SHA-256-Digest: vOcH10OafyBMc0XY611ahQGoX8fjJvHR/Hj7fk+qEM4=
+
+Name: markers/arrow_up_left@24.png
+SHA-256-Digest: 2IafRpt5kw8578EQg7Ay0JQJBAzaxz+fDMihlIbjK9U=
+
+Name: markers/priority_6@32@2x.png
+SHA-256-Digest: 847/m4NJTE69xUAMOGw3Y8YohA+/Kr12BJnKFgS6vAo=
+
+Name: markers/arrow_down_left@16.png
+SHA-256-Digest: lTHFRX8NAw8KyTYpgvGU2735AsBUktwdPZjcJj94QtU=
+
+Name: markers/priority_1@24@2x.png
+SHA-256-Digest: /aGCDthmgIgg4THCos+AYMXEDwjbhsAVY2ZXQ8WIQmY=
+
+Name: markers/c_simbol_wrong@16.svg
+SHA-256-Digest: /+hhS8Dlvj3oURQKiCy0S5UQIKDjHFEeIemoOAMkegY=
+
+Name: markers/star_orange@32.png
+SHA-256-Digest: KvI8Yivu9NeThY2KA4L9lW187TRQnbaDwQBZcNJShbU=
+
+Name: templates/personal/Diet Plan.xmt/attachments/03o9cj9od7cqinmkkj6
+ 2016257.png
+SHA-256-Digest: 69wtNvO/BHfrGwWYE3a0coIjkGcoh/WMb8bGw/oTI1I=
+
+Name: markers/month_jan@24@2x.png
+SHA-256-Digest: ps2ngGrMxZCoxOSEdT3yC+e2EuSB9ab4mxn2cs1oh6I=
+
+Name: templates/business/Business Plan.xmt/attachments/3ked8un4k3ojsbr
+ 9e3ukid36v4.png
+SHA-256-Digest: D7su/ZBRmxxcW0ezxMKAaV4rz49is7FGH+E/YdB+dK8=
+
+Name: markers/c_simbol_question@32.png
+SHA-256-Digest: wHr9E1CM3daO5Arjaen9oyyc5CP9NOWXxCk0yPM8jkY=
+
+Name: markers/progress_done.png
+SHA-256-Digest: huNYHLtL2CeXWyvCqzhnQXkZYY5v7ca/a3g0km0dbEA=
+
+Name: markers/priority_9@32@2x.png
+SHA-256-Digest: vBWB+FFojmT/86LuQPh5oRVr/ivB+oh/adGYzrBcSlE=
+
+Name: templates/personal/Weekly Plan.xmt/styles.xml
+SHA-256-Digest: CcpUMImbISayxC0/JOV6q2785cIfkqpg51tasrTxmvs=
+
+Name: templates/personal/Shopping List.xmt/META-INF/manifest.xml
+SHA-256-Digest: Na4w17N9Y9uCufmVAy6fEVR3THXbkDYJt0IVD39amGQ=
+
+Name: templates/personal/Diet Plan.xmt/Thumbnails/thumbnail.png
+SHA-256-Digest: KLgof88oRrb2mbnRqJmT7UfPMJLpkLkCslrl/6XCp4k=
+
+Name: markers/people_green@32.png
+SHA-256-Digest: vwOzzj6oeqqsGV5Z1HVdYN8YAe3rL3iA4pDVYoi37SU=
+
+Name: markers/emotion_laugh@24.png
+SHA-256-Digest: djrb+0RNnxXieZZO3OV5oIA5lOW9CbACiRC2TCWMWRQ=
+
+Name: markers/c_simbol_question@24.png
+SHA-256-Digest: glbhUsAXxFs+pihYFa+ZN894upoyMy35p4x3X26+qv0=
+
+Name: markers/symbol_pause@24.png
+SHA-256-Digest: qpfWw1OFVgaOPzK9cqXLT9kXLvWG3+W7I803U79oZSc=
+
+Name: markers/progress_3q@16.svg
+SHA-256-Digest: IizeL+GwmaYfi5mx2IZfe7EaA6eOgQ3A+KKNhFutYZM=
+
+Name: markers/symbol_medals@32@2x.png
+SHA-256-Digest: ZDP541CTnUvYF/9ZGgOBBDVsS5UEABBiejuPm1k7idI=
+
+Name: markers/priority_1@16.png
+SHA-256-Digest: RnSZkuMvQwXrzSV7sfcyAy89VAbKP3rbXfHYmEFGadM=
+
+Name: wallpaper/wall013.png
+SHA-256-Digest: Wmg1B/lvgJYVkesaGecU+niT+tQif3uVGFYPSrxRy4M=
+
+Name: markers/priority_3@32.png
+SHA-256-Digest: jUlMQa9AYfBmwfP/IsCk+fhxG7Gznt7Ow/CF77lFMpw=
+
+Name: markers/symbol_information@24.png
+SHA-256-Digest: 9GefsBZbGGtS5cLQqF9uNHQYlNi39uzyiFcq3nFFS/E=
+
+Name: markers/people_purple@32.png
+SHA-256-Digest: T4V/GA08m7p5RE8oPHNrWT0gOkD9Psna7lu8RSef4p0=
+
+Name: markers/month_may@24@2x.png
+SHA-256-Digest: WUZfHZi24dBqHAoaW78qQN+NS5/cYEsY0AjUcT6ntmI=
+
+Name: markers/people_blue@16.png
+SHA-256-Digest: AMVmMulg+CPN9Y+eFQc9Wl5Z5807JGVyyr9U64WT9/4=
+
+Name: markers/month_may@16.svg
+SHA-256-Digest: x+kEuai+8qXmV4H6nsVyq0jjiXhKaRBN0RBOd6pyZdM=
+
+Name: markers/symbol_bar_chart@24@2x.png
+SHA-256-Digest: ZL8MH82JeNikCM9Ma/q1xxo9zC1buiKMlYrFz/qvQcI=
+
+Name: markers/symbol_pause@32@2x.png
+SHA-256-Digest: A0IwbyxAPXCk07FjcF58h6CbfxRKWvLUxlO8WHBomBE=
+
+Name: markers/other_question.png
+SHA-256-Digest: hjqPHsXSuyQxS/8QU3yZz4j5RHJ0xyRXIbE6wQIE3Fw=
+
+Name: markers/priority_8@16@2x.png
+SHA-256-Digest: 6L9Rz8cboQSkh+YmE2BX1wANDySQoetXQdqIw3bFDo0=
+
+Name: markers/symbol_medals.svg
+SHA-256-Digest: eHDHLsJ4Jfwwh/I8upXTQoDz5n0xtfl4xHx0hzetlMQ=
+
+Name: markers/symbol_thermometer@16@2x.png
+SHA-256-Digest: 6yi1R5W4U5plMeeZA4TbEfor+QSL7spDdL6P4MrTwTA=
+
+Name: markers/flag_orange@24.png
+SHA-256-Digest: SGI8c5N3k2eP2ByqhoX4x7hRuqb5pC+qtAOpD+xdg0o=
+
+Name: markers/face laugh.svg
+SHA-256-Digest: Bbj5Vs9uUuUa0liz731qxABWU624TKu07rkCvyMQ1Y4=
+
+Name: markers/star_orange@32@2x.png
+SHA-256-Digest: 5/eOrQwAhwgs1LTS4Z44g0/TwN8L2/B7pHQoAsQKkmU=
+
+Name: markers/star_blue.png
+SHA-256-Digest: qgCiJtKo5SHvYME4WEM1lUhcNm2tmraKYXETbo++7EE=
+
+Name: markers/symbol_telephone@32@2x.png
+SHA-256-Digest: kgOn7RYFmlYiBblqzpwGieyW5lYcTLjMCmUfv8BFvL8=
+
+Name: markers/month_jun@16@2x.png
+SHA-256-Digest: m7rJISUB9PImMJK3aDPvw73NtnMgmNCHQriZ6k5U1wQ=
+
+Name: templates/personal/Resume (CV).xmt/styles.xml
+SHA-256-Digest: 32GcmrYVgMy5QCH+2LRohF5YH7zlsKlQhsIQzQGfLt4=
+
+Name: markers/flag_orange@16.png
+SHA-256-Digest: NHT37r0hU18wZ8Rz9/WrZPUfJSv7DU2YYNg7MhEBMnQ=
+
+Name: templates/education/Syllabus.xmt/META-INF/manifest.xml
+SHA-256-Digest: 2Fdtcl2YQI/HFGhByakcJhW9aZVBhjI8INANBMKIyT4=
+
+Name: markers/c_simbol_plus@24.png
+SHA-256-Digest: Q/ZQm8GnehMTgesgmS1YWyDOG2ZmCDrSipKTq6KAr/Y=
+
+Name: markers/flag_dark_gray@16.svg
+SHA-256-Digest: f4AFL3ovvfORAj5v4jHYRf5A5MSjL8bKUpGy0x0sorY=
+
+Name: templates/business/Problem Solving.xmt/Thumbnails/thumbnail.png
+SHA-256-Digest: KEHROQWIW5D4ddvErRJbzGyp3V3zCx2d21F1+5i1+lg=
+
+Name: markers/symbol_shopping_cart@16.png
+SHA-256-Digest: X2B2quhpWUFR8I+4LTadaBoDSrewdNf65VpWlyUHWOQ=
+
+Name: markers/progress_5o@32.png
+SHA-256-Digest: CYWncTePsLl9RF+5EqoNguWECFP+v/q+ok5GbIXY1Ic=
+
+Name: markers/progress_1o@16@2x.png
+SHA-256-Digest: A+cRad5JamFJUsq6RKHxAl8rmlP8g/kUU+sQF5uH9vU=
+
+Name: markers/progress_5o@24.png
+SHA-256-Digest: 9CAjGlDc1z+eODSLFU0htxOZOfPimuTZn6mW2Z6svZ0=
+
+Name: markers/symbol_money@16@2x.png
+SHA-256-Digest: FJIUsN1oeqEsxHBfhSc0KHqkA3z9RCCENBmSdpST9AU=
+
+Name: markers/symbol_right@24@2x.png
+SHA-256-Digest: srhz8owWvS2Q3Z5qz7sI+fTES0Wp8h0scwX4BTJtodg=
+
+Name: markers/emotion_smile@16@2x.png
+SHA-256-Digest: krQ7hGuCe4GrF2cS80lHi5t5aQMhXA0ON5aVEppStms=
+
+Name: templates/business/Business Plan.xmt/attachments/0g8l7cvoups5f0n
+ vgmnfigkf3n.png
+SHA-256-Digest: rO5jSo4px4IQr0h2gDgE6XqoOopeBmSprMgoySD1OXI=
+
+Name: styles/themes.xml
+SHA-256-Digest: BAm3KTPFF5WrhaeM2gOJNWPN/bjWL557Q6KD6VY1P3Y=
+
+Name: templates/personal/Party Preparation.xmt/extensions/org.xmind.ui
+ .presentation.stories.xml
+SHA-256-Digest: yIlELTCTpnpxJy0zhPEoFvEWIDWJ/66NwRdQGJqmbUw=
+
+Name: markers/emotion_smile.png
+SHA-256-Digest: qb25DIqNwzan3vQQPCkVB84qTnyHs/msqpyS0g+giX0=
+
+Name: markers/people_red@16@2x.png
+SHA-256-Digest: K/rLCNQV4ubsvLH23+T4LeH5MDKgCaQwLjhGV7HzV6s=
+
+Name: markers/emotion_cry.png
+SHA-256-Digest: mv48E8OzQtJmUGoFHDMJs6k76CyVMle2RKZ9g65+jdI=
+
+Name: templates/personal/Party Preparation.xmt/styles.xml
+SHA-256-Digest: uYwgWSQv6rlZ/kwYAmrfpOSJEvT1YhDXkEOWtJADUfk=
+
+Name: templates/personal/Weekly Plan.xmt/Thumbnails/thumbnail.png
+SHA-256-Digest: ANYmzdigXrcP8s1DKzOMB3aigJxw67Kwd7H5Xl4kYZE=
+
+Name: markers/symbol_dislike@16.png
+SHA-256-Digest: mquI/PUo+2Up3zgaNmusl85IIPqOTZ+F8k4jvaTuO1s=
+
+Name: markers/symbol_plus@16.svg
+SHA-256-Digest: Qrd5zvD7FHEOrepmb10uymQSFJqXG1qqEUhb71ZG2l8=
+
+Name: templates/personal/Resume (CV).xmt/attachments/7qbck2jeve4eg7cll
+ 1foia07rs.png
+SHA-256-Digest: X65P1Y36d7leVxoYylDzzDk3YaV4VAF3yNDqbr7DrVI=
+
+Name: markers/priority_5@16.svg
+SHA-256-Digest: 3bwovW2e1gVgf4ela8loNYAsP4eJqmdcLSItqTWytHI=
+
+Name: markers/people_gray@16.png
+SHA-256-Digest: S8U5ClyTIHuD1O94kSHghGpeoblaRAlZU+uKgUcoRYg=
+
+Name: markers/arrow_up_right@16@2x.png
+SHA-256-Digest: nbSq/VCOSzj5Qa5QHnpmXvE3HLhLBWPuKTTvSfelAao=
+
+Name: markers/priority_6@16.png
+SHA-256-Digest: wTkmItzJsjhgIVjmlf9TAdm3aOet3WG0yrUvV5ZEVT8=
+
+Name: markers/symbol_wrong@16.svg
+SHA-256-Digest: /GygvGnVjGVf9yRNpoRUPCdnS567MLQU9HxBrPQZb/E=
+
+Name: markers/emotion_surprise@16.svg
+SHA-256-Digest: M00FRbjEHH2XlZPV8BpFvNfdf/mCB3cSPTSOEi4TSRE=
+
+Name: markers/symbol_information@16.png
+SHA-256-Digest: zGCozGNxS1GTcp43+ncfJnFm/qUo/r+b49aUwQlZOLk=
+
+Name: wallpaper/wall021.png
+SHA-256-Digest: aXCG/EBXwknhv7sY1IayTQDFiwG/81dPvS6ApOcPBy8=
+
+Name: templates/business/Company Hierarchy.xmt/META-INF/manifest.xml
+SHA-256-Digest: sozvE5aY2u08mgOQO6/Vn4tCwQGHMB98pKFVj4gUBcM=
+
+Name: markers/arrow_up@16.svg
+SHA-256-Digest: HJT7ugPKPo8gMFfO5kGWbajvIj6Q0x3tEKQThwb4TqQ=
+
+Name: markers/priority_1@24.png
+SHA-256-Digest: R08+PDQqVdQCBU/V5GjbAGWuU3/vc1iN6SS7pwtgYGc=
+
+Name: markers/symbol_shopping_cart@24@2x.png
+SHA-256-Digest: kad1A/V5jbEamBYUf6Y1fYxN5O3DOUrcIaSJXozTfDs=
+
+Name: markers/emotion_boring@24@2x.png
+SHA-256-Digest: 96LMbuJKFhIsJ4Ew6M+oucLLAdwzf9DIWOXXWpgavCY=
+
+Name: markers/flag_green@24.png
+SHA-256-Digest: MIhl47VTUt33SQF6tRn3c9XAeLfe6Fnjm8arA6xkSlk=
+
+Name: markers/flag_orange@16@2x.png
+SHA-256-Digest: yvEGhQsoa7u4ya4aYSFNTi5cIcRLSawSlmFGvjqBmfw=
+
+Name: markers/arrow_up_left@32.png
+SHA-256-Digest: 0xSmiZeoZ2nFRcPx8sbsYXQy3hsMXnzmKQ3jS153mPk=
+
+Name: markers/priority_9@16@2x.png
+SHA-256-Digest: v+FmPifLfGVH5CFe7IMc/aCjvCNiO1/powxLp9cvJas=
+
+Name: templates/education/Exam Review Plan.xmt/styles.xml
+SHA-256-Digest: QPRDCNbWtKzkun+lw+zHGTeHFRKVOepAX3GijFGdJt0=
+
+Name: markers/people_green@24.png
+SHA-256-Digest: VIEOIPAmaRvOEwdmYUnziieI6cVC8BZ7fHvIRUP0wMQ=
+
+Name: markers/star_blue_half.png
+SHA-256-Digest: yRTEC11/uv0d8wohcWb0PKsEZ9EugpoMSbw3Ok7hrAc=
+
+Name: markers/flag_gray.png
+SHA-256-Digest: bvuE63pRsNaRCgJ14jbfw4HAbTHXBgRFh+EA5jh/s5w=
+
+Name: markers/star_green@24@2x.png
+SHA-256-Digest: QDuKdLrBza5vVZMXgzU7zWp+RTXPl29nvp3d6i2tfa8=
+
+Name: markers/arrow_left@16.svg
+SHA-256-Digest: 4votRGe/UfcXxXKcbVIK/O/mnTWEGjj8lUFsJsVrFF4=
+
+Name: markers/c_simbol_pause@32.png
+SHA-256-Digest: j/IvNn1BbjwT4jL/KyBsstCdQJHutxB3A46RsdkmyhY=
+
+Name: markers/emotion_laugh@16.png
+SHA-256-Digest: VBO8qbS7eWGNZE+cHH3dglHkRECI9Gq2otsDLTvoHRY=
+
+Name: markers/arrow_down_right@16.svg
+SHA-256-Digest: RCvZpjb3rMB42UU7UknkT6FeMUQFonhqbIChg0shue0=
+
+Name: templates/business/Company Hierarchy.xmt/attachments/2bnkm0kfadq
+ s6eb53n34qqevp5.png
+SHA-256-Digest: hLfO1MFA5DFOzjIz9dLaOpmwlVrlC9OWiWdn5mjcrgE=
+
+Name: markers/priority_3.png
+SHA-256-Digest: ZpA2NFyOmcgXMi55ayJZRzve3O+vbJ3iQcM4JSpp+zA=
+
+Name: templates/personal/Travel Plan.xmt/styles.xml
+SHA-256-Digest: qWpXIEQQPxYFTrnah4caLkTnLpDlWmwfJlLkgZByOpU=
+
+Name: templates/education/Paper Outline.xmt/content.xml
+SHA-256-Digest: Mot63GTfB2HPNt3Rcw6ukKiSXHdyw1QhsjGAcKEKdtw=
+
+Name: templates/business/Business Timeline.xmt/attachments/4kpjb5vmn5l
+ mah45vj2eu3pai9.png
+SHA-256-Digest: FcMlT0o46s5eanU82KfmtxWOwgni1jG6uvaGv0d8DLw=
+
+Name: markers/progress_5o@16@2x.png
+SHA-256-Digest: 6EU/SZkv0CdumjqwV080QY8Fnyn7vv1BgdANXvDOxTA=
+
+Name: wallpaper/wall014.png
+SHA-256-Digest: Lyw6amZ+6OAc/fGYp7sBkhoSZfXcsgnpzbuZDuNCJzQ=
+
+Name: templates/business/SWOT Analysis.xmt/content.xml
+SHA-256-Digest: TiO0UZu+EKyy0Gg9+XeBGl6qVsJSDcGhjlxr4qKYB30=
+
+Name: markers/people_orange@16.svg
+SHA-256-Digest: 7G4rlZS8cqZa+7CgxK8nyln0W/qhoD3eqiyocZpTEUA=
+
+Name: markers/people_yellow@24.png
+SHA-256-Digest: D1VUuh+e6PJ4MBBJQGJ7M51M7oJNrlXIdWJFsB+NE6s=
+
+Name: markers/people_green@32@2x.png
+SHA-256-Digest: Cx+LWTgQh9mQs3vX8A92hsY+w08n+uouRQ94kO75jUs=
+
+Name: markers/flag_dark_gray@32@2x.png
+SHA-256-Digest: cmgtgO84i/++kPdL4e9zA7d3XqfnD4cGDugE9ON3CyQ=
+
+Name: markers/emotion_angry@24.png
+SHA-256-Digest: NHhi4qDXLFT3DusUA9PtCliKb/cqXeDWcnG7n8AHSME=
+
+Name: templates/business/Company Hierarchy.xmt/attachments/2uv3ki53i7o
+ gcpl3gs0b1792tp.png
+SHA-256-Digest: URR39K68zvW1blQaHtYEsjwEf4l6msjuj59xixXsh+Q=
+
+Name: markers/emotion_embarrass@16.png
+SHA-256-Digest: fxqJNxO6TM+MOrxshtqIRcHxHuKmcclBXJdj5un6SFc=
+
+Name: markers/arrow_up_left@32@2x.png
+SHA-256-Digest: PX1BesUvxhX9Z6tQ6s74ZNaZMoHCm78BU64OV9c+q/8=
+
+Name: markers/other_calendar.png
+SHA-256-Digest: EdR2lFJ//hE5YS4ZjVRSxyVa65SvqUP8DB2WZsMmdjU=
+
+Name: markers/week_wed@16.png
+SHA-256-Digest: aW4P8p8t2tj8jXK/UqTSmP3zy2B8I0O0mANWNzP8N2Y=
+
+Name: markers/symbol_drink.svg
+SHA-256-Digest: fu2JeKSXiLWJEa74aWK0Sv7LbEGKXpEAHUS2bZ68PgU=
+
+Name: markers/symbol_telephone@16.png
+SHA-256-Digest: 8l0OcN4+pz+Cvz0a9ZZPygL5J4LkvotEOSegwqSDdgE=
+
+Name: markers/arrow_down_left@24.png
+SHA-256-Digest: aeZpAOlC2HGj+/0m+W9nuEDlerVCq8GpIJkagNV9KlM=
+
+Name: markers/star_dark_gray@32@2x.png
+SHA-256-Digest: TvDvLsuj069dQyeRJCXoM7fZcqAWTQkeVlic3ZPPUxc=
+
+Name: markers/progress_1q@32.png
+SHA-256-Digest: CXlRaULRlY0IztSQuuuR3Zq8MypqVIvaD/BbOCr654I=
+
+Name: markers/symbol_question@16@2x.png
+SHA-256-Digest: SkPB3W1RevqR6So8N4S3gFwrOcpXrSq+uIDAeP/JyOo=
+
+Name: markers/week_mon@32@2x.png
+SHA-256-Digest: AOFC3zcaYl0DnCRWobrnUu9M16lss5odRPC+j3QCkYQ=
+
+Name: markers/other_businesscard.png
+SHA-256-Digest: beyd0f9kYIXidPFwwNACMk8kfeSgIP3gf1rby/9/SWs=
+
+Name: markers/c_simbol_exclamation@24.png
+SHA-256-Digest: j71ApKq09EQkP6mb3XPbdNdE59jr5puBRWP97gnJ0wE=
+
+Name: markers/week_fri@16@2x.png
+SHA-256-Digest: tBucPbXM6I4Hi3XqYEJgf8oApwbMLnQf4PsTIiEKb6A=
+
+Name: markers/symbol_trophy@16@2x.png
+SHA-256-Digest: FRtTA0Ov8F30wnCglbgcyQM1oYJ4IFTNqnvKv65wb9k=
+
+Name: markers/progress_half@32.png
+SHA-256-Digest: 740Ut93qyoGh8V3JmyMYizVPMV5PslR546Zroypvtuc=
+
+Name: markers/arrow_refresh@24@2x.png
+SHA-256-Digest: S49tiyb5v2ZyBxzMo1HIuiGxSe8Ft6yup6q4Nhg7YTE=
+
+Name: markers/month_mar@32.png
+SHA-256-Digest: pmwXTFewUfYiKKljPNvLwPSrCoJObE/phnOvwd6I6MU=
+
+Name: markers/symbol_dislike.svg
+SHA-256-Digest: 3nMa0jljpe8GkNLYl8cIp6SWxLxNUFcE8knMQKQPU9M=
+
+Name: markers/symbol_exclamation@16.svg
+SHA-256-Digest: GLe0pCHMh6e7Qz8jEISKmxbLLHQjDDd7hdChvTkGN/o=
+
+Name: markers/priority_4@16@2x.png
+SHA-256-Digest: lSXivy+STBwaBghnBMB31oBY4Az3R8JO9LvVTgmq7KE=
+
+Name: markers/symbol_question@16.svg
+SHA-256-Digest: /vO7SW0uItFXn/4ZFKKJ/CAmoymfr3jw0pMcIwB/5x0=
+
+Name: markers/symbol_music@16.png
+SHA-256-Digest: iLZRkQIGKNfQdg+M4pncZVzXfywTgqJXB4WwiBTNeFE=
+
+Name: markers/month_oct@32@2x.png
+SHA-256-Digest: fnY1D5J7CMRFLSfnzLxjewFSZXk+gseYxLCTTuasd8k=
+
+Name: markers/progress_half@24@2x.png
+SHA-256-Digest: Pymjo7kxedGHv1nEwKX4MnZo8S5+8nWRJvDdWRROcgc=
+
+Name: markers/progress_half@16.png
+SHA-256-Digest: zFnI6cFSme+kzP1+1YRiMRRHr5lfIk2ALavVPZPLdYU=
+
+Name: markers/priority_8@24@2x.png
+SHA-256-Digest: n+AWWzXgGOGI9Qb9ciWnDPHtnhdSSGHd3eoHLglPp4Q=
+
+Name: markers/week_mon@32.png
+SHA-256-Digest: YSACezEcUF6vx1Hkeo2vd6g+O7T5+Ds7rZgCDfZ0/80=
+
+Name: templates/education/Compare and Contrast.xmt/attachments/2gen34l
+ 6gbgq7kfagu8gpo2hgt.png
+SHA-256-Digest: TR3x1aXPIV7lt9foP+PFSLuXmseRQKB7hs2qkPb7ERc=
+
+Name: markers/week_mon@16.png
+SHA-256-Digest: rKBJDzYNGipmJ/28RBhfnckc6z9ZVLKQNisDlM4cvNY=
+
+Name: markers/month_nov@32@2x.png
+SHA-256-Digest: eCGcL7pBphQbFdpsq2id/K0mA7poXqg9JGxEGf92b8I=
+
+Name: markers/emotion_angry@24@2x.png
+SHA-256-Digest: QDR1MA5Y+F+kItS28r2LionHPnXb02icBmVSv2bJiqU=
+
+Name: templates/templates.properties
+SHA-256-Digest: J3vxBAJ/enB/ja4UJkysMnXJxqWbL17YrD3rOjvCvmw=
+
+Name: markers/month_jun@16.png
+SHA-256-Digest: m7rJISUB9PImMJK3aDPvw73NtnMgmNCHQriZ6k5U1wQ=
+
+Name: markers/symbol_plus@16@2x.png
+SHA-256-Digest: eYzJd5PWN6Ukb/HwkEeHWq/PSHE6ovAcBDdvJliIXNA=
+
+Name: markers/symbol_exercise@16@2x.png
+SHA-256-Digest: PWGNJ9wJaRY140WrWzpXJ/iCOvGn70G3kmwNb1j0md4=
+
+Name: markers/star_dark_gray@24@2x.png
+SHA-256-Digest: gH0hVuIRM7vfPyxXDddx1HtIwiLybwKIfvIDN4eBnlg=
+
+Name: markers/star_green@16@2x.png
+SHA-256-Digest: op3n0kE4nSEHyDZh8a2WVG8H+HrNjlOhMVtUOFEMBjo=
+
+Name: markers/symbol_information@32@2x.png
+SHA-256-Digest: 8ZXNsHaqTHyfCXyJLW6TemXsWuvwJxYdOvf5PkrSy3Y=
+
+Name: markers/other_bomb.png
+SHA-256-Digest: 0rEMVk00zmZqJQFv5QjhTlJkxrGsqCqunFgZbl9qX7Q=
+
+Name: markers/month_sep@32@2x.png
+SHA-256-Digest: CHleO0JH/DFvJ7q0QnDtWoH5GMgHdFPNc1ltd/Y8RLk=
+
+Name: templates/education/Compare and Contrast.xmt/attachments/4b59vj6
+ up124blfo4hm8iadgt1.png
+SHA-256-Digest: UiE1/KPVthGsLi2zu8zg+xDUB35CqXoAc4hqC8r11JQ=
+
+Name: markers/flag_dark_gray@16@2x.png
+SHA-256-Digest: 94TWY1NzlZZMw4cTssx4foPhLOYK8m0C3qkBMm17g6o=
+
+Name: templates/personal/Shopping List.xmt/extensions/org.xmind.ui.pre
+ sentation.stories.xml
+SHA-256-Digest: RAySsEWHxuMyUV5yRXePeY13FrDzjDkyHQrMcNt6r5c=
+
+Name: markers/emotion_surprise@16@2x.png
+SHA-256-Digest: vpqiug7Ag6N/2IYOgcgN10n0gfa9dZ7fSFIo1V/WA40=
+
+Name: markers/c_simbol_exclamation@16.svg
+SHA-256-Digest: zhiAHpY+fqrsfxtJXZvvOAn3/k47fAuC6b9M8z1hUnY=
+
+Name: markers/symbol_heart@16.png
+SHA-256-Digest: v12Rg9BPZo8sEolFdgWSlVIhvP/rV99rS33P5bj8iYo=
+
+Name: markers/flag_red.png
+SHA-256-Digest: v2jFhndzn1/G7QbtqHUPcEx/iwp4F9Go+zC1sSbvefM=
+
+Name: templates/education/Syllabus.xmt/styles.xml
+SHA-256-Digest: /NJGj5zcry0WSn8QOzkN8OxnUbB9A2bYZ8wPz+FH7v0=
+
+Name: markers/star_blue@32@2x.png
+SHA-256-Digest: jyZkdEwPKFQdyX0wcnEOhtTKXv8YkGtaAwg4CVPst3E=
+
+Name: wallpaper/wall007.png
+SHA-256-Digest: qX2jFtM/Pps3xosa9o0SRk5+PzXYvSgE/1PyeydxI/k=
+
+Name: templates/business/Problem Solving.xmt/META-INF/manifest.xml
+SHA-256-Digest: Dk14DEPreJTtiAgu8dei7CE+y/vH9PKwOnYKlme+Au8=
+
+Name: markers/flag_orange@16.svg
+SHA-256-Digest: gkDVZBDGY8xPhl8D8nvoWHFKwdsITzhcT5WQ6zZ0NPA=
+
+Name: markers/symbol_exercise.svg
+SHA-256-Digest: OFjKZN2gQDybodKv5YHmTSOH13n8LyqXJkHGminW/gM=
+
+Name: markers/progress_1o@16.svg
+SHA-256-Digest: Wvl0FNi6R2cMyBmFAIE8F4iwFe92h7KBUBLLYBzgQHM=
+
+Name: markers/month_jun@24.png
+SHA-256-Digest: UcF/yFnzMndtnolKmSButlRHgU17zZrM8sdvRD8LA2k=
+
+Name: markers/emotion_smile@24@2x.png
+SHA-256-Digest: fUOxFzRmCiCanINY1Y4jjW6oRMxqBccxO9PMZ0sAylI=
+
+Name: templates/business/SWOT Analysis.xmt/META-INF/manifest.xml
+SHA-256-Digest: Dk14DEPreJTtiAgu8dei7CE+y/vH9PKwOnYKlme+Au8=
+
+Name: wallpaper/wall015.png
+SHA-256-Digest: TVi2++pARqV0Tqd/ilzy1w4ZHaGs0i7Rj2bb1TBgsLk=
+
+Name: wallpaper/wallpaper/w16.png
+SHA-256-Digest: OcmmeG5V6SLn23VlU+IzgUeV95vLaYyEp0Pd/d/vFy4=
+
+Name: markers/priority_2@16@2x.png
+SHA-256-Digest: rjMVVgXYDx7+ypWEmTSLX3QSL6fzBAJzpSMeaHJBvJw=
+
+Name: wallpaper/13nbfks65iuumejlh1mdsbpjbv.png
+SHA-256-Digest: vFSTX0oezvB1i9xvY1aOiHRnhoTn1LOKU28LR6heMew=
+
+Name: templates/business/Balance Sheet.xmt/meta.xml
+SHA-256-Digest: kujlzyivpryTxSlZacgFAY0Y3Cppj7epZXRWjGv4O80=
+
+Name: wallpaper/new_wall005.png
+SHA-256-Digest: D25TDoYRJegQGdn8NEHWLt1Y6NZaHAm7HmbPDR5734o=
+
+Name: markers/flag_red@24.png
+SHA-256-Digest: m+ZXJGFyhYdPxz61y3TMf9pj9xyMlrlOOUWFI1Jbmbo=
+
+Name: markers/symbol_exclamation@24.png
+SHA-256-Digest: rG+w1rsOtqc7G7YPz5eCfLeFyIH1MHHUY/DldI/7KfI=
+
+Name: markers/star_yellow@16.svg
+SHA-256-Digest: vOUxqy8wCZFTIhIR9H4XpobZ0piPSWxn3LydSk7Ig7Q=
+
+Name: markers/people_purple@32@2x.png
+SHA-256-Digest: RtK/rJFWRNrE978zlud3Ekuwm5k8fT8MAqlUItj9lHk=
+
+Name: templates/business/Annual Report.xmt/styles.xml
+SHA-256-Digest: XLWMmEylIpHN2iDEfC155Xdp0CRk6ytERiuuuFtcVRM=
+
+Name: templates/personal/Weekly Plan.xmt/content.xml
+SHA-256-Digest: it9yMIIWFyNRzV6INUXBpZG07BRnACUkAavsWDhFfYY=
+
+Name: markers/flag_red@16.svg
+SHA-256-Digest: bXoUdyQd5waGTEsE5VOqvwAFVQjrMDaw8kmi76OAwwU=
+
+Name: styles/styles_zh_CN.xml
+SHA-256-Digest: ZN9O1he1I14ctu9vYe1Lo1PdJj+Pu3rsC4k0mou156c=
+
+Name: markers/week_sat@16@2x.png
+SHA-256-Digest: +zbJ23eCVJmF+VNmTq7eGInvzd2kGfUH+pwWbklHw3A=
+
+Name: markers/symbol_contact@16.png
+SHA-256-Digest: qGuIrP0BNu2vSx7SMzXszbdt78PQsw+NmnxYuW7tBls=
+
+Name: wallpaper/wallpaper/w5.png
+SHA-256-Digest: CTjQwvDE7k4FcXbXjersn31WHTy3ieygzIpaJQ+DHKU=
+
+Name: markers/star_purple_half.png
+SHA-256-Digest: H/i0T+lcHsqESNkdNtxHkIzh5LILYrp70rUfSGBK3e0=
+
+Name: markers/progress_1o@32.png
+SHA-256-Digest: smpqAB8AsqaXv+9B9TSZTHcQeOovlYrDYS5zX/y4TL8=
+
+Name: markers/star_blue@24@2x.png
+SHA-256-Digest: Fb9sPyvWWRgwbZDuo2DEXoca5e8AvF1Deqf0HqsQELU=
+
+Name: markers/arrow_down_left@32@2x.png
+SHA-256-Digest: f2fdjxPaW6Neljg8HoYJMoMxpuRIyUp40sDnjVGr9ek=
+
+Name: markers/flag_purple@24.png
+SHA-256-Digest: UahM7PWpvXSzILmvFEkI78NOeMm8YP1nw1HbtsbhL7k=
+
+Name: templates/personal/Diet Plan.xmt/attachments/77onbe7b8lb1ad8php1
+ n38aj90.png
+SHA-256-Digest: HkkZwMFThiMVhaRD8Pm+6xScAROUQUc+TVQo3X+TYI4=
+
+Name: markers/symbol_attention@16.png
+SHA-256-Digest: vzhGxw2qRNrrIBf0J/XsjkqpMvQ70+jftgYdFCjK2sQ=
+
+Name: markers/flag_blue@32.png
+SHA-256-Digest: mS8HeRN8oV2OwMvZ4P8rrLvQB3QCCfdTeg9GADmHPTM=
+
+Name: templates/personal/Diet Plan.xmt/content.xml
+SHA-256-Digest: KPj3T7WFY9ytGiwOS/C6C/fQcURo30ldWlrbnByAzDU=
+
+Name: wallpaper/wall001.png
+SHA-256-Digest: 8XkjGqGRagX4XpoQfqZI6ysT+V3xd8TOI2WsHTz3ugc=
+
+Name: markers/month_aug@16@2x.png
+SHA-256-Digest: 2BMfOYEjaGhVv+4OGA6tWV4KNP4nsJRgyC9bBrQVW/w=
+
+Name: markers/emotion_cry@16.png
+SHA-256-Digest: pn13TWWkjZY85U1FJkkxmOKBKA8H7LEcLiwrBHuzVAY=
+
+Name: markers/flag_orange@32.png
+SHA-256-Digest: HrsGvvE5UUrV73xSUpA5jJO5OsJA+hMJTCX9ET0y5kc=
+
+Name: markers/arrow_refresh@32.png
+SHA-256-Digest: 0infXrKLObQo/nIqtCsRql0x3tFpy8Z4IPfq44TbxV4=
+
+Name: markers/arrow_refresh@16.png
+SHA-256-Digest: 6dI2bh4SObZ4uLvVoqTLFbG3jgj7vwjbdGn2ag9mr98=
+
+Name: markers/week_sat@24@2x.png
+SHA-256-Digest: gtCRXiULvS+1CN+IqbwyTR+v3C09fqC9stLPLXGfbUc=
+
+Name: templates/business/Business Timeline.xmt/META-INF/manifest.xml
+SHA-256-Digest: 1fL5lif6bstXhQozUSwWztuU6UgfOV2Oq8JIO7fQ4qA=
+
+Name: markers/symbol_dislike@32@2x.png
+SHA-256-Digest: q8SSbR03dry1hGvDFWbIf6ZgJlsPQj6OGQtyyUAUF6E=
+
+Name: templates/personal/Travel Plan.xmt/attachments/0ijh81ov3pbcd814t
+ f2t9o7u6u.png
+SHA-256-Digest: HSrHHA7s5Rij6ocE07YUrGZ0D4lzn7iQ2RsUDS7mtw0=
+
+Name: markers/flag_blue@16.png
+SHA-256-Digest: NNdx42DpX6vGlB37LXwh3kWpt0dP4shp5KDlmMlGmsU=
+
+Name: markers/priority_6@16@2x.png
+SHA-256-Digest: 0EoSLOHLtaRyANPWYzBu2yonT/Z8HX13dsazXElHsjc=
+
+Name: templates/education/Example of Workflow.xmt/Thumbnails/thumbnail
+ .png
+SHA-256-Digest: CSEt018CdtBREylApX8A6C83NsDLn0s7tUkAk//rV8Y=
+
+Name: markers/people_dark_gray@24@2x.png
+SHA-256-Digest: CKRoFeMakCY3qzSjPRtSE8ZxzhqAkDqcTexIE8/dex8=
+
+Name: markers/priority_7@16.svg
+SHA-256-Digest: CjlUQFF8EZiRRLjggzeXfneRryqIDcDXjyBBsRuPx5U=
+
+Name: markers/people_purple@24@2x.png
+SHA-256-Digest: beI9/URrmYgJpxZAF0vIOhz5LE5P1dqOaBdS/0w2h9A=
+
+Name: markers/flag_dark_green@16.png
+SHA-256-Digest: VcClX1GTIR5Y0pwqkz17J8EYtvGmJspvRj0b+52CdnE=
+
+Name: markers/star_green@24.png
+SHA-256-Digest: vYNp6/BfG10NIBCx0fdgTGALlvPYSVs92G+xrwDPhZM=
+
+Name: markers/star_dark_gray@16.svg
+SHA-256-Digest: lg8emxX5m4k6jGSpVsuYWKZFjyaUBEi1SACbYzKC10o=
+
+Name: styles/themeGroups.xml
+SHA-256-Digest: QigkZ52JR+XhrWOwDcRoRez7B1325LpVOuLINLMtjW8=
+
+Name: markers/c_simbol_question@16.png
+SHA-256-Digest: z2Lm4l6Hu0VFN5ropUkASSc1rxyWM7tEaJlgmgECQWk=
+
+Name: wallpaper/wall016.png
+SHA-256-Digest: GkjP+Cca2/vY6GEUojlGlcH82kptTUXG8iyTJmsf05Y=
+
+Name: templates/education/Exam Review Plan.xmt/content.xml
+SHA-256-Digest: ujoe43daUjz0/pqSUDGbq4GAgLi3sWyOHlrcxyEx4YM=
+
+Name: markers/arrow_down_left@24@2x.png
+SHA-256-Digest: /919zA020LMvyeo8FWmrwbQX4CT/3OKxWBYF5snsYtY=
+
+Name: markers/emotion_angry@16.png
+SHA-256-Digest: aWdnJ5dg8Qo9rDnJsLx8zLR5NZTID4Xks2SwiVtP7Vw=
+
+Name: markers/emotion_cry@24@2x.png
+SHA-256-Digest: hiRz/q2F+VYWAQ2qprfB6rSzlF3ReeWU3eQXMSeBTBM=
+
+Name: markers/emotion_laugh@16@2x.png
+SHA-256-Digest: U7MCjByP8o57gGjsTSf4BjKc4FKVLKx74TrXNLOWcS4=
+
+Name: markers/symbol_pen.svg
+SHA-256-Digest: f7kGB2lO2tCtQfWFADLX67OAZeZU5xMh6Nptftwq4i4=
+
+Name: markers/symbol_thermometer@16.png
+SHA-256-Digest: Hcnw3TPTBR6eXuer8lWRx/fO24qKOG3lAUPE+HLo7KE=
+
+Name: wallpaper/wall006.png
+SHA-256-Digest: P0UTrLDjrGaqDrPdnFEKvGisiVVmxwcrrz5J1p8MBIM=
+
+Name: markers/symbol_flight@32@2x.png
+SHA-256-Digest: NkhyQHVHjeyPAnlMS2QsQV/J8vxWyFG5FHflks/3cLY=
+
+Name: wallpaper/new_wall006.png
+SHA-256-Digest: aIcfVJgnEw3wSVlA7l7wI1gBZtEuEJRjB+W/aq8KtEI=
+
+Name: wallpaper/wallpaper/w15.png
+SHA-256-Digest: LyvfqoCDmc0rZa9f8fg9cb9hMmsxnIM5I6HrlXqomj4=
+
+Name: markers/flag_yellow@24.png
+SHA-256-Digest: ikxUB9zuT+QefTzQmkomVBKA17yvidGsUYCyBSHyYyA=
+
+Name: markers/month_sep@24@2x.png
+SHA-256-Digest: LiZ2YK0D+XSybKEaIMsEVqloaACoCNLWphsV1e9sTFo=
+
+Name: markers/month_feb@16@2x.png
+SHA-256-Digest: VNu7Q4wjeV21PYkP+sDDJZMnJLgFSFKMEuSxBsZyQS4=
+
+Name: markers/people_gray@24.png
+SHA-256-Digest: NX1Pi9FWVDzRtxvqftp07vmFLp/qdn1kt8gWcHsyaDE=
+
+Name: wallpaper/1ajkkqfsu79gtbd788th0bagii.png
+SHA-256-Digest: ck4HVw4Z2lnkTGLGOB93ukx74ydwEXQ+sewAnKClkfw=
+
+Name: markers/other_chat.png
+SHA-256-Digest: w2OEnbL9r3qL7NyvEb5doj0bOxw5X0dLLzUe67zi1MM=
+
+Name: templates/education/Example of Workflow.xmt/META-INF/manifest.xm
+ l
+SHA-256-Digest: Dk14DEPreJTtiAgu8dei7CE+y/vH9PKwOnYKlme+Au8=
+
+Name: markers/progress_7o@24.png
+SHA-256-Digest: zMTqhn3+Sz/CeZoIpnquZufxbFQ7hsI2Jk/W+uKoGE8=
+
+Name: markers/arrow_down@24.png
+SHA-256-Digest: RlGPru1rpU3dXTUpe9JGWDmmOPSuMVWShYO6nLBnGfs=
+
+Name: markers/priority_4@16.svg
+SHA-256-Digest: 59oVZJXYSmeZ/HEW6lpUE0eaH7RT+o40EAx/PTXXdNM=
+
+Name: markers/priority_6@24@2x.png
+SHA-256-Digest: c+aBYHlfW9zg6kNAk6JHJe1+DbUwsMSxKYEdrdIh7LI=
+
+Name: markers/c_simbol_plus@16.png
+SHA-256-Digest: v4yBJtuOcACR6LBEaF56PH0iyDAXP2ZUW8doWbqXz0I=
+
+Name: markers/progress_3q@16@2x.png
+SHA-256-Digest: 1mUu/fncyNmjN0WxQEQvMrPZawTo7eq/Mrq99iitUIQ=
+
+Name: markers/symbol_trophy.svg
+SHA-256-Digest: yYgRyPmpqjju6rMctE/vnY3yto8IOwD68PMp+Zw8YMY=
+
+Name: markers/people_red@16.png
+SHA-256-Digest: 6rmExCgA2lQyJrj4G5Bx4a9TULxy9W0OAwnbnrg2d/g=
+
+Name: markers/other_yes.png
+SHA-256-Digest: ZPozN+4fdqHDB683HSBFsse90tQWE9upbY3WY5tkFvU=
+
+Name: wallpaper/wall002.png
+SHA-256-Digest: ck4HVw4Z2lnkTGLGOB93ukx74ydwEXQ+sewAnKClkfw=
+
+Name: markers/people_green@16.svg
+SHA-256-Digest: ffZjCJy1CJleRDXH+mUGGy6mefbj1yTf7ZW0xLeZbEM=
+
+Name: markers/month_dec@24@2x.png
+SHA-256-Digest: EZxoxJ1kx+SSOMEwlxvQ40mTtnxS14OXB8bub/U3p44=
+
+Name: markers/month_apr@16.png
+SHA-256-Digest: YjnWytMU/qDP+me8ragBlBrujNr8wOCvAcYX6gBL3rc=
+
+Name: styles/themes_zh_TW.xml
+SHA-256-Digest: 3Ue7OoVUVw86HVJqaKP28rMU3o/sOLgZ7Ishrm5Qqj0=
+
+Name: templates/personal/Diet Plan.xmt/meta.xml
+SHA-256-Digest: sxR2NJDAXTk6eN2ZYFt35wlqMnWAwYyZ5YOKa113iEY=
+
+Name: markers/week_sun@24@2x.png
+SHA-256-Digest: 8XW/Cfa4+tJA594xMEFU5CAqMMCQJ856F9lPcZqVWd4=
+
+Name: markers/flag_orange@24@2x.png
+SHA-256-Digest: WabuGPbf4j73OI43o6w061hVioBSUDp2HxppfeN5Vlg=
+
+Name: markers/progress_3o@32.png
+SHA-256-Digest: Qr7dOyCptZZCjqWV1IFWLKc1ji9Qx0hBhHQ7/1PsWbs=
+
+Name: markers/progress_3q@32.png
+SHA-256-Digest: ogpkP2GvoLx178p6UxfKcWGzBhx5JN5oLkbVSA/YOpY=
+
+Name: templates/business/XMind 10 Years.xmt/Thumbnails/thumbnail.png
+SHA-256-Digest: vwrzjDhe/d256HFL1QTAuLXT2GdwfIrGwAlupmxo/7E=
+
+Name: markers/people_blue@32.png
+SHA-256-Digest: /t++5islzBAfPmceAhDOhPdQZWM9LkwaMNRCfNkQbgs=
+
+Name: templates/personal/Shopping List.xmt/content.xml
+SHA-256-Digest: iqwYnpZAETgjKO+bsX6PIjvXhhNRiD5wUJrTrQG+dSY=
+
+Name: templates/business/Balance Sheet.xmt/styles.xml
+SHA-256-Digest: wnUigaTMnuwi5d+2FHd+FiMSHQQCP6JlK9gwIMckd30=
+
+Name: markers/progress_3o@16.png
+SHA-256-Digest: hPHYmY2SU6aDOvWp1fZ3+wUzqcib40Jy3jEDAoJMi4U=
+
+Name: markers/arrow_right@24.png
+SHA-256-Digest: /k78G/mZe2URYbspC2B5wZ51Z5Chl5r28vFLIBrrEMk=
+
+Name: markers/star_dark_green@24@2x.png
+SHA-256-Digest: MFK4CPwXodgGksgNeh31GI7GGAKtUzeQ7kYVRzX8yPM=
+
+Name: markers/emotion_cry@32@2x.png
+SHA-256-Digest: qs+Afil0BDras02UgKEFCL6ltYGOG420BgXq7EjaoQM=
+
+Name: markers/symbol_pause@16.svg
+SHA-256-Digest: fZC8KBQkYv9wpVWDuVa9Kkbp9b1QWxC7QXQUrfzuprM=
+
+Name: markers/other_no.png
+SHA-256-Digest: xwVEUH1D0sbQxK0z5rwJacsopRrnD+qKgM1fu4svRVI=
+
+Name: markers/flag_blue.png
+SHA-256-Digest: vWQiDDAJdN/gnJhSPCApFShNQVL8RknvmrXkC4Z8gBg=
+
+Name: templates/education/Paper Outline.xmt/META-INF/manifest.xml
+SHA-256-Digest: Dk14DEPreJTtiAgu8dei7CE+y/vH9PKwOnYKlme+Au8=
+
+Name: markers/emotion_boring@16.svg
+SHA-256-Digest: SYauSUTKH7iwsZ8d+yXoD6SV79j9p7f1aYkkRW0BY/Y=
+
+Name: markers/marker-16.png
+SHA-256-Digest: d+4Qq8+GD4/tn4ES8BFHXKzkvW3HkHWw5tO7OEGDCbM=
+
+Name: markers/symbol_minus@32@2x.png
+SHA-256-Digest: Vv+dWpOFrMswzJfLB5nOeqcr59ihwZ4cir9p+TGJEbY=
+
+Name: templates/business/Projects Dashboard.xmt/META-INF/manifest.xml
+SHA-256-Digest: mTFjRuTcrBV3DiRG8l0LxTOtYFK43SQxUCGsWqqw4AA=
+
+Name: markers/arrow_up_right@16.png
+SHA-256-Digest: rnG9qE4j64KmZ0mSMXOY8iXdQ421eGwgR7HCcHMidkY=
+
+Name: markers/month_may@32.png
+SHA-256-Digest: WUZfHZi24dBqHAoaW78qQN+NS5/cYEsY0AjUcT6ntmI=
+
+Name: templates/education/Example of Workflow.xmt/styles.xml
+SHA-256-Digest: fui4oAx6ABf4HalYwiqsLE6TrsZKkB63vD6EeYoeRgM=
+
+Name: wallpaper/wall017.png
+SHA-256-Digest: C5gXHxCv8Ms16nwh884KE9DgbDWjnl7Nxfz7cMruIv0=
+
+Name: markers/star_orange@16.svg
+SHA-256-Digest: 4ASGQYEDc+xtjS401qxsvLLxc4bwHXQAKSIpyVuEqO8=
+
+Name: markers/c_simbol_information@16.svg
+SHA-256-Digest: 3Rs0P+jw5VhstAkQj73pGEwjuJijYTthBsc2x61Vg+k=
+
+Name: markers/progress_3o@16@2x.png
+SHA-256-Digest: XYHPrGHLf8GetcHkCTiDmRK1UChy02h4+I/hGiQbsio=
+
+Name: templates/business/Manufactory Flow.xmt/META-INF/manifest.xml
+SHA-256-Digest: Dk14DEPreJTtiAgu8dei7CE+y/vH9PKwOnYKlme+Au8=
+
+Name: markers/c_simbol_wrong@24.png
+SHA-256-Digest: KQJ5jTAHgoEkTbqguwlfil6ITNe2+eMIwT9eHqiUQtk=
+
+Name: markers/symbol_like@24@2x.png
+SHA-256-Digest: x5sMIJSCMpYxaWpYYMQJO8iGxV54m1cQSjC37r3f8GU=
+
+Name: markers/star_purple@24.png
+SHA-256-Digest: iut3R4jiBrJMYX/A+MrWqZOQLGkVzRWXG/RYb82KjqY=
+
+Name: markers/progress_half@32@2x.png
+SHA-256-Digest: 10elW8m8fQY9kHufLPoAoYyAXtBMeM8PJdxEiSmsHrc=
+
+Name: markers/symbol_music@16@2x.png
+SHA-256-Digest: 4rjzfdOSd2UOd1SvRZFCeDeDqc4TuRoEWD8MF5eLHBs=
+
+Name: wallpaper/new_wall007.png
+SHA-256-Digest: RvnJSJZnBdk42Byi3FzFzPqxDOuB2KLI011gt7xyUg0=
+
+Name: markers/progress_done@16.png
+SHA-256-Digest: DxQuXjcHdfNjWJhaYMt7zyyoceat8xS9Zx5anRLBjA8=
+
+Name: markers/arrow_up_left@16.png
+SHA-256-Digest: GMFc0veY9dGM7CueFefRiZZ2n+FUpMyCzd1fJns39Yc=
+
+Name: markers/symbol_bar_chart.svg
+SHA-256-Digest: u1rvCwYiNCOWVbKwZgkdGm5LmMCq9nTQhIA6Sk+4Ikw=
+
+Name: markers/progress_1q@32@2x.png
+SHA-256-Digest: 3T9gnpe9foIRzEw55uDvT/PBpDmsUXPC0/PlD7EP53c=
+
+Name: markers/emotion_boring@24.png
+SHA-256-Digest: nsr7CtVU2fkLo45hZ1voKrtA+OKVOoisu5n1jX/tjQ0=
+
+Name: markers/symbol_right@32@2x.png
+SHA-256-Digest: ZY3w+iSyTCgDkmNowdGVDfqG/K1nPdlKiQHnsYMSQdA=
+
+Name: markers/emotion_laugh@32.png
+SHA-256-Digest: em4yOny65UiaupZQoU80vC9KhF6TfPvbfIbFUTz+k5M=
+
+Name: markers/month_oct@24@2x.png
+SHA-256-Digest: fp0NhukK8lqu8xGJKH9doSJh4DzA5z55B9r//+UdmQg=
+
+Name: templates/personal/Travel Plan.xmt/meta.xml
+SHA-256-Digest: ByeRFfXmsTYaY42/Tx+RMsrC/ws2sVLNXS2i4gB7UOE=
+
+Name: templates/business/Balance Sheet.xmt/META-INF/manifest.xml
+SHA-256-Digest: Dk14DEPreJTtiAgu8dei7CE+y/vH9PKwOnYKlme+Au8=
+
+Name: markers/star_gray.png
+SHA-256-Digest: VBhzNfr0Sh4S7Iv70Y7xu5FBywX0seePnpwRN1taq5I=
+
+Name: markers/week_sat@16.png
+SHA-256-Digest: +zbJ23eCVJmF+VNmTq7eGInvzd2kGfUH+pwWbklHw3A=
+
+Name: templates/personal/Party Preparation.xmt/attachments/71r77d0lamr
+ ppvupov6u0n656c.png
+SHA-256-Digest: XBALpraUrT/v4lyp2VfcQpwe3qUjLvvwYI1cCWiVrbI=
+
+Name: markers/sym_attention@32@2x.png
+SHA-256-Digest: fuMccwGEmq7SetGqqN4xyDRb4W9rzStG2VI9JLZIOxg=
+
+Name: wallpaper/wall030.png
+SHA-256-Digest: dkDrF5wzS9JytASU8SAr1nqXfzwQ5KgVO6+H2xcMLYc=
+
+Name: markers/flag_blue@32@2x.png
+SHA-256-Digest: q/mpXM36ggxx0EZsgqlxeLp94tODzmLliuU9uvBg8iY=
+
+Name: markers/month_feb@16.svg
+SHA-256-Digest: uzcmoclAJOXuHeeqYiSWmi48gp8a/bq2Lv0xtGURWdE=
+
+Name: templates/business/Business Plan.xmt/meta.xml
+SHA-256-Digest: hUEeUqXeXHqor8fP5N1dfk8vf/tn1n/cW9JaqFlSKk0=
+
+Name: markers/symbol_dislike@24@2x.png
+SHA-256-Digest: c0pQ+58Yazx9wP2IJHENNYiSgzSN/jm3pyUB6KphE64=
+
+Name: markers/people_dark_gray@16@2x.png
+SHA-256-Digest: iMfA2eFtNUjkyh9OF6rmsyG1mZZhadqljyIH5pUfrIU=
+
+Name: wallpaper/wallpaper/w14.png
+SHA-256-Digest: NRVayz/9HIryy9Yyum5T9pnIg/a5TvvcCQDj4MrDFoI=
+
+Name: markers/progress_7o@32@2x.png
+SHA-256-Digest: Mcjo6NcYd4zA2iGp3tS85PXotuJi3hZEx0fyNp0W4ZE=
+
+Name: markers/symbol_trophy@24@2x.png
+SHA-256-Digest: hOr6ICpOzoTne0DrtV5IpSB93O95f6lfmwhmWU1GD7M=
+
+Name: markers/priority_2@16.svg
+SHA-256-Digest: 8OM1Lb9VX2ndcgkSZZwf8cx5zAWG8FKeeXzMAIbtmOs=
+
+Name: markers/star_yellow@24.png
+SHA-256-Digest: kB4OnTlTHXlGv85m87qDZB8LrqJhTjvBZrCh8Ag1qa4=
+
+Name: markers/symbol_wrong@32.png
+SHA-256-Digest: mp2+gJ4SOH7DRM2n0UjrvR/jFByY6+VsxxxzRqF/ikA=
+
+Name: markers/month_jan@32@2x.png
+SHA-256-Digest: BUvBAXm5MjEz4ODojzq9uWvvdDvl1Y5wXlJfAwTI5h0=
+
+Name: markers/flag_dark_gray@24@2x.png
+SHA-256-Digest: FqviwyaD+Dg7SMnUqv8gzXCShIeRyyTA7RhM0/mBzJI=
+
+Name: wallpaper/wallpaper/w13.png
+SHA-256-Digest: Ny8TCNRpW/o9R0wD2NSYrOdI67FSOLegIbS4u18vGDY=
+
+Name: markers/emotion_boring@16@2x.png
+SHA-256-Digest: mxhGjMk+xxGHaMJbP6tWSLa8Q8aD+wZpDV/Z89707Lg=
+
+Name: wallpaper/wall003.png
+SHA-256-Digest: pIf/AnyFDi5AYytIM4wjpKe9r6/UoY6vsHYrLf52H1Q=
+
+Name: templates/business/SWOT Analysis.xmt/styles.xml
+SHA-256-Digest: XPd0vNwHtVxRvuyyxUampV/+Ubqu5RFoq8Ocw0R97rU=
+
+Name: markers/week_thu@16@2x.png
+SHA-256-Digest: WFHodt0Yy3UiImZWHfmCKV+QvCw7ZKvGgVRz/dFXOEY=
+
+Name: markers/month_may@16@2x.png
+SHA-256-Digest: vO3z1rQ7zt9Tf/GWwBWmS4p/nlgWdCJcPi4UsNWs/CE=
+
+Name: templates/business/Business Timeline.xmt/styles.xml
+SHA-256-Digest: ER56KjRgNbyVkDSQwWqkPoFFGz+O8S1VCqsunMoUexQ=
+
+Name: markers/progress_done@16@2x.png
+SHA-256-Digest: Djms97SW2h3NHi4uyytI8zH1BlsvvQcQoToIKmSPtvU=
+
+Name: markers/week_fri@24.png
+SHA-256-Digest: EuIxq+bYo43oIW+edBRNpbvcOr+RU+I/FZp4pqyi7vo=
+
+Name: markers/month_dec@24.png
+SHA-256-Digest: 4Dui3egDJHJoo7dvstwH+39QJ/nSgHOSE7OgiI/q0FM=
+
+Name: markers/star_blue@32.png
+SHA-256-Digest: bRdKsx3PcvWXUZx+rNdFrpiVSpTqgQ5sXIfG7Krjkl0=
+
+Name: templates/business/Company Hierarchy.xmt/attachments/0oo0v3r6b7p
+ q8pugr9u4df1l59.png
+SHA-256-Digest: 5I1uYFN7rgWtDHwLCgLWfHwBwPxcPJzcJsuEcN8jzdw=
+
+Name: wallpaper/wall018.png
+SHA-256-Digest: 6yYoV13ol+xa+G58cVyu60862WdDAU8qUnEpj95CqRA=
+
+Name: markers/progress_1q@16.svg
+SHA-256-Digest: HcuMHCYyM9s7j04kTCNKLSpYk4HNOBfc0iYPpVXQc/M=
+
+Name: wallpaper/new_wall009.png
+SHA-256-Digest: D7K0+Zpk+XH+it82u5999Vt28NiHgmPC1CGx19dMuOY=
+
+Name: markers/priority_9@24.png
+SHA-256-Digest: xF5+rN6QR2/sMToEyHa+rrCFcz1y0kj5ZBMDAdRcsEA=
+
+Name: markers/priority_8@16.png
+SHA-256-Digest: i1aRV36eK+/m2yAIKppld90VyKLcoKCK7EKg2apZZRM=
+
+Name: markers/symbol_question@24@2x.png
+SHA-256-Digest: IcA95KCps173dQmcqy0Fb+looOeDkhb9LkMkPiCULUQ=
+
+Name: markers/star_green@16.svg
+SHA-256-Digest: ySnRDV3XD04+m7miiPldOv+9CkMUH9y0NrbhNiyhkOs=
+
+Name: templates/business/Sales Management.xmt/attachments/7qm4j10obb7b
+ 3i4tgkp4n6npp7.png
+SHA-256-Digest: c0+QyrTHghc+Oi9jJnrQhedspuu498jcEvSwakfxr3M=
+
+Name: templates/business/Cause and Effect.xmt/Thumbnails/thumbnail.png
+SHA-256-Digest: LYTCJC78bb42G5TQRtafLuKE4bEJAh5YTuhC6Sshw2k=
+
+Name: markers/month_jul@24.png
+SHA-256-Digest: 4jhfFsV4OIl2Ob8D41vMzKefecnOoK0kxh2Avj4y054=
+
+Name: markers/star_red@32@2x.png
+SHA-256-Digest: 8W7vvEFblQQ/USGk3dseqjgV/yMD6khssXz9LiddP9A=
+
+Name: markers/arrow_up@32.png
+SHA-256-Digest: v48chOrZPwsjZ0i+iThijDb/yZ+TCYxDxJMn5xfNRvA=
+
+Name: markers/flag_purple@16.svg
+SHA-256-Digest: mnmDdWu1I4LmTLR8JTUObztU5WU9+gPgJkuibaa90Ck=
+
+Name: templates/personal/Resume (CV).xmt/content.xml
+SHA-256-Digest: 1e2DgsOZr8CqWgzKU9/TKEEpFFe1T7v6XNb1DZaEswY=
+
+Name: markers/symbol_question@24.png
+SHA-256-Digest: ry5XdrCfzghmeCpxuzqQgoHJr4UI9HDBfes4+q425p4=
+
+Name: markers/symbol_line_graph@32@2x.png
+SHA-256-Digest: 2P24whEZ6zgBCGfPI6YBKUmNnvcweIrUw5LuyXPmgww=
+
+Name: templates/education/Example of Workflow.xmt/content.xml
+SHA-256-Digest: wGsxmt3DqQghb4xqseeCiwhK5Hdg6GvYK3mW1ZhDdHQ=
+
+Name: markers/arrow_refresh@32@2x.png
+SHA-256-Digest: YLoty5KINV6I5RKXlwxTGEEh6nHkOfC+EOTnQ2bZ6XE=
+
+Name: markers/symbol_money@24@2x.png
+SHA-256-Digest: rWe723wPU5iIJ6RsS0Lx/miJRZcs+oahA7rcL/pjnH8=
+
+Name: markers/flag_gray@24.png
+SHA-256-Digest: +z+/Sv3ahNw2I/gM12Cd7H9EzceErbbmcWOQiF8YrQ0=
+
+Name: templates/business/Projects Dashboard.xmt/styles.xml
+SHA-256-Digest: tRsVEcecBOFkpyyeSHKxuq4xNC1pfnkajiWU6yDZ1YM=
+
+Name: markers/symbol_medals@16.png
+SHA-256-Digest: PLyqAZO5av4s57wY8ktMo0v8SyzvXh6D8DwShT2Xh0g=
+
+Name: about.html
+SHA-256-Digest: zIP/do0RthmafXjThr5FKRgwokiG8oPXBVIhy6B3atk=
+
+Name: templates/personal/Travel Plan.xmt/META-INF/manifest.xml
+SHA-256-Digest: U1HyIvFPrF1JILJFxqbJpLkpD+Qg/DUYeisLsnMpzRo=
+
+Name: markers/emotion_angry@32@2x.png
+SHA-256-Digest: rp4YZEcFjYaUMlvRT/7nMxcYbzJB6+YsHZj3NvP8ULk=
+
+Name: markers/arrow_right@32@2x.png
+SHA-256-Digest: GkXPIiMYkw3Hp1MIsp2A0YrPskunpkRS2+UlYZjPE5c=
+
+Name: markers/priority_5@32.png
+SHA-256-Digest: e/MEwQ1IbqtpJ8PAwaXOBEY81OW3JcjwFth/oOCAlq8=
+
+Name: markers/priority_3@16.png
+SHA-256-Digest: 26XUtSxHi80cTdml1eem/+HbsfJQ/qy/f1VkLSSgKd4=
+
+Name: markers/people_orange@32.png
+SHA-256-Digest: JRVE96H8esmSGaW0y2oa20zTZ05fN0niEnbrehhqclM=
+
+Name: templates/business/Meeting Management.xmt/Thumbnails/thumbnail.p
+ ng
+SHA-256-Digest: RrCh2RPhfpo6KE16VaQ2S/2HE2+eDuVBpNbfa2MkGU8=
+
+Name: markers/arrow_up_right@24@2x.png
+SHA-256-Digest: JFP+oWUOaMaOKqwtB+tTOeyQ88Db7ZhdWHENNUadm9g=
+
+Name: markers/symbol_shopping_cart@32@2x.png
+SHA-256-Digest: djEjMUXBY0Mfn7ppA6oIFQT2hYMhmbhX6h/okbNrzeE=
+
+Name: markers/star_dark_green@16.png
+SHA-256-Digest: irV7amfQ+xESl0Lot48TcGxzO+6HIUpSoWl5eo4p3iU=
+
+Name: markers/month_jan@24.png
+SHA-256-Digest: SFijlv1OwfrbB5v7aWpypmHC2ppoiVs14XYQzLmgLLM=
+
+Name: markers/flag_yellow@16.svg
+SHA-256-Digest: RXjyMbWgviXFFXvYTSEH9dGDzdmzsWhrpOJbP3fBDqQ=
+
+Name: templates/business/SWOT Analysis.xmt/Thumbnails/thumbnail.png
+SHA-256-Digest: eALQoF/xCJu2B0CKkZ+NGW08qk7oW50l+hI9vK91rpo=
+
+Name: markers/priority_4@24.png
+SHA-256-Digest: /P8V7KfHa2JhNnlncn+SDqB/6ABFVSpdrrFHmY7m6Kg=
+
+Name: markers/month_mar@16.png
+SHA-256-Digest: zl0zyegZJp1zROxU5Q7HYhZlQr+C1DtD+ziyywsEvL8=
+
+Name: templates/business/Sales Management.xmt/Thumbnails/thumbnail.png
+SHA-256-Digest: wJ+zppL3xi8ULjQ35navpKy911Vw0LgAubd3bWN3CVc=
+

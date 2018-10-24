@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.xmind.ui.help.nl_ar;singleton:=true
+Bundle-Name: XMind Help Arabic Language Support
+Bundle-Version: 3.7.6.201801311814
+Archiver-Version: Plexus Archiver
+Built-By: frankshaka
+Bundle-ManifestVersion: 2
+Bundle-Vendor: XMind Ltd.
+Fragment-Host: org.xmind.ui.help
+Created-By: Apache Maven 3.3.3
+Build-Jdk: 1.8.0_152
+Eclipse-BundleShape: dir
+
+Name: about.html
+SHA-256-Digest: zIP/do0RthmafXjThr5FKRgwokiG8oPXBVIhy6B3atk=
+
+Name: META-INF/maven/org.xmind.help.plugins/org.xmind.ui.help.nl_ar/po
+ m.xml
+SHA-256-Digest: hngqBMfNse+Bu/Tm1tWNBkSgsAAg0Z3kPEHDnGhRG+w=
+
+Name: plugin_ar.properties
+SHA-256-Digest: K4uR44IXErFSvcCzY79J8CmeW9cTSBiB5w1LBSIQj5Q=
+
+Name: META-INF/maven/org.xmind.help.plugins/org.xmind.ui.help.nl_ar/po
+ m.properties
+SHA-256-Digest: UwEFDN+uGZ384W6xilGC6djuhBV4abeHUbFwdiTyZoA=
+
